@@ -1,0 +1,65 @@
+title: Review
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: title
+        field:
+          input_type: text
+          type: text
+          localizable: false
+          listable: true
+          display: Title
+          validate: required
+      -
+        handle: author
+        field:
+          input_type: text
+          type: text
+          localizable: false
+          listable: true
+          display: Author
+          validate: required
+      -
+        handle: content
+        field:
+          restrict: false
+          automatic_line_breaks: true
+          automatic_links: false
+          escape_markup: true
+          smartypants: true
+          type: markdown
+          localizable: false
+          listable: false
+          display: Content
+          validate: required
+      -
+        handle: publication
+        field:
+          input_type: text
+          type: text
+          localizable: false
+          listable: hidden
+          display: Publication
+          validate: required
+          width: 50
+      -
+        handle: year
+        field:
+          input_type: number
+          type: text
+          localizable: false
+          width: 50
+          listable: true
+          display: Year
+          validate: required|integer
+      -
+        handle: link
+        field:
+          input_type: text
+          type: text
+          localizable: false
+          listable: false
+          display: Link
+          validate: active_url|required

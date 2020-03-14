@@ -1,0 +1,9 @@
+title: Reviews
+template: reviews/show
+blueprints:
+  - review
+revisions: false
+default_status: draft
+date_behavior:
+  past: public
+  future: private
