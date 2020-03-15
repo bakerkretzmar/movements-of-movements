@@ -5,12 +5,16 @@ mix.disableNotifications()
 
 mix.js('resources/js/site.js', 'public/js')
     .postCss('resources/css/site.css', 'public/css', [
+        require('postcss-import'),
         require('tailwindcss'),
+        require('postcss-nesting'),
     ])
     // .version()
 
 if (mix.inProduction()) {
-    mix.sourceMaps().purgeCss()
+    mix.sourceMaps().purgeCss({
+        whitelistSelectorsChildren: [/^content/],
+    })
 }
 
 // mix.js('resources/js/cp.js', 'public/vendor/app/js')
