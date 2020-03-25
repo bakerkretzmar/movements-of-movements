@@ -1,3 +1,9 @@
 title: Pages
-structure: pages
+structure:
+  root: true
+  tree:
+    -
+      entry: home
+    -
+      entry: 2ca5263a-dee8-4a1e-85d2-3aae21659614
 route: '{parent_uri}/{slug}'
