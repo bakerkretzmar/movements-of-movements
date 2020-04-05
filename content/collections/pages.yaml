@@ -1,4 +1,6 @@
 title: Pages
+revisions: false
+route: '{parent_uri}/{slug}'
 structure:
   root: true
   tree:
@@ -6,4 +8,3 @@ structure:
       entry: home
     -
       entry: 2ca5263a-dee8-4a1e-85d2-3aae21659614
-route: '{parent_uri}/{slug}'

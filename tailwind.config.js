@@ -4,7 +4,7 @@ module.exports = {
     theme: {
         extend: {
             fontFamily: {
-                sans: ['informapro', ...defaults.fontFamily.sans],
+                sans: ['effra', ...defaults.fontFamily.sans],
             },
         },
         container: {

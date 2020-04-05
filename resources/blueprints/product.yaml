@@ -1,0 +1,74 @@
+title: Product
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: title
+        field:
+          input_type: text
+          type: text
+          localizable: false
+          listable: true
+          display: Title
+          validate: required
+      -
+        handle: subtitle
+        field:
+          input_type: text
+          type: text
+          localizable: false
+          listable: true
+          display: Subtitle
+      -
+        handle: cover
+        field:
+          container: assets
+          mode: grid
+          restrict: false
+          allow_uploads: true
+          max_files: 1
+          type: assets
+          localizable: false
+          listable: true
+          display: Cover
+          validate: required
+      -
+        handle: price
+        field:
+          input_type: number
+          character_limit: 3
+          prepend: $
+          append: '.00'
+          type: text
+          localizable: false
+          width: 50
+          listable: true
+          display: Price
+          validate: required|integer
+      -
+        handle: sale_price
+        field:
+          input_type: number
+          character_limit: 3
+          prepend: $
+          append: '.00'
+          type: text
+          localizable: false
+          width: 50
+          listable: hidden
+          display: 'Sale Price'
+          validate: integer
+      -
+        handle: description
+        field:
+          restrict: false
+          automatic_line_breaks: true
+          automatic_links: false
+          escape_markup: true
+          smartypants: true
+          type: markdown
+          localizable: false
+          listable: false
+          display: Description
+          validate: required
