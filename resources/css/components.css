@@ -1,4 +1,5 @@
 .content {
+    @apply leading-relaxed;
     & > * + * {
         @apply mt-2;
     }
@@ -12,5 +13,8 @@
         &:hover, &:focus, &:active {
             @apply text-blue-500;
         }
+    }
+    & blockquote {
+        @apply pl-4 italic border-l-4 border-gray-400;
     }
 }

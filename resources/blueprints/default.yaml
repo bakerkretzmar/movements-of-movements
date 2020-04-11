@@ -1,8 +1,19 @@
 title: Default
-fields:
-  -
-    handle: content
-    field:
-      type: markdown
-      display: Content
-      localizable: true
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: content
+        field:
+          type: markdown
+          display: Content
+          localizable: true
+      -
+        handle: template
+        field:
+          hide_partials: true
+          type: template
+          localizable: false
+          listable: hidden
+          display: Template

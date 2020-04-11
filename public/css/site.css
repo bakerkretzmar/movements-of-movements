@@ -627,6 +627,10 @@ video {
   }
 }
 
+.content {
+  line-height: 1.625
+}
+
 .content > * + * {
     margin-top: 0.5rem;
   }
@@ -646,6 +650,13 @@ video {
 .content a:hover, .content a:focus, .content a:active {
       color: #4299e1;
     }
+
+.content blockquote {
+    padding-left: 1rem;
+    font-style: italic;
+    border-left-width: 4px;
+    border-color: #cbd5e0;
+  }
 
 .sr-only {
   position: absolute;
