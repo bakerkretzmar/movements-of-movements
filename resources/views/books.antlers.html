@@ -1,0 +1,20 @@
+<div class="min-h-screen border-t border-gray-400">
+    <article class="container max-w-4xl">
+        <h1 class="mt-2 text-5xl font-medium leading-loose">{{ title }}</h1>
+        <section class="content">
+            {{ content }}
+        </section>
+        <div class="grid sm:grid-cols-2 gap-8 mt-8">
+            {{ collection:books }}
+                <div>
+                    <img src="{{ cover }}" class="block w-full"/>
+                    <span class="block mt-3 md:text-xl text-gray-700 italic">{{ title }}</span>
+                    <h2 class="mt-1 text-3xl md:text-4xl font-bold">
+                        <a href="{{ url }}" class="link">{{ subtitle }}</a>
+                    </h2>
+                    <p class="mt-1">{{ description | safe_truncate:280:... }}</p>
+                </div>
+            {{ /collection:books }}
+        </div>
+    </article>
+</div>

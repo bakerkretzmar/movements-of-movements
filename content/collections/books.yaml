@@ -1,0 +1,21 @@
+title: Books
+template: book
+layout: layout
+blueprints:
+  - book
+mount: 2ca5263a-dee8-4a1e-85d2-3aae21659614
+revisions: false
+route: '/books/{slug}'
+date: true
+sort_dir: asc
+date_behavior:
+  past: public
+  future: private
+structure:
+  root: false
+  max_depth: 1
+  tree:
+    -
+      entry: 85235679-941f-42ca-8f6b-45a282340ff5
+    -
+      entry: f5ac8862-2858-41d4-a363-cd74024d9799

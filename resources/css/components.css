@@ -18,3 +18,11 @@
         @apply pl-4 italic border-l-4 border-gray-400;
     }
 }
+
+.link {
+    @apply text-orange-800 duration-100 ease-in-out;
+    transition-property: color;
+    &:hover {
+        @apply text-orange-700;
+    }
+}

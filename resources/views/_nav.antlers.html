@@ -1,0 +1,16 @@
+<nav class="container max-w-4xl py-4">
+    <ul class="flex items-baseline pt-1">
+        <li class="mr-6">
+            <a href="/" class="p-1 text-xl font-bold hover:text-orange-800 transition-color duration-100 ease-in-out">
+                {{ config:app:name }}
+            </a>
+        </li>
+        {{ nav:main_menu }}
+            <li class="mr-3">
+                <a href="{{ url }}" class="p-1 font-medium hover:text-orange-800 transition-color duration-100 ease-in-out">
+                    {{ title }}
+                </a>
+            </li>
+        {{ /nav:main_menu }}
+    </ul>
+</nav>

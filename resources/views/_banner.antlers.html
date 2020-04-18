@@ -1,0 +1,10 @@
+<div class="relative flex items-center max-h-md">
+    <div class="relative w-full" style="padding-top: 35%;">
+        {{ asset url="/assets/murmuration.mp4" }}
+            <video autoplay loop muted src="{{ url }}" alt="{{ alt }}" class="absolute top-0 w-full h-full object-cover"/>
+        {{ /asset }}
+    </div>
+    <div class="absolute inset-0 flex items-center justify-center">
+        <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-white font-bold leading-loose">{{ config:app:name }}</h1>
+    </div>
+</div>

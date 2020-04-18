@@ -1,7 +1,7 @@
 <div class="min-h-screen" style="background: linear-gradient(aliceblue, white);">
     <article class="container max-w-4xl">
-        <h1 class="text-5xl font-medium leading-loose">{{ title }}</h1>
-        <section class="content my-4">
+        <h1 class="mt-2 text-5xl font-medium leading-loose">{{ title }}</h1>
+        <section class="content mb-2">
             {{ content }}
         </section>
         {{ collection:reviews }}
@@ -13,7 +13,7 @@
                 <div class="content mb-4">
                     {{ content }}
                 </div>
-                <p><a href="{{ link }}" class="hover:text-orange-700 transition-color duration-100 ease-in-out">Continue reading at <em>{{ publication }}</em></a></p>
+                <p><a href="{{ link }}" class="link">Continue reading at <em>{{ publication }}</em></a></p>
             </div>
         {{ /collection:reviews }}
     </article>

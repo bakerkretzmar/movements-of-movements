@@ -2,3 +2,13 @@ name: 'Jacob Baker-Kretzmar'
 super: true
 id: f0fb257d-0ea9-4703-bb42-1a4723fa9e2c
 password_hash: $2y$10$Cx7uR6/SGrPAFeFwqzke5uYHSjPKC8KWXBGeyXjG2UJYzMaZtEnI2
+preferences:
+  collections:
+    products:
+      columns:
+        - title
+        - subtitle
+        - cover
+        - price
+        - sale_price
+        - slug

@@ -1,4 +1,4 @@
-title: Product
+title: Book
 sections:
   main:
     display: Main
@@ -34,32 +34,6 @@ sections:
           display: Cover
           validate: required
       -
-        handle: price
-        field:
-          input_type: number
-          character_limit: 3
-          prepend: $
-          append: '.00'
-          type: text
-          localizable: false
-          width: 50
-          listable: true
-          display: Price
-          validate: required|integer
-      -
-        handle: sale_price
-        field:
-          input_type: number
-          character_limit: 3
-          prepend: $
-          append: '.00'
-          type: text
-          localizable: false
-          width: 50
-          listable: hidden
-          display: 'Sale Price'
-          validate: integer
-      -
         handle: description
         field:
           restrict: false
@@ -72,3 +46,59 @@ sections:
           listable: false
           display: Description
           validate: required
+      -
+        handle: editor
+        field:
+          input_type: text
+          type: text
+          localizable: false
+          width: 50
+          listable: hidden
+          display: Editor
+          validate: required
+      -
+        handle: publisher
+        field:
+          input_type: text
+          type: text
+          localizable: false
+          width: 50
+          listable: hidden
+          display: Publisher
+          validate: required
+      -
+        handle: isbn
+        field:
+          input_type: text
+          type: text
+          localizable: false
+          width: 25
+          listable: hidden
+          display: ISBN
+          validate: required
+      -
+        handle: price
+        field:
+          input_type: number
+          character_limit: 3
+          prepend: $
+          append: '.00'
+          type: text
+          localizable: false
+          width: 25
+          listable: true
+          display: Price
+          validate: required|integer
+      -
+        handle: sale_price
+        field:
+          input_type: number
+          character_limit: 3
+          prepend: $
+          append: '.00'
+          type: text
+          localizable: false
+          width: 25
+          listable: hidden
+          display: 'Sale Price'
+          validate: integer

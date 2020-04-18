@@ -1,0 +1,13 @@
+title: Setting
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: value
+        field:
+          input_type: text
+          type: text
+          localizable: false
+          listable: hidden
+          display: Value

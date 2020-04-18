@@ -658,6 +658,17 @@ video {
     border-color: #cbd5e0;
   }
 
+.link {
+  color: #9c4221;
+  transition-duration: 100ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-property: color
+}
+
+.link:hover {
+    color: #c05621;
+  }
+
 .sr-only {
   position: absolute;
   width: 1px;

@@ -4,9 +4,14 @@ collections:
 max_depth: 2
 tree:
   -
-    title: Home
-    url: /
-  -
     entry: 2ca5263a-dee8-4a1e-85d2-3aae21659614
   -
     entry: 44501b39-d4ed-40e8-9319-2c46103b1754
+  -
+    entry: d8be9a4b-dd45-464f-a905-69ace52f30fd
+  -
+    entry: fb450d9c-1fe2-437e-a9e9-2d59baa32a3e
+  -
+    entry: bac19308-77b6-472b-8c00-37a1d1b8a6b9
+  -
+    entry: c8e0cab1-fba2-4236-9720-03e04922d1ee

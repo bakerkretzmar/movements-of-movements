@@ -1,15 +1,16 @@
-<article class="">
-    <div class="relative flex items-center max-h-md">
-        <div class="relative w-full" style="padding-top: 35%;">
-            {{ asset url="/assets/murmuration.mp4" }}
-                <video autoplay loop muted src="{{ url }}" alt="{{ alt }}" class="absolute top-0 w-full h-full object-cover"/>
-            {{ /asset }}
-        </div>
-        <div class="absolute inset-0 flex items-center justify-center">
-            <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-white font-bold leading-loose">{{ title }}</h1>
-        </div>
-    </div>
-</article>
-<!-- <section class="content mt-4">
-    {{ content }}
-</section> -->
+<div class="min-h-screen">
+    {{ partial:banner }}
+    <article class="container max-w-4xl">
+        <section class="content mt-4">
+            {{ content }}
+        </section>
+    </article>
+</div>
+
+<!-- <div class="fullscreen-bg">
+    <video loop muted autoplay poster="img/videoframe.jpg" class="fullscreen-bg__video">
+        <source src="video/big_buck_bunny.webm" type="video/webm">
+        <source src="video/big_buck_bunny.mp4" type="video/mp4">
+        <source src="video/big_buck_bunny.ogv" type="video/ogg">
+    </video>
+</div> -->

@@ -1,32 +1,12 @@
 <!doctype html>
 <html>
 <head>
-    <title>{{ title }} | {{ config:app:name }}</title>
-    <link rel="stylesheet" href="{{ mix src='/css/site.css' }}">
+    <title>{{ title ?? 'Not Found' }} | {{ config:app:name }}</title>
+    <link rel="stylesheet" href="{{ mix src='css/site.css' }}">
     <link rel="stylesheet" href="https://use.typekit.net/dka8rcy.css">
 </head>
-<body class="flex flex-col min-h-screen text-lg">
-    <nav class="container max-w-4xl py-3">
-        <ul class="flex">
-            {{ nav:main_menu }}
-                <li class="mr-4 pt-1">
-                    <a href="{{ url }}" class="p-1 font-medium hover:text-orange-700 transition-color duration-100 ease-in-out">
-                        {{ title }}
-                    </a>
-                </li>
-            {{ /nav:main_menu }}
-            <!-- <li class="mr-3">
-                <a href="/about" class="p-1 text-base font-medium hover:text-blue-600 transition-color duration-100 ease-in-out">
-                    About
-                </a>
-            </li>
-            <li>
-                <a href="/events" class="p-1 text-base font-medium hover:text-blue-600 transition-color duration-100 ease-in-out">
-                    Events
-                </a>
-            </li> -->
-        </ul>
-    </nav>
+<body class="flex flex-col min-h-screen text-lg bg-gray-100">
+    {{ partial:nav }}
     {{ template_content }}
 </body>
 </html>
