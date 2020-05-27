@@ -1,12 +1,12 @@
 {
-    "name": "bakerkretzmar/the-movements-of-movements",
+    "name": "bakerkretzmar/movements-of-movements",
     "description": "Website for The Movements of Movements",
     "keywords": ["movements", "statamic", "laravel"],
     "type": "project",
     "require": {
-        "php": "^7.2.5",
+        "php": "^7.4",
         "fideloper/proxy": "^4.2",
-        "fruitcake/laravel-cors": "^1.0",
+        "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^6.3",
         "laravel/framework": "^7.0",
         "laravel/tinker": "^2.0",
@@ -53,7 +53,7 @@
             "@php artisan statamic:install --ansi"
         ],
         "sync-public-assets": [
-            "rsync -a public/assets/* clients:/home/forge/movements.bakerkretzmar.ca/public/assets/"
+            "rsync -a public/assets/ clients:/home/forge/movementsofmovements.org/public/assets/"
         ]
     }
 }
