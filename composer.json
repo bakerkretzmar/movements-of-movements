@@ -52,8 +52,9 @@
             "@php artisan package:discover --ansi",
             "@php artisan statamic:install --ansi"
         ],
-        "sync-public-assets": [
-            "rsync -a public/assets/ clients:/home/forge/movementsofmovements.org/public/assets/"
+        "sync": [
+            "rsync -a public/assets/ clients:/home/forge/movementsofmovements.org/public/assets/",
+            "rsync -a users/ clients:/home/forge/movementsofmovements.org/users/"
         ]
     }
 }
