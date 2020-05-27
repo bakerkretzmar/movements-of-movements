@@ -1,4 +1,4 @@
-.content {
+.prose {
     @apply leading-relaxed;
     & > * + * {
         @apply mt-2;

@@ -1,7 +1,7 @@
 <div class="min-h-screen" style="background: linear-gradient(aliceblue, white);">
     <article class="container max-w-4xl">
         <h1 class="mt-2 text-5xl font-medium leading-loose">{{ title }}</h1>
-        <section class="content mb-2">
+        <section class="prose mb-2">
             {{ content }}
         </section>
         {{ collection:reviews }}
@@ -10,7 +10,7 @@
                     {{ author }}: “{{ title }}”
                 </h2>
                 <h6 class="mb-2 text-gray-700"><em>{{ publication }}</em>, {{ year }}</h6>
-                <div class="content mb-4">
+                <div class="prose mb-4">
                     {{ content }}
                 </div>
                 <p><a href="{{ link }}" class="link">Continue reading at <em>{{ publication }}</em></a></p>
