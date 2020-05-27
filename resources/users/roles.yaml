@@ -1,4 +1,31 @@
-# admin:
-#   title: Administrator
-#   permissions:
-#     - super
+admin:
+  title: Admin
+  permissions:
+    - 'access cp'
+    - 'view books entries'
+    - 'edit books entries'
+    - 'create books entries'
+    - 'delete books entries'
+    - 'publish books entries'
+    - 'reorder books entries'
+    - 'view pages entries'
+    - 'edit pages entries'
+    - 'create pages entries'
+    - 'delete pages entries'
+    - 'publish pages entries'
+    - 'reorder pages entries'
+    - 'view reviews entries'
+    - 'edit reviews entries'
+    - 'create reviews entries'
+    - 'delete reviews entries'
+    - 'publish reviews entries'
+    - 'reorder reviews entries'
+    - 'view main_menu nav'
+    - 'edit settings globals'
+    - 'view assets assets'
+    - 'upload assets assets'
+    - 'edit assets assets'
+    - 'move assets assets'
+    - 'rename assets assets'
+    - 'delete assets assets'
+    - 'view users'
