@@ -1,0 +1,12 @@
+title: Contributors
+template: default
+layout: layout
+blueprints:
+  - contributor
+mount: fb450d9c-1fe2-437e-a9e9-2d59baa32a3e
+revisions: false
+route: '/contributors/{slug}'
+sort_dir: asc
+date_behavior:
+  past: public
+  future: private

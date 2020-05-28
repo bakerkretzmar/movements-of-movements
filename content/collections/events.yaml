@@ -1,0 +1,11 @@
+title: Events
+template: default
+layout: layout
+blueprints:
+  - event
+revisions: false
+route: '/events/{slug}'
+sort_dir: desc
+date_behavior:
+  past: public
+  future: private

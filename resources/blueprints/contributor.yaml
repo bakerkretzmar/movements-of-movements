@@ -1,0 +1,47 @@
+title: Contributor
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: first_name
+        field:
+          input_type: text
+          type: text
+          localizable: false
+          listable: hidden
+          display: 'First Name'
+          validate: required
+      -
+        handle: last_name
+        field:
+          input_type: text
+          type: text
+          localizable: false
+          listable: hidden
+          display: 'Last Name'
+          validate: required
+      -
+        handle: photo
+        field:
+          mode: grid
+          container: assets
+          restrict: false
+          allow_uploads: true
+          type: assets
+          localizable: false
+          listable: hidden
+          display: Photo
+      -
+        handle: bio
+        field:
+          restrict: false
+          automatic_line_breaks: true
+          automatic_links: true
+          escape_markup: true
+          smartypants: true
+          type: markdown
+          localizable: false
+          listable: hidden
+          display: Bio
+          validate: required

@@ -1,0 +1,63 @@
+title: Event
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: title
+        field:
+          input_type: text
+          type: text
+          localizable: false
+          listable: true
+          display: Title
+          validate: required
+      -
+        handle: description
+        field:
+          container: assets
+          restrict: false
+          automatic_line_breaks: true
+          automatic_links: true
+          escape_markup: true
+          smartypants: true
+          type: markdown
+          localizable: false
+          listable: hidden
+          display: Description
+          validate: required
+  sidebar:
+    display: Sidebar
+    fields:
+      -
+        handle: start
+        field:
+          mode: single
+          time_enabled: true
+          time_required: false
+          earliest_date: '2000-01-01'
+          full_width: false
+          inline: false
+          columns: 1
+          rows: 1
+          type: date
+          localizable: false
+          listable: true
+          display: Start
+          validate: required
+      -
+        handle: end
+        field:
+          mode: single
+          time_enabled: true
+          time_required: false
+          earliest_date: '2000-01-01'
+          full_width: false
+          inline: false
+          columns: 1
+          rows: 1
+          type: date
+          localizable: false
+          listable: true
+          display: End
+          validate: required
