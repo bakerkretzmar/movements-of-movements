@@ -3,6 +3,7 @@
 /public/storage
 /public/vendor/statamic
 /storage/*.key
+/storage/statamic/glide
 /vendor
 .env
 yarn-error.log
