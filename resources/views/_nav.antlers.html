@@ -1,16 +1,15 @@
-<nav class="container max-w-4xl py-4">
-    <ul class="flex items-baseline pt-1">
-        <li class="mr-6">
-            <a href="/" class="p-1 text-xl font-bold hover:text-orange-800 transition-color duration-100 ease-in-out">
-                {{ config:app:name }}
-            </a>
-        </li>
-        {{ nav:main_menu }}
-            <li class="mr-3">
-                <a href="{{ url }}" class="p-1 font-medium hover:text-orange-800 transition-color duration-100 ease-in-out">
-                    {{ title }}
-                </a>
-            </li>
-        {{ /nav:main_menu }}
-    </ul>
-</nav>
+<div class="relative h-48">
+    <img class="w-full h-full object-cover object-center" style="filter: brightness(0.7);" src="/swirl.jpg"/>
+
+    <nav class="absolute bottom-0 inset-x-0 container max-w-4xl pb-6 space-y-4 text-white">
+        <a href="/" class="text-3xl font-bold">{{ config:app:name }}</a>
+
+        <ul class="flex">
+            {{ nav:main_menu }}
+                <li class="mr-4">
+                    <a href="{{ url }}" class="p-1 font-medium">{{ title }}</a>
+                </li>
+            {{ /nav:main_menu }}
+        </ul>
+    </nav>
+</div>
