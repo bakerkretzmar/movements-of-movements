@@ -1,11 +1,26 @@
-<div class="min-h-screen">
-    {{ partial:banner }}
+<!doctype html>
+<html>
+<head>
+    <title>{{ title ?? 'Not Found' }} | {{ config:app:name }}</title>
+    <link rel="stylesheet" href="{{ mix src='css/site.css' }}">
+    <link rel="stylesheet" href="https://use.typekit.net/dka8rcy.css">
+</head>
+<body class="flex flex-col min-h-screen text-lg bg-gray-100">
+    {{ partial:nav }}
+
+    <!-- {{ partial:banner }} -->
+
     <article class="container max-w-4xl">
-        <section class="prose mt-4">
-            {{ content }}
-        </section>
+        <div class="py-8 text-xl">
+            {{ template_content }}
+        </div>
+
+        {{ asset url="/assets/murmuration.mp4" }}
+            <video autoplay loop muted src="{{ url }}" alt="{{ alt }}" class="w-full h-full object-cover"></video>
+        {{ /asset }}
     </article>
-</div>
+</body>
+</html>
 
 <!-- <div class="fullscreen-bg">
     <video loop muted autoplay poster="img/videoframe.jpg" class="fullscreen-bg__video">

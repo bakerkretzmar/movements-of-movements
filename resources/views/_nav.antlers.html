@@ -1,5 +1,11 @@
 <div class="relative h-48">
-    <img class="w-full h-full object-cover object-center" style="filter: brightness(0.7);" src="/swirl.jpg"/>
+    {{# if slug === 'home' }}
+        {{ asset url="/assets/murmuration.mp4" }}
+            <video autoplay loop muted src="{{ url }}" alt="{{ alt }}" class="w-full h-full object-cover object-center"></video>
+        {{ /asset }}
+    {{ else #}}
+        <img class="w-full h-full object-cover object-center" style="filter: brightness(0.7);" src="/swirl.jpg"/>
+    {{# /if #}}
 
     <nav class="absolute bottom-0 inset-x-0 container max-w-4xl pb-6 space-y-4 text-white">
         <a href="/" class="text-3xl font-bold">{{ config:app:name }}</a>
