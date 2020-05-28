@@ -1,21 +1,16 @@
 const mix = require('laravel-mix');
-require('laravel-mix-purgecss');
 
 mix.disableNotifications();
 
 mix.js('resources/js/site.js', 'public/js')
     .postCss('resources/css/site.css', 'public/css', [
-        require('postcss-import'),
         require('tailwindcss'),
         require('postcss-nesting'),
     ])
     .version();
 
 if (mix.inProduction()) {
-    mix.sourceMaps()
-        .purgeCss({
-            whitelistSelectorsChildren: [/^prose/],
-        });
+    mix.sourceMaps();
 }
 
 // mix.js('resources/js/cp.js', 'public/vendor/app/js')

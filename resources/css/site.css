@@ -1,4 +1,34 @@
-@import "tailwindcss/base";
-@import "tailwindcss/components";
-@import "components";
-@import "tailwindcss/utilities";
+@tailwind base;
+
+@tailwind components;
+
+.prose {
+    @apply leading-relaxed;
+    & > * + * {
+        @apply mt-2;
+    }
+    & h2 {
+        @apply text-2xl leading-loose;
+    }
+    & a {
+        @apply text-blue-600;
+        transition-property: color;
+        @apply duration-100 ease-in-out;
+        &:hover, &:focus, &:active {
+            @apply text-blue-500;
+        }
+    }
+    & blockquote {
+        @apply pl-4 italic border-l-4 border-gray-400;
+    }
+}
+
+.link {
+    @apply text-orange-800 duration-100 ease-in-out;
+    transition-property: color;
+    &:hover {
+        @apply text-orange-700;
+    }
+}
+
+@tailwind utilities;
