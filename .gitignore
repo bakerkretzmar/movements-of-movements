@@ -1,9 +1,11 @@
 /node_modules
-/public/hot
+/public/css
+/public/js
+/public/mix-manifest.json
 /public/storage
 /public/vendor/statamic
 /storage/*.key
 /storage/statamic/glide
 /vendor
 .env
-yarn-error.log
+npm-debug.log
