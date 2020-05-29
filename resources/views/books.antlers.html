@@ -7,10 +7,12 @@
         <div>
             <img src="{{ cover }}" class="block w-full"/>
 
-            <span class="block mt-3 md:text-xl text-gray-700 italic">{{ title }}</span>
+            <span class="block mt-5 md:text-xl text-gray-500 italic">{{ title }}</span>
 
             <h2 class="mt-1 text-3xl md:text-4xl font-bold">
-                <a href="{{ url }}" class="link">{{ subtitle }}</a>
+                <a href="{{ url }}" class="text-red-800 hover:text-red-700 transition-color duration-100 ease-in-out">
+                    {{ subtitle }}
+                </a>
             </h2>
 
             <p class="mt-1">{{ description | safe_truncate:280:... }}</p>

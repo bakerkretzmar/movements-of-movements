@@ -23,12 +23,4 @@
     }
 }
 
-.link {
-    @apply text-orange-800 duration-100 ease-in-out;
-    transition-property: color;
-    &:hover {
-        @apply text-orange-700;
-    }
-}
-
 @tailwind utilities;
