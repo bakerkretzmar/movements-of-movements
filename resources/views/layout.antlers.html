@@ -5,20 +5,26 @@
     <link rel="stylesheet" href="{{ mix src='css/site.css' }}">
     <link rel="stylesheet" href="https://use.typekit.net/dka8rcy.css">
 </head>
-<body class="flex flex-col min-h-screen text-lg bg-gray-100">
+<body class="flex flex-col min-h-screen text-lg">
     {{ partial:nav }}
 
     <article class="container max-w-4xl mb-12">
-        <h1 class="mt-3 text-5xl font-medium leading-loose">{{ title }}</h1>
-
         {{ template_content }}
     </article>
 
-    <footer class="flex item-center justify-center w-full pt-4 pb-3 mt-auto text-base text-gray-600 bg-gray-300">
+    <footer class="flex item-center justify-center w-full pt-3 pb-2 mt-auto text-base text-gray-600 bg-gray-200">
         <p class="text-center">
             <span class="whitespace-no-wrap">© {{ date format='Y' }} The Movements of Movements.</span>
-            <span class="whitespace-no-wrap">Website by <a href="https://bakerkretzmar.ca">Jacob Baker-Kretzmar</a>.</span>
+            <span class="whitespace-no-wrap">Website by <a href="https://bakerkretzmar.ca" class="hover:underline">Jacob Baker-Kretzmar</a>.</span>
         </p>
     </footer>
+<!--
+    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form> -->
+
 </body>
 </html>
