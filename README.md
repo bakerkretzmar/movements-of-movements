@@ -10,10 +10,3 @@ The Movements of Movements
 ## Archive
 
 The previous WordPress site is archived in this repository and online at [archive.movementsofmovements.org](https://archive.movementsofmovements.org). It was generated with `wget --mirror --convert-links --backup-converted --adjust-extension https://movementsofmovements.net`.
-
----
-
-#### Ideas
-
-- https://fullcalendar.io/docs/google-calendar
-
