@@ -6,8 +6,20 @@
 
         <ul class="flex text-xl">
             {{ nav:main_menu }}
-                <li class="mr-4">
+                <li class="relative mr-4 group">
                     <a href="{{ url }}" class="p-1 font-medium hover:underline">{{ title }}</a>
+
+                    {{ if children }}
+                        <div class="hidden group-hover:block absolute pt-2 -ml-3">
+                            <ul class="px-3 py-2 bg-red-900 rounded-md shadow-sm">
+                                {{ children }}
+                                    <li>
+                                        <a href="{{ url }}" class="p-1 font hover:underline">{{ title }}</a>
+                                    </li>
+                                {{ /children }}
+                            </ul>
+                        </div>
+                    {{ /if }}
                 </li>
             {{ /nav:main_menu }}
         </ul>

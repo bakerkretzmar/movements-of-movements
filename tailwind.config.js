@@ -21,6 +21,8 @@ module.exports = {
             padding: '1rem',
         },
     },
-    variants: {},
+    variants: {
+        display: ['responsive', 'group-hover'],
+    },
     plugins: [require('@tailwindcss/ui')],
 };
