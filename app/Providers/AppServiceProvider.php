@@ -3,26 +3,23 @@
 namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
+use Statamic\Facades\Permission;
 use Statamic\Statamic;
 
 class AppServiceProvider extends ServiceProvider
 {
-    /**
-     * Bootstrap any application services.
-     *
-     * @return void
-     */
     public function boot()
     {
+        $this->app->booted(function () {
+            Permission::get('view {collection} entries')->addChild(
+                Permission::make('edit own {collection} entries')->label('Edit own entries')
+            );
+        });
+
         // Statamic::script('app', 'cp');
         // Statamic::style('app', 'cp');
     }
 
-    /**
-     * Register any application services.
-     *
-     * @return void
-     */
     public function register()
     {
         //

@@ -29,3 +29,9 @@ admin:
     - 'rename assets assets'
     - 'delete assets assets'
     - 'view users'
+contributor:
+  title: Contributor
+  permissions:
+    - 'access cp'
+    - 'view contributors entries'
+    - 'edit own contributors entries'
