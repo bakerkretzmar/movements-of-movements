@@ -1,3 +1,5 @@
 {{ file }}
-    <img src="{{ url }}" alt="{{ caption }}"/>
+    {{ if is_image }}
+        <img src="{{ url }}" alt="{{ caption }}"/>
+    {{ /if }}
 {{ /file }}
