@@ -1,0 +1,35 @@
+title: Content
+fields:
+  -
+    handle: content
+    field:
+      buttons:
+        - h2
+        - h3
+        - bold
+        - italic
+        - underline
+        - unorderedlist
+        - removeformat
+        - quote
+        - anchor
+        - image
+      container: assets
+      save_html: false
+      toolbar_mode: fixed
+      link_noopener: true
+      link_noreferrer: false
+      target_blank: false
+      reading_time: true
+      fullscreen: true
+      allow_source: false
+      type: bard
+      localizable: false
+      listable: hidden
+      display: Content
+      sets:
+        embed_media:
+          display: 'Media'
+          fields:
+            -
+              import: media

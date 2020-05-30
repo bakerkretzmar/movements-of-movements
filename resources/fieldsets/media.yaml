@@ -1,0 +1,22 @@
+title: Media
+fields:
+  -
+    handle: file
+    field:
+      mode: grid
+      container: assets
+      restrict: false
+      allow_uploads: true
+      max_files: 1
+      type: assets
+      localizable: false
+      listable: hidden
+      display: File
+  -
+    handle: caption
+    field:
+      input_type: text
+      type: text
+      localizable: false
+      listable: hidden
+      display: Caption
