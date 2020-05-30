@@ -1,27 +1,31 @@
 <h1 class="mt-3 text-5xl font-medium leading-loose">{{ title }}</h1>
 
-<section class="prose mb-2">
+<section class="prose mb-10">
     {{ content }}
         {{ partial src="sets/{type}" }}
     {{ /content }}
 </section>
 
-{{ collection:reviews }}
-    <div>
-        <h2 class="mb-2 text-2xl font-medium">
-            {{ author }}: “{{ title }}”
-        </h2>
+<div class="space-y-10">
+    {{ collection:reviews }}
+        <div>
+            <h2 class="mb-2 text-xl font-medium">
+                {{ author }}: “{{ title }}”
+            </h2>
 
-        <h6 class="mb-2 text-gray-700"><em>{{ publication }}</em>, {{ year }}</h6>
+            <h6 class="mb-2 text-gray-600"><em>{{ publication }}</em>, {{ year }}</h6>
 
-        <div class="prose mb-4">
-            {{ content }}
-                {{ partial src="sets/{type}" }}
-            {{ /content }}
+            <div class="prose mb-4">
+                {{ content }}
+                    {{ partial src="sets/{type}" }}
+                {{ /content }}
+            </div>
+
+            <p>
+                <a href="{{ link }}" class="text-red-800 hover:underline ">
+                    Continue reading at <em>{{ publication }}</em>
+                </a>
+            </p>
         </div>
-
-        <p>
-            <a href="{{ link }}" class="text-red-800 hover:text-red-700 transition-color duration-100 ease-in-out">Continue reading at <em>{{ publication }}</em></a>
-        </p>
-    </div>
-{{ /collection:reviews }}
+    {{ /collection:reviews }}
+</div>
