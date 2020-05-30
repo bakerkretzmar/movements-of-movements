@@ -12,6 +12,7 @@ fields:
       localizable: false
       listable: hidden
       display: File
+      width: 50
   -
     handle: caption
     field:
@@ -20,3 +21,28 @@ fields:
       localizable: false
       listable: hidden
       display: Caption
+      width: 50
+  -
+    handle: width
+    field:
+      options:
+        third: 1/3
+        half: 1/2
+        full: Full
+      type: button_group
+      localizable: false
+      width: 50
+      listable: hidden
+      display: Width
+  -
+    handle: alignment
+    field:
+      options:
+        left: Left
+        center: Center
+        right: Right
+      type: button_group
+      localizable: false
+      width: 50
+      listable: hidden
+      display: Alignment

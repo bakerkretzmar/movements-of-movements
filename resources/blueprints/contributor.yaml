@@ -33,4 +33,13 @@ sections:
           listable: hidden
           display: Photo
       -
+        handle: excerpt
+        field:
+          type: textarea
+          localizable: false
+          listable: hidden
+          display: Excerpt
+          validate: required
+          character_limit: '400'
+      -
         import: content
