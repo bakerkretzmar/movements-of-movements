@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://movementsofmovements.net/xmlrpc.php" />
+<title>Past Events &#8211; The Movements of Movements</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Movements of Movements &raquo; Feed" href="https://movementsofmovements.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Movements of Movements &raquo; Comments Feed" href="https://movementsofmovements.net/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="The Movements of Movements &raquo; iCal Feed" href="https://movementsofmovements.net/events/?ical=1" />
+<link rel="alternate" type="application/rss+xml" title="The Movements of Movements &raquo; Events Feed" href="https://movementsofmovements.net/events/feed/" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/movementsofmovements.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='tribe-accessibility-css-css' href='https://movementsofmovements.net/wp-content/plugins/the-events-calendar/common/src/resources/css/accessibility.min.css?ver=4.9.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-full-calendar-style-css' href='https://movementsofmovements.net/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full.min.css?ver=4.9.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-custom-jquery-styles-css' href='https://movementsofmovements.net/wp-content/plugins/the-events-calendar/vendor/jquery/smoothness/jquery-ui-1.8.23.custom.css?ver=4.9.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-bootstrap-datepicker-css-css' href='https://movementsofmovements.net/wp-content/plugins/the-events-calendar/vendor/bootstrap-datepicker/css/bootstrap-datepicker.standalone.min.css?ver=4.9.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-calendar-style-css' href='https://movementsofmovements.net/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-theme.min.css?ver=4.9.0.3' type='text/css' media='all' />
+<style id='tribe-events-calendar-style-inline-css' type='text/css'>
+.tribe-events-calendar td.tribe-events-present div[id*="tribe-events-daynum-"],
+				#tribe_events_filters_wrapper input[type=submit],
+				.tribe-events-button,
+				#tribe-events .tribe-events-button,
+				.tribe-events-button.tribe-inactive,
+				#tribe-events .tribe-events-button:hover,
+				.tribe-events-button:hover,
+				.tribe-events-button.tribe-active:hover {
+					background-color: #dd9933;
+				}
+
+				#tribe-events-content .tribe-events-tooltip h4,
+				#tribe_events_filters_wrapper .tribe_events_slider_val,
+				.single-tribe_events a.tribe-events-ical,
+				.single-tribe_events a.tribe-events-gcal {
+					color: #dd9933;
+				}
+
+				.tribe-grid-allday .tribe-events-week-allday-single,
+				.tribe-grid-body .tribe-events-week-hourly-single,
+				.tribe-grid-allday .tribe-events-week-allday-single:hover,
+				.tribe-grid-body .tribe-events-week-hourly-single:hover {
+					background-color: #dd9933;
+					border-color: rgba(0, 0, 0, 0.3);
+				}
+			
+				.tribe-events-list .tribe-events-loop .tribe-event-featured,
+				.tribe-events-list #tribe-events-day.tribe-events-loop .tribe-event-featured,
+				.type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap,
+				.type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap:hover {
+					background-color: #0ea0d7;
+				}
+
+				#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured {
+					background-color: #0ea0d7;
+				}
+
+				.tribe-events-list-widget .tribe-event-featured,
+				.tribe-events-venue-widget .tribe-event-featured,
+				.tribe-mini-calendar-list-wrapper .tribe-event-featured,
+				.tribe-events-adv-list-widget .tribe-event-featured .tribe-mini-calendar-event {
+					background-color: #0ea0d7;
+				}
+
+				.tribe-grid-body .tribe-event-featured.tribe-events-week-hourly-single {
+					background-color: rgba(14,160,215, .7 );
+					border-color: #0ea0d7;
+				}
+
+				.tribe-grid-body .tribe-event-featured.tribe-events-week-hourly-single:hover {
+					background-color: #0ea0d7;
+				}
+
+				.tribe-button {
+					background-color: #0ea0d7;
+					color: #fff;
+				}
+
+				.tribe-button:hover,
+				.tribe-button:active,
+				.tribe-button:focus {
+					background-color: #096b8f;
+				}
+
+				#tribe-events .tribe-event-featured .tribe-button:hover {
+					color: #053547;
+				}
+</style>
+<link rel='stylesheet' id='tribe-events-calendar-full-mobile-style-css' href='https://movementsofmovements.net/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full-mobile.min.css?ver=4.9.0.3' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='tribe-events-calendar-mobile-style-css' href='https://movementsofmovements.net/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-theme-mobile.min.css?ver=4.9.0.3' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://movementsofmovements.net/wp-includes/css/dist/block-library/style.min.css?ver=5.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://movementsofmovements.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wspsc-style-css' href='https://movementsofmovements.net/wp-content/plugins/wordpress-simple-paypal-shopping-cart/wp_shopping_cart_style.css?ver=4.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='academica-style-css' href='https://movementsofmovements.net/wp-content/themes/academica/style.css?ver=5.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='academica-style-mobile-css' href='https://movementsofmovements.net/wp-content/themes/academica/media-queries.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='academica-google-font-default-css' href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C700%7CRoboto+Condensed%3A400%2C700&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext&#038;ver=5.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://movementsofmovements.net/wp-includes/css/dashicons.min.css?ver=5.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='socicon-css' href='https://movementsofmovements.net/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/socicon.css?ver=20181009' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css' href='https://movementsofmovements.net/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=20180625' type='text/css' media='all' />
+<link rel='stylesheet' id='academicons-css' href='https://movementsofmovements.net/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=20190406' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css' href='https://movementsofmovements.net/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome.min.css?ver=20180625' type='text/css' media='all' />
+<script type='text/javascript' src='https://movementsofmovements.net/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://movementsofmovements.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://movementsofmovements.net/wp-content/plugins/the-events-calendar/vendor/bootstrap-datepicker/js/bootstrap-datepicker.min.js?ver=4.9.0.3'></script>
+<script type='text/javascript' src='https://movementsofmovements.net/wp-content/plugins/the-events-calendar/vendor/jquery-resize/jquery.ba-resize.min.js?ver=4.9.0.3'></script>
+<script type='text/javascript' src='https://movementsofmovements.net/wp-content/plugins/the-events-calendar/vendor/jquery-placeholder/jquery.placeholder.min.js?ver=4.9.0.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tribe_js_config = {"permalink_settings":"\/%year%\/%monthnum%\/%day%\/%postname%\/","events_post_type":"tribe_events","events_base":"https:\/\/movementsofmovements.net\/events\/","debug":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://movementsofmovements.net/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events.min.js?ver=4.9.0.3'></script>
+<script type='text/javascript' src='https://movementsofmovements.net/wp-content/plugins/the-events-calendar/vendor/php-date-formatter/js/php-date-formatter.min.js?ver=4.9.0.3'></script>
+<script type='text/javascript' src='https://movementsofmovements.net/wp-content/plugins/the-events-calendar/common/vendor/momentjs/moment.min.js?ver=4.9.6.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tribe_dynamic_help_text = {"date_with_year":"jS F Y","date_no_year":"F j","datepicker_format":"Y-m-d","datepicker_format_index":"0","days":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"daysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"msgs":"[\"This event is from %%starttime%% to %%endtime%% on %%startdatewithyear%%.\",\"This event is at %%starttime%% on %%startdatewithyear%%.\",\"This event is all day on %%startdatewithyear%%.\",\"This event starts at %%starttime%% on %%startdatenoyear%% and ends at %%endtime%% on %%enddatewithyear%%\",\"This event starts at %%starttime%% on %%startdatenoyear%% and ends on %%enddatewithyear%%\",\"This event is all day starting on %%startdatenoyear%% and ending on %%enddatewithyear%%.\"]"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://movementsofmovements.net/wp-content/plugins/the-events-calendar/src/resources/js/events-dynamic.min.js?ver=4.9.0.3'></script>
+<script type='text/javascript' src='https://movementsofmovements.net/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events-bar.min.js?ver=4.9.0.3'></script>
+<link rel='https://api.w.org/' href='https://movementsofmovements.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://movementsofmovements.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://movementsofmovements.net/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.1.5" />
+
+<script type="text/javascript">
+	<!--
+	//
+	function ReadForm (obj1, tst) 
+	{ 
+	    // Read the user form
+	    var i,j,pos;
+	    val_total="";val_combo="";		
+	
+	    for (i=0; i<obj1.length; i++) 
+	    {     
+	        // run entire form
+	        obj = obj1.elements[i];           // a form element
+	
+	        if (obj.type == "select-one") 
+	        {   // just selects
+	            if (obj.name == "quantity" ||
+	                obj.name == "amount") continue;
+		        pos = obj.selectedIndex;        // which option selected
+		        val = obj.options[pos].value;   // selected value
+		        val_combo = val_combo + " (" + val + ")";
+	        }
+	    }
+		// Now summarize everything we have processed above
+		val_total = obj1.product_tmp.value + val_combo;
+		obj1.wspsc_product.value = val_total;
+	}
+	//-->
+	</script><meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://movementsofmovements.net"><link rel="https://theeventscalendar.com/" href="https://movementsofmovements.net/wp-json/tribe/events/v1/" /> <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<link rel="icon" href="https://movementsofmovements.net/wp-content/uploads/cropped-754427-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://movementsofmovements.net/wp-content/uploads/cropped-754427-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://movementsofmovements.net/wp-content/uploads/cropped-754427-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://movementsofmovements.net/wp-content/uploads/cropped-754427-270x270.jpg" />
+</head>
+<body class="archive post-type-archive post-type-archive-tribe_events tribe-no-js tribe-filter-live events-list events-archive tribe-events-style-full tribe-events-style-theme tribe-theme-academica page-template-page-php singular">
+<div id="header" class="clearfix" style="background-image: url('https://movementsofmovements.net/wp-content/uploads/cropped-freegifmaker.me_2eSqD.gif');">
+<div class="header_overlay">
+<div class="inner-wrap">
+<div id="logo" class="logo-left">
+<h1 id="site-title">
+<a href="https://movementsofmovements.net" title="The Movements of Movements - A Thinking Space &amp; Companion Website to the Book Series" rel="home">
+The Movements of Movements
+</a>
+</h1>
+<p id="site-description">A Thinking Space &amp; Companion Website to the Book Series</p>
+</div>
+</div>
+<div id="main-nav">
+<div class="inner-wrap">
+<nav class="main-navbar" role="navigation">
+<div class="navbar-header">
+<a class="navbar-toggle" href="#menu-main-slide">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</a>
+<div id="menu-main-slide" class="menu-navigation-container"><ul id="menu-navigation" class="menu"><li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-94"><a href="https://movementsofmovements.net/">Introduction</a>
+<ul class="sub-menu">
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://movementsofmovements.net/bookseries/">What Makes Us Move</a></li>
+<li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91"><a href="https://movementsofmovements.net/rethinking-our-dance/">Rethinking Our Dance</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://movementsofmovements.net/info-sheet/">Info Sheet</a></li>
+</ul>
+</li>
+<li id="menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-140"><a href="https://movementsofmovements.net/people/">People</a>
+<ul class="sub-menu">
+<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://movementsofmovements.net/contributors/">Contributors</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="https://movementsofmovements.net/editor/">Editor</a></li>
+</ul>
+</li>
+<li id="menu-item-39" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-39"><a href="https://movementsofmovements.net/events/">Events</a>
+<ul class="sub-menu">
+<li id="menu-item-151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151"><a href="https://movementsofmovements.net/events/list/?tribe_paged=1&#038;tribe_event_display=past">Previous Events</a></li>
+</ul>
+</li>
+<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="https://movementsofmovements.net/contact/">Contact</a></li>
+<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="https://movementsofmovements.net/order/">Order</a></li>
+</ul></div>
+</div>
+<div id="navbar-main">
+<div class="menu-navigation-container"><ul id="menu-navigation-1" class="nav navbar-nav dropdown sf-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-94"><a href="https://movementsofmovements.net/">Introduction</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://movementsofmovements.net/bookseries/">What Makes Us Move</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91"><a href="https://movementsofmovements.net/rethinking-our-dance/">Rethinking Our Dance</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://movementsofmovements.net/info-sheet/">Info Sheet</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-140"><a href="https://movementsofmovements.net/people/">People</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://movementsofmovements.net/contributors/">Contributors</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="https://movementsofmovements.net/editor/">Editor</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-39"><a href="https://movementsofmovements.net/events/">Events</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151"><a href="https://movementsofmovements.net/events/list/?tribe_paged=1&#038;tribe_event_display=past">Previous Events</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="https://movementsofmovements.net/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="https://movementsofmovements.net/order/">Order</a></li>
+</ul></div>
+</div>
+</nav>
+<div id="search">
+<form method="get" id="searchform" action="https://movementsofmovements.net/">
+<label for="s" class="assistive-text hidden">Search</label>
+<input id="s" type="text" name="s" placeholder="Search">
+<button id="searchsubmit" name="submit" type="submit">Search</button>
+</form> </div>
+</div>
+</div>
+</div>
+</div>
+<div id="wrap">
+<div id="content" class="clearfix">
+<div class="column column-title">
+<div id="crumbs">
+<p><a href="https://movementsofmovements.net">Home</a> &raquo; (Page 1)</p>
+</div> </div>
+<div class="column column-narrow">
+<div id="recent-posts-2" class="widget clearfix widget_recent_entries"> <h3 class="heading">Recent Posts</h3> <ul>
+<li>
+<a href="https://movementsofmovements.net/2018/06/20/announcement/">Future Virtual Home of the Movements of Movements Project</a>
+</li>
+</ul>
+</div><div id="archives-2" class="widget clearfix widget_archive"><h3 class="heading">Archives</h3> <ul>
+<li><a href='https://movementsofmovements.net/2018/06/'>June 2018</a></li>
+</ul>
+</div><div id="categories-2" class="widget clearfix widget_categories"><h3 class="heading">Categories</h3> <ul>
+<li class="cat-item cat-item-1"><a href="https://movementsofmovements.net/category/uncategorised/">Uncategorised</a>
+</li>
+</ul>
+</div><div id="meta-2" class="widget clearfix widget_meta"><h3 class="heading">Meta</h3> <ul>
+<li><a href="https://movementsofmovements.net/wp-login.php">Log in</a></li>
+<li><a href="https://movementsofmovements.net/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://movementsofmovements.net/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li> </ul>
+</div> </div>
+<div class="column column-content single">
+<div id="post-0" class="post-0 page type-page status-draft hentry">
+<div class="entry-content clearfix">
+<div id="tribe-events" class="tribe-no-js" data-live_ajax="1" data-datepicker_format="0" data-category="" data-featured=""><div class="tribe-events-before-html"></div><span class="tribe-events-ajax-loading"><img class="tribe-events-spinner-medium" src="https://movementsofmovements.net/wp-content/plugins/the-events-calendar/src/resources/images/tribe-loading.gif" alt="Loading Events" /></span><div id="tribe-events-content-wrapper" class="tribe-clearfix"><input type="hidden" id="tribe-events-list-hash" value="">
+
+<div class="tribe-events-title-bar">
+
+<h1 class="tribe-events-page-title">Past Events</h1>
+</div>
+
+<div id="tribe-events-bar">
+<h2 class="tribe-events-visuallyhidden">Events Search and Views Navigation</h2>
+<form id="tribe-bar-form" class="tribe-clearfix tribe-events-bar--has-filters tribe-events-bar--has-views" name="tribe-bar-form" method="post" action="https://movementsofmovements.net/events/list?post_type=tribe_events&#038;eventDisplay=list">
+<div id="tribe-bar-filters-wrap">
+<button id="tribe-bar-collapse-toggle" aria-expanded="false" type="button" aria-controls="tribe-bar-filters" data-label-hidden="Show Events Search" data-label-shown="Hide Events Search">
+<span class="tribe-bar-toggle-text">
+Show Events Search </span>
+<span class="tribe-bar-toggle-arrow"></span>
+</button>
+<div id="tribe-bar-filters" class="tribe-bar-filters" aria-hidden="true">
+<div class="tribe-bar-filters-inner tribe-clearfix">
+<h3 class="tribe-events-visuallyhidden">Events Search</h3>
+<div class="tribe-bar-date-filter">
+<label class="label-tribe-bar-date" for="tribe-bar-date">Events From</label>
+<input type="text" name="tribe-bar-date" style="position: relative;" id="tribe-bar-date" aria-label="Search for Events by Date. Please use the format 4 digit year hyphen 2 digit month hyphen 2 digit day." value="" placeholder="Date"><input type="hidden" name="tribe-bar-date-day" id="tribe-bar-date-day" class="tribe-no-param" value=""> </div>
+<div class="tribe-bar-search-filter">
+<label class="label-tribe-bar-search" for="tribe-bar-search">Search</label>
+<input type="text" name="tribe-bar-search" id="tribe-bar-search" aria-label="Search for Events by Keyword." value="" placeholder="Keyword"> </div>
+<div class="tribe-bar-submit">
+<input class="tribe-events-button tribe-no-param" type="submit" name="submit-bar" aria-label="Submit Events search" value="Find Events" />
+</div>
+</div>
+</div>
+</div>
+<div id="tribe-bar-views" class="tribe-bar-views">
+<div class="tribe-bar-views-inner tribe-clearfix">
+<h3 class="tribe-events-visuallyhidden">Event Views Navigation</h3>
+<label id="tribe-bar-views-label" aria-label="View Events As">
+View As </label>
+<select class="tribe-bar-views-select tribe-no-param" name="tribe-bar-view" aria-label="View Events As">
+<option value="https://movementsofmovements.net/events/list/" data-view="list" selected>List</option><option value="https://movementsofmovements.net/events/month/" data-view="month">Month</option><option value="https://movementsofmovements.net/events/today/" data-view="day">Day</option> </select>
+</div>
+</div>
+</form>
+</div>
+
+<div id="tribe-events-content" class="tribe-events-list">
+
+
+<div id="tribe-events-header" data-title="Past Events &#8211; The Movements of Movements" data-viewtitle="Past Events" data-startofweek="1" data-view="past" data-baseurl="https://movementsofmovements.net/events/list/?tribe_event_display=past">
+
+<nav class="tribe-events-nav-pagination" aria-label="Events List Navigation">
+<ul class="tribe-events-sub-nav">
+
+
+<li class="tribe-events-nav-next tribe-events-nav-right">
+<a href="https://movementsofmovements.net/events/list/?tribe_event_display=list&#038;tribe_paged=1" rel="next">Next Events <span>&raquo;</span></a>
+</li>
+</ul>
+</nav>
+</div>
+
+
+<div class="tribe-events-loop">
+
+<h2 class='tribe-events-list-separator-month'><span>September 2018</span></h2>
+
+<div id="post-107" class="type-tribe_events post-107 tribe-clearfix tribe-events-venue-109 tribe-events-organizer-110 tribe-events-first">
+
+<h3 class="tribe-events-list-event-title">
+<a class="tribe-event-url" href="https://movementsofmovements.net/event/book-launch-university-of-ottawa/" title="Book Launch, University of Ottawa" rel="bookmark">
+Book Launch, University of Ottawa	</a>
+</h3>
+
+<div class="tribe-events-event-meta">
+<div class="author  location">
+
+<div class="tribe-event-schedule-details">
+<span class="tribe-event-date-start">25th September 2018 @ 4:00 pm</span> - <span class="tribe-event-time">6:00 pm</span> <span class='timezone'> BST </span> </div>
+
+<div class="tribe-events-venue-details">
+University of Ottawa, <span class="tribe-address">
+<span class="tribe-street-address">120 University Private</span>
+<br>
+<span class="tribe-locality">Ottawa</span><span class="tribe-delimiter">,</span>
+<abbr class="tribe-region tribe-events-abbr" title="Ontario">Ontario</abbr>
+<span class="tribe-postal-code">K1N 6N5</span>
+<span class="tribe-country-name">Canada</span>
+</span>
+<a class="tribe-events-gmap" href="https://maps.google.com/maps?f=q&#038;source=s_q&#038;hl=en&#038;geocode=&#038;q=120+University+Private+Ottawa+Ontario+K1N+6N5+Canada" title="Click to view a Google Map" target="_blank">+ Google Map</a> </div> 
+</div>
+</div>
+
+
+
+<div class="tribe-events-list-event-description tribe-events-content description entry-summary">
+<p>Jai Sen, editor Nadia Abu-Zahra (School of International Development and Global Studies, Faculty of Social Sciences) Marie-Josée Massicotte (School of Political Studies, Faculty of Social Sciences) Lee Cormie (Toronto School of Theology) André Drainville (Department of Sociology, Faculty of Social Sciences, Université Laval) Évènement en anglais seulement</p>
+<a href="https://movementsofmovements.net/event/book-launch-university-of-ottawa/" class="tribe-events-read-more" rel="bookmark">Find out more &raquo;</a>
+</div>
+</div>
+
+
+<div id="post-62" class="type-tribe_events post-62 tribe-clearfix tribe-events-venue-65">
+
+<h3 class="tribe-events-list-event-title">
+<a class="tribe-event-url" href="https://movementsofmovements.net/event/peace-and-justice-studies-association-conference-2018/" title="Peace and Justice Studies Association Conference 2018" rel="bookmark">
+Peace and Justice Studies Association Conference 2018	</a>
+</h3>
+
+<div class="tribe-events-event-meta">
+<div class="author  location">
+
+<div class="tribe-event-schedule-details">
+<span class="tribe-event-date-start">27th September 2018</span> - <span class="tribe-event-date-end">30th September 2018</span> </div>
+
+<div class="tribe-events-venue-details">
+Arcadia University, <span class="tribe-address">
+<span class="tribe-street-address">450 South Easton Road</span>
+<br>
+<span class="tribe-locality">Glenside</span><span class="tribe-delimiter">,</span>
+<abbr class="tribe-region tribe-events-abbr" title="Pennsylvania">PA</abbr>
+<span class="tribe-postal-code">19038</span>
+<span class="tribe-country-name">United States</span>
+</span>
+<a class="tribe-events-gmap" href="https://maps.google.com/maps?f=q&#038;source=s_q&#038;hl=en&#038;geocode=&#038;q=450+South+Easton+Road+Glenside+PA+19038+United+States" title="Click to view a Google Map" target="_blank">+ Google Map</a> </div> 
+</div>
+</div>
+
+
+
+<div class="tribe-events-list-event-description tribe-events-content description entry-summary">
+<a href="https://movementsofmovements.net/event/peace-and-justice-studies-association-conference-2018/" class="tribe-events-read-more" rel="bookmark">Find out more &raquo;</a>
+</div>
+</div>
+
+<h2 class='tribe-events-list-separator-month'><span>October 2018</span></h2>
+
+<div id="post-35" class="type-tribe_events post-35 tribe-clearfix tribe-events-venue-37 tribe-events-organizer-38">
+
+<h3 class="tribe-events-list-event-title">
+<a class="tribe-event-url" href="https://movementsofmovements.net/event/rethinking-our-dance-boston-release-party/" title="Rethinking Our Dance, Boston Release Party" rel="bookmark">
+Rethinking Our Dance, Boston Release Party	</a>
+</h3>
+
+<div class="tribe-events-event-meta">
+<div class="author  location">
+
+<div class="tribe-event-schedule-details">
+<span class="tribe-event-date-start">11th October 2018 @ 7:00 pm</span> - <span class="tribe-event-time">9:00 pm</span> <span class='timezone'> EDT </span> </div>
+
+<div class="tribe-events-venue-details">
+encuentro5, <span class="tribe-address">
+<span class="tribe-street-address">9A Hamilton Place</span>
+<br>
+<span class="tribe-locality">Boston</span><span class="tribe-delimiter">,</span>
+<abbr class="tribe-region tribe-events-abbr" title="Massachusetts">MA</abbr>
+<span class="tribe-postal-code">02108</span>
+<span class="tribe-country-name">United States</span>
+</span>
+<a class="tribe-events-gmap" href="https://maps.google.com/maps?f=q&#038;source=s_q&#038;hl=en&#038;geocode=&#038;q=9A+Hamilton+Place+Boston+MA+02108+United+States" title="Click to view a Google Map" target="_blank">+ Google Map</a> </div> 
+</div>
+</div>
+
+<div class="tribe-events-event-cost">
+<span class="ticket-cost">Free</span>
+</div>
+
+
+<div class="tribe-events-list-event-description tribe-events-content description entry-summary">
+<p>Contributors Jai Sen, Matt Meyer appear together in an event facilitated by environmental justice organizer Alex Papali.</p>
+<a href="https://movementsofmovements.net/event/rethinking-our-dance-boston-release-party/" class="tribe-events-read-more" rel="bookmark">Find out more &raquo;</a>
+</div>
+</div>
+
+
+<div id="post-56" class="type-tribe_events post-56 tribe-clearfix tribe-events-venue-58">
+
+<h3 class="tribe-events-list-event-title">
+<a class="tribe-event-url" href="https://movementsofmovements.net/event/rethinking-our-dance-somerville-book-event/" title="Rethinking Our Dance, Somerville Book Event" rel="bookmark">
+Rethinking Our Dance, Somerville Book Event	</a>
+</h3>
+
+<div class="tribe-events-event-meta">
+<div class="author  location">
+
+<div class="tribe-event-schedule-details">
+<span class="tribe-event-date-start">12th October 2018 @ 7:00 pm</span> <span class='timezone'> BST </span> </div>
+
+<div class="tribe-events-venue-details">
+Porter Square Books, <span class="tribe-address">
+<span class="tribe-street-address">25 White Street</span>
+<br>
+<span class="tribe-locality">Somerville</span><span class="tribe-delimiter">,</span>
+<abbr class="tribe-region tribe-events-abbr" title="Massachusetts">MA</abbr>
+<span class="tribe-postal-code">02140</span>
+<span class="tribe-country-name">United States</span>
+</span>
+<a class="tribe-events-gmap" href="https://maps.google.com/maps?f=q&#038;source=s_q&#038;hl=en&#038;geocode=&#038;q=25+White+Street+Somerville+MA+02140+United+States" title="Click to view a Google Map" target="_blank">+ Google Map</a> </div> 
+</div>
+</div>
+
+<div class="tribe-events-event-cost">
+<span class="ticket-cost">Free</span>
+</div>
+
+
+<div class="tribe-events-list-event-description tribe-events-content description entry-summary">
+<p>Book release event featuring Jai Sen (description to be updated)</p>
+<a href="https://movementsofmovements.net/event/rethinking-our-dance-somerville-book-event/" class="tribe-events-read-more" rel="bookmark">Find out more &raquo;</a>
+</div>
+</div>
+
+<h2 class='tribe-events-list-separator-month'><span>December 2018</span></h2>
+
+<div id="post-59" class="type-tribe_events post-59 tribe-clearfix tribe-events-venue-61">
+
+<h3 class="tribe-events-list-event-title">
+<a class="tribe-event-url" href="https://movementsofmovements.net/event/howard-zinn-book-fair/" title="Howard Zinn Book Fair" rel="bookmark">
+Howard Zinn Book Fair	</a>
+</h3>
+
+<div class="tribe-events-event-meta">
+<div class="author  location">
+
+<div class="tribe-event-schedule-details">
+<span class="tribe-event-date-start">2nd December 2018</span> </div>
+
+<div class="tribe-events-venue-details">
+City College of San Francisco, Mission Campus, <span class="tribe-address">
+<span class="tribe-street-address">1125 Valencia Street</span>
+<br>
+<span class="tribe-locality">San Francisco</span><span class="tribe-delimiter">,</span>
+<abbr class="tribe-region tribe-events-abbr" title="California">CA</abbr>
+<span class="tribe-postal-code">94110</span>
+<span class="tribe-country-name">United States</span>
+</span>
+<a class="tribe-events-gmap" href="https://maps.google.com/maps?f=q&#038;source=s_q&#038;hl=en&#038;geocode=&#038;q=1125+Valencia+Street+San+Francisco+CA+94110+United+States" title="Click to view a Google Map" target="_blank">+ Google Map</a> </div> 
+</div>
+</div>
+
+
+
+<div class="tribe-events-list-event-description tribe-events-content description entry-summary">
+<p>From the Fair's "about" page: The Howard Zinn Book Fair is an annual celebration of People’s History, Past Present and Future. We gather together authors, zinesters, bloggers and publishers for a day of readings, panel discussions and workshops exploring the value of dissident histories towards building a better future. In the spirit of the late historian Howard Zinn we recognize the stories of the ways that everyday people have risen to propose a world beyond empires big and small.</p>
+<a href="https://movementsofmovements.net/event/howard-zinn-book-fair/" class="tribe-events-read-more" rel="bookmark">Find out more &raquo;</a>
+</div>
+</div>
+
+<h2 class='tribe-events-list-separator-month'><span>June 2019</span></h2>
+
+<div id="post-152" class="type-tribe_events post-152 tribe-clearfix tribe-events-venue-154 tribe-events-organizer-155 tribe-events-last">
+
+<h3 class="tribe-events-list-event-title">
+<a class="tribe-event-url" href="https://movementsofmovements.net/event/left-forum-brooklyn-ny/" title="Left Forum (Brooklyn, NY)" rel="bookmark">
+Left Forum (Brooklyn, NY)	</a>
+</h3>
+
+<div class="tribe-events-event-meta">
+<div class="author  location">
+
+<div class="tribe-event-schedule-details">
+<span class="tribe-event-date-start">28th June 2019</span> - <span class="tribe-event-date-end">30th June 2019</span> </div>
+
+<div class="tribe-events-venue-details">
+LIU Brooklyn, <span class="tribe-address">
+<span class="tribe-street-address">1 University Plaza</span>
+<br>
+<span class="tribe-locality">Brooklyn</span><span class="tribe-delimiter">,</span>
+<span class="tribe-postal-code">NY 11201</span>
+<span class="tribe-country-name">United States</span>
+</span>
+<a class="tribe-events-gmap" href="https://maps.google.com/maps?f=q&#038;source=s_q&#038;hl=en&#038;geocode=&#038;q=1+University+Plaza+Brooklyn+NY+11201+United+States" title="Click to view a Google Map" target="_blank">+ Google Map</a> </div> 
+</div>
+</div>
+
+
+
+<div class="tribe-events-list-event-description tribe-events-content description entry-summary">
+<p>The Movements of Movements project will host panels and informal conversations as well as table at the Left Forum. We will update this event posting as panels are finalized and discrete sessions/locations are announced.</p>
+<a href="https://movementsofmovements.net/event/left-forum-brooklyn-ny/" class="tribe-events-read-more" rel="bookmark">Find out more &raquo;</a>
+</div>
+</div>
+</div>
+
+<div id="tribe-events-footer">
+
+<nav class="tribe-events-nav-pagination" aria-label="Events List Navigation">
+<ul class="tribe-events-sub-nav">
+
+
+<li class="tribe-events-nav-next tribe-events-nav-right">
+<a href="https://movementsofmovements.net/events/list/?tribe_event_display=list&#038;tribe_paged=1" rel="next">Next Events <span>&raquo;</span></a>
+</li>
+</ul>
+</nav>
+</div>
+
+<a class="tribe-events-ical tribe-events-button" title="Use this to share calendar data with Google Calendar, Apple iCal and other compatible apps" href="https://movementsofmovements.net/events/?ical=1">+ Export Events</a>
+</div>
+<div class="tribe-clear"></div>
+</div> <div class="tribe-events-after-html"></div></div>
+
+</div>
+</div>
+</div>
+<div class="column column-narrow column-last">
+<div id="search-2" class="widget clearfix widget_search"><form method="get" id="searchform" action="https://movementsofmovements.net/">
+<label for="s" class="assistive-text hidden">Search</label>
+<input id="s" type="text" name="s" placeholder="Search">
+<button id="searchsubmit" name="submit" type="submit">Search</button>
+</form></div><div id="tribe-events-list-widget-2" class="widget clearfix tribe-events-list-widget"><h3 class="heading">Upcoming Events</h3> <p>There are no upcoming events at this time.</p>
+</div><div id="recent-comments-2" class="widget clearfix widget_recent_comments"><h3 class="heading">Recent Comments</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://wordpress.org/' rel='external nofollow' class='url'>A WordPress Commenter</a></span> on <a href="https://movementsofmovements.net/2018/06/20/announcement/#comment-1">Future Virtual Home of the Movements of Movements Project</a></li></ul></div> </div>
+</div>
+<div id="footer" class="clearfix">
+<section class="site-widgetized-section">
+<div class="widgets clearfix  widgets-1">
+<div id="zoom-social-icons-widget-3" class="widget clearfix zoom-social-icons-widget"><h3 class="heading">Follow us</h3>
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--rounded zoom-social-icons-list--no-labels">
+<li class="zoom-social_icons-list__item">
+<a class="zoom-social_icons-list__link" href="https://facebook.com/" target="_blank">
+<span class="screen-reader-text">facebook</span>
+<span class="zoom-social_icons-list-span socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#3b5998" style="background-color : #3b5998; font-size: 18px; padding:8px"></span>
+</a>
+</li>
+<li class="zoom-social_icons-list__item">
+<a class="zoom-social_icons-list__link" href="https://twitter.com/" target="_blank">
+<span class="screen-reader-text">twitter</span>
+<span class="zoom-social_icons-list-span socicon socicon-twitter" data-hover-rule="background-color" data-hover-color="#55acee" style="background-color : #55acee; font-size: 18px; padding:8px"></span>
+</a>
+</li>
+<li class="zoom-social_icons-list__item">
+<a class="zoom-social_icons-list__link" href="https://instagram.com/" target="_blank">
+<span class="screen-reader-text">instagram</span>
+<span class="zoom-social_icons-list-span socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#e4405f" style="background-color : #e4405f; font-size: 18px; padding:8px"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+<p class="copy">
+Powered by <a href="https://wordpress.org">WordPress</a> / Academica WordPress Theme by <a href="http://www.wpzoom.com">WPZOOM</a> </p>
+</div>
+</div>
+<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};var tribe_system_info = {"sysinfo_optin_nonce":"513708c969","clipboard_btn_text":"Copy to clipboard","clipboard_copied_text":"System info copied","clipboard_fail_text":"Press \"Cmd + C\" to copy"};/* ]]> */ </script><script type='text/javascript'>
+/* <![CDATA[ */
+var TribeList = {"ajaxurl":"https:\/\/movementsofmovements.net\/wp-admin\/admin-ajax.php","tribe_paged":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://movementsofmovements.net/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events-ajax-list.min.js?ver=4.9.0.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/movementsofmovements.net\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://movementsofmovements.net/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://movementsofmovements.net/wp-content/themes/academica/js/jquery.mmenu.min.all.js?ver=20150325'></script>
+<script type='text/javascript' src='https://movementsofmovements.net/wp-content/themes/academica/js/superfish.min.js?ver=20150325'></script>
+<script type='text/javascript' src='https://movementsofmovements.net/wp-content/themes/academica/js/functions.js?ver=20150325'></script>
+<script type='text/javascript' src='https://movementsofmovements.net/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=20170209'></script>
+<script type='text/javascript' src='https://movementsofmovements.net/wp-includes/js/wp-embed.min.js?ver=5.1.5'></script>
+</body>
+</html>
+
+

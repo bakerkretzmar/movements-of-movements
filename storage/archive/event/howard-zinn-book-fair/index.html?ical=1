@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Movements of Movements - ECPv4.9.0.3//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Movements of Movements
+X-ORIGINAL-URL:https://movementsofmovements.net
+X-WR-CALDESC:Events for The Movements of Movements
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20181202
+DTEND;VALUE=DATE:20181203
+DTSTAMP:20200530T005357
+CREATED:20180709T153301Z
+LAST-MODIFIED:20180709T153415Z
+UID:59-1543708800-1543795199@movementsofmovements.net
+SUMMARY:Howard Zinn Book Fair
+DESCRIPTION:From the Fair’s “about” page: The Howard Zinn Book Fair is an annual celebration of People’s History\, Past Present and Future. We gather together authors\, zinesters\, bloggers and publishers for a day of readings\, panel discussions and workshops exploring the value of dissident histories towards building a better future. In the spirit of the late historian Howard Zinn we recognize the stories of the ways that everyday people have risen to propose a world beyond empires big and small. \n
+URL:https://movementsofmovements.net/event/howard-zinn-book-fair/
+LOCATION:City College of San Francisco\, Mission Campus\, 1125 Valencia Street\, San Francisco\, CA\, 94110\, United States
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Movements of Movements - ECPv4.9.0.3//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Movements of Movements
+X-ORIGINAL-URL:https://movementsofmovements.net
+X-WR-CALDESC:Events for The Movements of Movements
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190701
+DTSTAMP:20200530T005406
+CREATED:20190404T011838Z
+LAST-MODIFIED:20190404T011838Z
+UID:152-1561680000-1561939199@movementsofmovements.net
+SUMMARY:Left Forum (Brooklyn\, NY)
+DESCRIPTION:The Movements of Movements project will host panels and informal conversations as well as table at the Left Forum. We will update this event posting as panels are finalized and discrete sessions/locations are announced. \n
+URL:https://movementsofmovements.net/event/left-forum-brooklyn-ny/
+LOCATION:LIU Brooklyn\, 1 University Plaza\, Brooklyn\, NY 11201\, United States
+END:VEVENT
+END:VCALENDAR

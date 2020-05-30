@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Movements of Movements - ECPv4.9.0.3//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Movements of Movements
+X-ORIGINAL-URL:https://movementsofmovements.net
+X-WR-CALDESC:Events for The Movements of Movements
+END:VCALENDAR

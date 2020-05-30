@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Movements of Movements - ECPv4.9.0.3//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Movements of Movements
+X-ORIGINAL-URL:https://movementsofmovements.net
+X-WR-CALDESC:Events for The Movements of Movements
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20180925T160000
+DTEND;TZID=Europe/London:20180925T180000
+DTSTAMP:20200530T005320
+CREATED:20180922T132341Z
+LAST-MODIFIED:20180924T132411Z
+UID:107-1537891200-1537898400@movementsofmovements.net
+SUMMARY:Book Launch\, University of Ottawa
+DESCRIPTION:\nJai Sen\, editor\nNadia Abu-Zahra (School of International Development and Global Studies\, Faculty of Social Sciences)\nMarie-Josée Massicotte (School of Political Studies\, Faculty of Social Sciences)\nLee Cormie (Toronto School of Theology)\nAndré Drainville (Department of Sociology\, Faculty of Social Sciences\, Université Laval)\n\nÉvènement en anglais seulement \n
+URL:https://movementsofmovements.net/event/book-launch-university-of-ottawa/
+LOCATION:University of Ottawa\, 120 University Private\, Ottawa\, Ontario\, K1N 6N5\, Canada
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Movements of Movements - ECPv4.9.0.3//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Movements of Movements
+X-ORIGINAL-URL:https://movementsofmovements.net
+X-WR-CALDESC:Events for The Movements of Movements
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181011T190000
+DTEND;TZID=America/New_York:20181011T210000
+DTSTAMP:20200530T005339
+CREATED:20180620T183201Z
+LAST-MODIFIED:20181003T160200Z
+UID:35-1539284400-1539291600@movementsofmovements.net
+SUMMARY:Rethinking Our Dance\, Boston Release Party
+DESCRIPTION:Contributors Jai Sen\, Matt Meyer appear together in an event facilitated by environmental justice organizer Alex Papali. \nflyer-2018-10-11\n
+URL:https://movementsofmovements.net/event/rethinking-our-dance-boston-release-party/
+LOCATION:encuentro5\, 9A Hamilton Place\, Boston\, MA\, 02108\, United States
+ORGANIZER;CN="Suren%20Moodliar":MAILTO:suren@fairjobs.org
+END:VEVENT
+END:VCALENDAR

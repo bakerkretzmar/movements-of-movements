@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Movements of Movements - ECPv4.9.0.3//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Movements of Movements
+X-ORIGINAL-URL:https://movementsofmovements.net
+X-WR-CALDESC:Events for The Movements of Movements
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180927
+DTEND;VALUE=DATE:20181001
+DTSTAMP:20200530T005329
+CREATED:20180709T154716Z
+LAST-MODIFIED:20180709T154716Z
+UID:62-1538006400-1538351999@movementsofmovements.net
+SUMMARY:Peace and Justice Studies Association Conference 2018
+DESCRIPTION: \n
+URL:https://movementsofmovements.net/event/peace-and-justice-studies-association-conference-2018/
+LOCATION:Arcadia University\, 450 South Easton Road\, Glenside\, PA\, 19038\, United States
+END:VEVENT
+END:VCALENDAR
