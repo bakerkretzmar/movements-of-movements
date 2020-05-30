@@ -1,11 +1,11 @@
 title: Books
-template: book
+template: books/show
 layout: layout
 blueprints:
   - book
 mount: 2ca5263a-dee8-4a1e-85d2-3aae21659614
 revisions: false
-route: '/books/{slug}'
+route: '{mount}/{slug}'
 date: true
 sort_dir: asc
 date_behavior:

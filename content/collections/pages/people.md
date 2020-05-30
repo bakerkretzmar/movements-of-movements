@@ -1,7 +1,7 @@
 ---
 title: People
 updated_by: f0fb257d-0ea9-4703-bb42-1a4723fa9e2c
-updated_at: 1590796762
+updated_at: 1590798359
 id: fb450d9c-1fe2-437e-a9e9-2d59baa32a3e
 content:
   -
@@ -22,7 +22,7 @@ content:
     type: set
     attrs:
       values:
-        type: embed_media
+        type: media
         file: jai-on-the-phone.jpg
         caption: null
   -

@@ -22,18 +22,7 @@ sections:
           display: Author
           validate: required
       -
-        handle: content
-        field:
-          restrict: false
-          automatic_line_breaks: true
-          automatic_links: false
-          escape_markup: true
-          smartypants: true
-          type: markdown
-          localizable: false
-          listable: false
-          display: Content
-          validate: required
+        import: content
       -
         handle: publication
         field:

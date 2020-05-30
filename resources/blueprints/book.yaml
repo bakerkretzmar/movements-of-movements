@@ -34,18 +34,7 @@ sections:
           display: Cover
           validate: required
       -
-        handle: description
-        field:
-          restrict: false
-          automatic_line_breaks: true
-          automatic_links: false
-          escape_markup: true
-          smartypants: true
-          type: markdown
-          localizable: false
-          listable: false
-          display: Description
-          validate: required
+        import: content
       -
         handle: editor
         field:

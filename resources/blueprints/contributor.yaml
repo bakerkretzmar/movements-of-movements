@@ -33,15 +33,4 @@ sections:
           listable: hidden
           display: Photo
       -
-        handle: bio
-        field:
-          restrict: false
-          automatic_line_breaks: true
-          automatic_links: true
-          escape_markup: true
-          smartypants: true
-          type: markdown
-          localizable: false
-          listable: hidden
-          display: Bio
-          validate: required
+        import: content

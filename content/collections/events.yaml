@@ -3,8 +3,9 @@ template: default
 layout: layout
 blueprints:
   - event
+mount: d8be9a4b-dd45-464f-a905-69ace52f30fd
 revisions: false
-route: '/events/{slug}'
+route: '{mount}/{slug}'
 sort_dir: desc
 date_behavior:
   past: public

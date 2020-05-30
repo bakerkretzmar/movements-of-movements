@@ -11,9 +11,11 @@
     <!-- {{ partial:banner }} -->
 
     <article class="container max-w-4xl mb-12">
-        <div class="py-8 text-xl">
-            {{ template_content }}
-        </div>
+        <section class="prose py-8 text-xl">
+            {{ content }}
+                {{ partial src="sets/{type}" }}
+            {{ /content }}
+        </section>
 
         {{ asset url="/assets/murmuration.mp4" }}
             <video autoplay loop muted src="{{ url }}" alt="{{ alt }}" class="w-full h-full object-cover"></video>

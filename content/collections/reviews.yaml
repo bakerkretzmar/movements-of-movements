@@ -5,7 +5,7 @@ blueprints:
   - review
 mount: 44501b39-d4ed-40e8-9319-2c46103b1754
 revisions: false
-route: '/reviews/{slug}'
+route: '{mount}/{slug}'
 sort_dir: asc
 default_status: draft
 date_behavior:

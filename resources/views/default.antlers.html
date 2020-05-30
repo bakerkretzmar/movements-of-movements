@@ -2,6 +2,8 @@
 
 <section class="prose">
     {{ content }}
+        {{ partial src="sets/{type}" }}
+    {{ /content }}
 </section>
 
 {{ if slug === 'news' }}

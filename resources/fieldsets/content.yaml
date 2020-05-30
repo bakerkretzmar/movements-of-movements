@@ -28,7 +28,7 @@ fields:
       listable: hidden
       display: Content
       sets:
-        embed_media:
+        media:
           display: 'Media'
           fields:
             -

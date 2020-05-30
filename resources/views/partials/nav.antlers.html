@@ -1,0 +1,15 @@
+<div class="relative h-48">
+    <img class="w-full h-full object-cover object-center" style="filter: brightness(0.7);" src="/swirl.jpg"/>
+
+    <nav class="absolute bottom-0 inset-x-0 container max-w-4xl pb-6 space-y-4 text-white">
+        <a href="/" class="text-4xl tracking-tight font-bold"><span class="whitespace-no-wrap">The Movements</span> <span class="whitespace-no-wrap">of Movements</span></a>
+
+        <ul class="flex text-xl">
+            {{ nav:main_menu }}
+                <li class="mr-4">
+                    <a href="{{ url }}" class="p-1 font-medium hover:underline">{{ title }}</a>
+                </li>
+            {{ /nav:main_menu }}
+        </ul>
+    </nav>
+</div>

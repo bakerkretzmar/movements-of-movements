@@ -2,7 +2,7 @@
 title: Books
 updated_by: f0fb257d-0ea9-4703-bb42-1a4723fa9e2c
 updated_at: 1590795996
-template: books
+template: books/index
 id: 2ca5263a-dee8-4a1e-85d2-3aae21659614
 content:
   -
