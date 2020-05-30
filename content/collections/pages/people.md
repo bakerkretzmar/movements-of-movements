@@ -1,7 +1,8 @@
 ---
 title: People
 updated_by: f0fb257d-0ea9-4703-bb42-1a4723fa9e2c
-updated_at: 1590798359
+updated_at: 1590864192
+template: people/index
 id: fb450d9c-1fe2-437e-a9e9-2d59baa32a3e
 content:
   -
@@ -25,6 +26,8 @@ content:
         type: media
         file: jai-on-the-phone.jpg
         caption: null
+        width: half
+        alignment: left
   -
     type: paragraph
     content:
@@ -52,7 +55,7 @@ content:
   -
     type: heading
     attrs:
-      level: 3
+      level: 2
     content:
       -
         type: text
