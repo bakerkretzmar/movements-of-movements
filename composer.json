@@ -3,6 +3,7 @@
     "description": "Website for The Movements of Movements",
     "keywords": ["movements", "statamic", "laravel"],
     "type": "project",
+    "license": "proprietary",
     "require": {
         "php": "^7.4",
         "fideloper/proxy": "^4.2",
