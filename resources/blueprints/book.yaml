@@ -68,26 +68,23 @@ sections:
       -
         handle: price
         field:
-          input_type: number
-          character_limit: 3
+          input_type: text
+          character_limit: 5
           prepend: $
-          append: '.00'
           type: text
           localizable: false
           width: 25
           listable: true
           display: Price
-          validate: required|integer
+          validate: required
       -
         handle: sale_price
         field:
-          input_type: number
-          character_limit: 3
+          input_type: text
+          character_limit: 5
           prepend: $
-          append: '.00'
           type: text
           localizable: false
           width: 25
           listable: hidden
           display: 'Sale Price'
-          validate: integer

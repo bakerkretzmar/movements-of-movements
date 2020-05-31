@@ -1,7 +1,7 @@
 ---
 title: Home
 updated_by: f0fb257d-0ea9-4703-bb42-1a4723fa9e2c
-updated_at: 1590796388
+updated_at: 1590947439
 layout: home
 id: home
 content:
@@ -59,4 +59,13 @@ content:
       -
         type: text
         text: ' to the editor and contributors, arrange book-related events, and learn more about the individual volumes.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'This site is always going to be work-in-progress, but at the moment it is also still under construction. So don’t mind the blank spaces, we’ll be filling them in soon!'
 ---
