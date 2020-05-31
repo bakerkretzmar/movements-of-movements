@@ -1,10 +1,18 @@
-<div class="relative h-48">
-    <img class="w-full h-full object-cover object-center" style="filter: brightness(0.7);" src="/swirl.jpg"/>
+<div class="relative {{ slug === 'home' ? '' : 'h-48' }}" style="{{ slug === 'home' ? 'height:20rem;' : '' }}">
+    {{ asset url="/assets/murmuration.mp4" }}
+        <video autoplay loop muted src="{{ url }}" alt="{{ alt }}" class="w-full h-full object-cover object-center"></video>
+    {{ /asset }}
 
-    <nav class="absolute bottom-0 inset-x-0 container max-w-4xl pb-6 space-y-4 text-white">
-        <a href="/" class="text-4xl tracking-tight font-bold"><span class="whitespace-no-wrap">The Movements</span> <span class="whitespace-no-wrap">of Movements</span></a>
+    <nav class="absolute bottom-0 inset-x-0 container max-w-4xl pb-6 text-white">
+        <a href="/" class="block {{ slug === 'home' ? 'text-5xl' : 'text-4xl' }} tracking-tight font-bold">
+            <span class="whitespace-no-wrap">The Movements</span> <span class="whitespace-no-wrap">of Movements</span>
+        </a>
 
-        <ul class="flex text-xl">
+        <span class="block italic">
+            A Thinking Space and Companion Website to The Movements of Movements Book Series
+        </span>
+
+        <ul class="flex text-xl mt-5">
             {{ nav:main_menu }}
                 <li class="relative mr-4 group">
                     <a href="{{ url }}" class="p-1 font-medium hover:underline">{{ title }}</a>

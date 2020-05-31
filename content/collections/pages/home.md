@@ -2,7 +2,6 @@
 title: Home
 updated_by: f0fb257d-0ea9-4703-bb42-1a4723fa9e2c
 updated_at: 1590947439
-layout: home
 id: home
 content:
   -
