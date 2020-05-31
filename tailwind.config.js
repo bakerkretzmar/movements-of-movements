@@ -20,6 +20,9 @@ module.exports = {
             center: true,
             padding: '1rem',
         },
+        minWidth: {
+            'max-content': 'max-content',
+        },
     },
     variants: {
         display: ['responsive', 'group-hover'],

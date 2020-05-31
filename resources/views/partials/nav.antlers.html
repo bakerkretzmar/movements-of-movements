@@ -10,8 +10,8 @@
                     <a href="{{ url }}" class="p-1 font-medium hover:underline">{{ title }}</a>
 
                     {{ if children }}
-                        <div class="hidden group-hover:block absolute pt-2 -ml-3">
-                            <ul class="px-3 py-2 bg-red-900 rounded-md shadow-sm">
+                        <div class="hidden group-hover:block absolute min-w-max-content pt-2 -ml-3">
+                            <ul class="px-3 py-2 rounded-md shadow-sm" style="background-color: rgb(221, 161, 96);">
                                 {{ children }}
                                     <li>
                                         <a href="{{ url }}" class="p-1 font hover:underline">{{ title }}</a>

@@ -9,8 +9,8 @@
         <li><strong>Published</strong>: {{ date format="m/Y" }}</li>
         <li>
             <strong>Price</strong>:
-            {{ if sale_price }}<span>US${{ sale_price }}.00</span>{{ /if }}
-            <span class="{{ sale_price ? 'line-through' : ''}}">US${{ price }}.00</span>
+            {{ if sale_price }}<span>US${{ sale_price }}</span>{{ /if }}
+            <span class="{{ sale_price ? 'line-through' : ''}}">US${{ price }}</span>
         </li>
         {{ partial:paypal }}
     </ul>
