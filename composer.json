@@ -54,12 +54,12 @@
             "@php artisan statamic:install --ansi"
         ],
         "sync-up": [
-            "rsync -a --progress public/assets/ clients:/home/forge/movementsofmovements.net/public/assets/",
-            "rsync -a --progress users/ clients:/home/forge/movementsofmovements.net/users/"
+            "rsync -aP public/assets/ clients:/home/forge/movementsofmovements.net/public/assets/",
+            "rsync -aP users/ clients:/home/forge/movementsofmovements.net/users/"
         ],
         "sync-down": [
-            "rsync -a --progress clients:/home/forge/movementsofmovements.net/public/assets/ public/assets/",
-            "rsync -a --progress clients:/home/forge/movementsofmovements.net/users/ users/"
+            "rsync -aP clients:/home/forge/movementsofmovements.net/public/assets/ public/assets/",
+            "rsync -aP clients:/home/forge/movementsofmovements.net/users/ users/"
         ]
     }
 }
