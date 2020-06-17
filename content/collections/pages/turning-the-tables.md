@@ -1,8 +1,12 @@
 ---
 title: 'Turning the Tables'
 parent: 57dcbca9-440c-4418-a297-1857975d4d8b
-updated_by: f0fb257d-0ea9-4703-bb42-1a4723fa9e2c
-updated_at: 1590962194
+updated_by: 5d156462-836a-4acc-b981-891a934b1d86
+updated_at: 1592066835
 id: 87db850f-6a1d-487e-bdf6-728e5cde59d2
-published: false
+content:
+  -
+    type: paragraph
+  -
+    type: paragraph
 ---

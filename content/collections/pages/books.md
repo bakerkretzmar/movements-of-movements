@@ -1,7 +1,7 @@
 ---
 title: Books
-updated_by: f0fb257d-0ea9-4703-bb42-1a4723fa9e2c
-updated_at: 1590795996
+updated_by: 5d156462-836a-4acc-b981-891a934b1d86
+updated_at: 1592067913
 template: books/index
 id: 2ca5263a-dee8-4a1e-85d2-3aae21659614
 content:
@@ -10,7 +10,20 @@ content:
     content:
       -
         type: text
-        text: 'Welcome to the Movements of Movements project, a companion to '
+        text: 'Welcome to the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://movementsofmovements.net'
+              target: null
+              rel: noopener
+        text: 'Movements of Movements project'
+      -
+        type: text
+        text: ', a companion to '
       -
         type: text
         marks:
