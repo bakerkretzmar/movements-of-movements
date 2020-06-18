@@ -6,6 +6,16 @@
     {{ /content }}
 </section>
 
+<section class="space-y-2">
+    {{ nav:collection:pages :from="url" }}
+        <div class="rounded-lg transition duration-75 ease-in-out shadow hover:shadow-md group">
+            <a href="{{ url }}" class="block px-6 pt-2 pb-1 text-2xl font-medium rounded-lg shadow-xs">
+                {{ title }} <span class="ml-2 group-hover:ml-3 text-xl transition-all duration-75 ease-in-out">→</span>
+            </a>
+        </div>
+    {{ /nav:collection:pages }}
+</section>
+
 {{ if slug === 'wsm-discuss' }}
     <iframe src="https://lists.openspaceforum.net/pipermail/wsm-discuss/" width="100%" height="800" class="mt-4"></iframe>
 {{ /if }}
