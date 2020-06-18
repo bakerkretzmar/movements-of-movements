@@ -26,6 +26,7 @@ module.exports = {
     },
     variants: {
         display: ['responsive', 'group-hover'],
+        margin: ['responsive', 'group-hover'],
     },
     plugins: [require('@tailwindcss/ui')],
 };
