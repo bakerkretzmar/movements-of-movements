@@ -1,7 +1,7 @@
 ---
 title: 'TTT November 2019 Workshop Podcast Series'
-updated_by: 5d156462-836a-4acc-b981-891a934b1d86
-updated_at: 1592093870
+updated_by: f0fb257d-0ea9-4703-bb42-1a4723fa9e2c
+updated_at: 1592437950
 id: 10358a45-6c06-4ff4-a684-111ea18f3a4b
 content:
   -
@@ -172,12 +172,15 @@ content:
               -
                 type: text
                 text: 'Carolyn Laude (Senior Policy Analyst, Indigenous Services Canada) – ‘Invocation to pluriversal worldviews’'
-  -
-    type: paragraph
-    content:
       -
-        type: text
-        text: "·\_\_\_\_\_\_ Molly Kane (Executive Director, Council of Canadians) - ‘A Changing World : Emerging World Politics and (Dis)Order’."
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Molly Kane (Executive Director, Council of Canadians) - ‘A Changing World : Emerging World Politics and (Dis)Order’.'
   -
     type: paragraph
     content:
@@ -258,12 +261,15 @@ content:
               -
                 type: text
                 text: 'Carolyn Laude (Senior Policy Analyst, Indigenous Services Canada) – ‘Indigenous worldviews’'
-  -
-    type: paragraph
-    content:
       -
-        type: text
-        text: "·\_\_\_\_\_\_ Nadia Abu Zahra (Associate Professor and Joint Chair in Women's Studies at Carleton University and the University of Ottawa) – ‘Perspectives in and from the Middle East’"
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Nadia Abu Zahra (Associate Professor and Joint Chair in Women''s Studies at Carleton University and the University of Ottawa) – ‘Perspectives in and from the Middle East’'
   -
     type: paragraph
     content:
@@ -294,12 +300,15 @@ content:
               -
                 type: text
                 text: 'Fayyaz Baqir (Visiting Professor, School of International Development and Globalisation Studies, uOttawa, and co-organiser of the Workshop) – ‘Perspectives in and from Asia’'
-  -
-    type: paragraph
-    content:
       -
-        type: text
-        text: "·\_\_\_\_\_\_ Aoua Bocar (Research Associate, Institute of Feminist and Gender Studies, uOttawa) – ‘Perspectives in and from Africa’"
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Aoua Bocar (Research Associate, Institute of Feminist and Gender Studies, uOttawa) – ‘Perspectives in and from Africa’'
   -
     type: paragraph
     content:
@@ -319,17 +328,26 @@ content:
             type: bold
         text: 'Perspectives in and from Europe and the North'
   -
-    type: paragraph
+    type: bullet_list
     content:
       -
-        type: text
-        text: "·\_\_\_\_\_\_ Costanza Musu (Associate Professor, Public and International Affairs, uOttawa) – ‘Perspectives in and on Europe’"
-  -
-    type: paragraph
-    content:
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Costanza Musu (Associate Professor, Public and International Affairs, uOttawa) – ‘Perspectives in and on Europe’'
       -
-        type: text
-        text: "·\_\_\_\_\_\_ Syed Sajjadur (Senior Fellow, School of International Development and Globalisation Studies, uOttawa) : ‘Perspectives in and on the North’"
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Syed Sajjadur (Senior Fellow, School of International Development and Globalisation Studies, uOttawa) : ‘Perspectives in and on the North’'
   -
     type: paragraph
     content:
@@ -418,7 +436,11 @@ content:
         type: text
         marks:
           -
-            type: underline
+            type: link
+            attrs:
+              href: '/assets/turning-the-tables/Turning-the-Tables,-Discussion-note-for-Workshop.pdf'
+              target: null
+              rel: noopener
         text: 'Discussion Note'
       -
         type: text
@@ -427,7 +449,11 @@ content:
         type: text
         marks:
           -
-            type: underline
+            type: link
+            attrs:
+              href: /assets/turning-the-tables/Turning-the-Tables-Programme.pdf
+              target: null
+              rel: noopener
         text: Programme
       -
         type: text
