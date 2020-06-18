@@ -5,6 +5,7 @@
 /public/storage
 /public/vendor/statamic
 /storage/*.key
+/storage/statamic/dimensions-cache
 /storage/statamic/glide
 /vendor
 .env
