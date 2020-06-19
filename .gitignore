@@ -5,9 +5,6 @@
 /public/storage
 /public/vendor/statamic
 /storage/*.key
-/storage/statamic/dimensions-cache
-/storage/statamic/glide
-/storage/statamic/password_resets
 /vendor
 .env
 npm-debug.log
