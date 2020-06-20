@@ -1,7 +1,10 @@
 {{ scope:embed }}
     {{ file }}
         {{ if is_image }}
-            <img src="{{ url }}" alt="{{ caption }}" class="embed-width-{{ embed:width }} embed-align-{{ embed:alignment }}"/>
+            <figure class="embed-width-{{ embed:width }} embed-align-{{ embed:alignment }}">
+                <img src="{{ url }}" alt="{{ caption }}" class=""/>
+                <figcaption></figcaption>
+            </figure>
         {{ elseif (extension | contains_any:mp4:mov:mpeg) }}
             <video controls src="{{ url }}" alt="{{ caption }}" class="embed-width-{{ embed:width }} embed-align-{{ embed:alignment }}"></video>
         {{ elseif extension === 'pdf' }}
