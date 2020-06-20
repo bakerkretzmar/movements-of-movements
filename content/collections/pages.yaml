@@ -8,7 +8,7 @@ route: '{parent_uri}/{slug}'
 sort_dir: asc
 structure:
   root: true
-  max_depth: 3
+  max_depth: 4
   tree:
     -
       entry: home
@@ -28,10 +28,11 @@ structure:
           children:
             -
               entry: 97194b01-9799-4112-b9c1-95b103986317
-            -
-              entry: 1eb8af48-192e-4cb8-8fcc-8bf3bc1cbc27
-            -
-              entry: 10358a45-6c06-4ff4-a684-111ea18f3a4b
+              children:
+                -
+                  entry: 1eb8af48-192e-4cb8-8fcc-8bf3bc1cbc27
+                -
+                  entry: 10358a45-6c06-4ff4-a684-111ea18f3a4b
         -
           entry: dd4a6bab-5eeb-467b-80d6-9426a3394d28
     -
