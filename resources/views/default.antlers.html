@@ -20,7 +20,21 @@
     {{ /collection:pages }}
 </section> #}}
 
-<section class="space-y-2 mt-12">
+{{ if documents }}
+    <section class="mt-12 space-y-2 clear-both">
+        <h4 class="text-xl font-bold">Documents</h4>
+
+        {{ documents }}
+            <div class="rounded-lg transition duration-75 ease-in-out shadow hover:shadow-md group">
+                <a href="{{ url }}" class="block px-6 pt-2 pb-1 text-2xl font-medium rounded-lg shadow-xs">
+                    {{ title }} <span class="ml-2 group-hover:ml-3 text-xl transition-all duration-75 ease-in-out">→</span>
+                </a>
+            </div>
+        {{ /documents }}
+    </section>
+{{ /if }}
+
+<section class="mt-12 space-y-2 clear-both">
     {{ nav:collection:pages :from="url" }}
         {{ if url !== page:url }}
             <div class="rounded-lg transition duration-75 ease-in-out shadow hover:shadow-md group">
