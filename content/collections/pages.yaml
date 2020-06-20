@@ -7,7 +7,7 @@ revisions: false
 route: '{parent_uri}/{slug}'
 sort_dir: asc
 structure:
-  root: false
+  root: true
   max_depth: 4
   tree:
     -
