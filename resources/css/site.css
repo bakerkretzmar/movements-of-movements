@@ -25,8 +25,8 @@
 .embed-width-half { @apply w-1/2; }
 .embed-width-full { @apply w-full; }
 
-.embed-align-left { @apply float-left mr-10 mb-4; }
+.embed-align-left { @apply float-left pr-8 mb-4; }
 .embed-align-center { @apply mx-auto; }
-.embed-align-right { @apply float-right ml-10 mb-4; }
+.embed-align-right { @apply float-right pl-8 mb-4; }
 
 @tailwind utilities;
