@@ -1,0 +1,48 @@
+title: Document
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: title
+        field:
+          input_type: text
+          type: text
+          localizable: false
+          listable: true
+          display: Title
+          validate: required
+      -
+        handle: author
+        field:
+          input_type: text
+          type: text
+          localizable: false
+          listable: true
+          display: Author
+      -
+        handle: cover_image
+        field:
+          mode: grid
+          container: assets
+          restrict: false
+          allow_uploads: true
+          max_files: 1
+          type: assets
+          localizable: false
+          listable: true
+          display: 'Cover Image'
+      -
+        handle: file_attachment
+        field:
+          mode: list
+          container: assets
+          restrict: false
+          allow_uploads: true
+          max_files: 1
+          type: assets
+          localizable: false
+          listable: hidden
+          display: 'File Attachment'
+      -
+        import: content

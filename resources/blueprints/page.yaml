@@ -14,3 +14,13 @@ sections:
           validate: required
       -
         import: content
+      -
+        handle: documents
+        field:
+          mode: default
+          collections:
+            - documents
+          type: entries
+          localizable: false
+          listable: hidden
+          display: Documents

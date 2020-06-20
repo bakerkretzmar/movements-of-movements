@@ -1,0 +1,11 @@
+title: Documents
+template: documents/show
+layout: layout
+blueprints:
+  - document
+revisions: false
+route: 'documents/{slug}'
+sort_dir: asc
+date_behavior:
+  past: public
+  future: private
