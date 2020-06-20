@@ -1,8 +1,9 @@
 ---
 title: 'TTT November 2019 Workshop Documents'
 updated_by: 5d156462-836a-4acc-b981-891a934b1d86
-updated_at: 1592261226
+updated_at: 1592662244
 id: 1eb8af48-192e-4cb8-8fcc-8bf3bc1cbc27
+published: false
 content:
   -
     type: paragraph
@@ -11,7 +12,7 @@ content:
     attrs:
       values:
         type: media
-        file: 'turning-the-tables/Turning-the-Tables,-Announcement-Invitation,-draft.pdf'
+        file: null
         caption: 'TTT November 2019 Workshop Announcement and Invitation'
         width: null
         alignment: null
@@ -44,7 +45,7 @@ content:
     attrs:
       values:
         type: media
-        file: 'turning-the-tables/Turning-the-Tables,-Programme-Announce-and-Invite.pdf'
+        file: null
         caption: 'TTT November 2019 Workshop Programme'
         width: null
         alignment: null
