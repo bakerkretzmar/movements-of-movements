@@ -1,7 +1,8 @@
 ---
 title: 'TTT November 2019 Workshop Podcast Series'
 updated_by: f0fb257d-0ea9-4703-bb42-1a4723fa9e2c
-updated_at: 1592437950
+updated_at: 1592680273
+cover_image: chessboard.png
 id: 10358a45-6c06-4ff4-a684-111ea18f3a4b
 content:
   -

@@ -13,7 +13,17 @@ sections:
           display: Title
           validate: required
       -
-        import: content
+        handle: cover_image
+        field:
+          mode: grid
+          container: assets
+          restrict: false
+          allow_uploads: true
+          max_files: 1
+          type: assets
+          localizable: false
+          listable: true
+          display: 'Cover Image'
       -
         handle: documents
         field:
@@ -24,3 +34,5 @@ sections:
           localizable: false
           listable: hidden
           display: Documents
+      -
+        import: content
