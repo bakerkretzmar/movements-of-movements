@@ -21,16 +21,26 @@
 </section> #}}
 
 {{ if documents }}
-    <section class="mt-12 space-y-2 clear-both">
+    <section class="mt-12 space-y-4 clear-both">
         <h4 class="text-xl font-bold">Documents</h4>
 
-        {{ documents }}
-            <div class="rounded-lg transition duration-75 ease-in-out shadow hover:shadow-md group">
-                <a href="{{ url }}" class="block px-6 pt-2 pb-1 text-2xl font-medium rounded-lg shadow-xs">
-                    {{ title }} <span class="ml-2 group-hover:ml-3 text-xl transition-all duration-75 ease-in-out">→</span>
-                </a>
-            </div>
-        {{ /documents }}
+        <div class="grid md:grid-cols-2 gap-8">
+            {{ documents }}
+                <div class="h-64 rounded-lg transition duration-75 ease-in-out shadow hover:shadow-md group">
+                    <a href="{{ url }}" class="relative block w-full h-full rounded-lg shadow-xs">
+                        {{ if cover_image }}
+                            {{ cover_image }}
+                                <img src="{{ url }}" class="w-full h-full object-cover object-center rounded-lg">
+                            {{ /cover_image }}
+                        {{ /if }}
+
+                        <span href="{{ url }}" class="absolute block bottom-0 inset-x-0 px-4 pt-6 pb-2 text-xl text-white font-medium leading-tight rounded-b-lg" style="background: linear-gradient(transparent, rgba(0, 0, 0, .25) 15%, rgba(0, 0, 0, .8) 100%);">
+                            {{ title }} <span class="ml-2 group-hover:ml-3 text-xl transition-all duration-75 ease-in-out">→</span>
+                        </span>
+                    </a>
+                </div>
+            {{ /documents }}
+        </div>
     </section>
 {{ /if }}
 
