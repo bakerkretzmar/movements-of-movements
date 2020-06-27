@@ -39,7 +39,7 @@ sections:
           container: assets
           restrict: false
           allow_uploads: true
-          max_files: 1
+          max_files: 2
           type: assets
           localizable: false
           listable: hidden
