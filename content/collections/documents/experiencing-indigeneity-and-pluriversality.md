@@ -1,9 +1,11 @@
 ---
 title: 'Experiencing Indigeneity and Pluriversality'
 author: 'Carolyn Laude, November 5 2019'
-file_attachment: 'turning-the-tables/speakers-invocation-papers/Carolyn-Laude,-November-2019--Experiencing-Indigeneity-and-Pluri-versality.pdf'
+file_attachment:
+  - 'Carolyn-Laude,-Oct-2019b---Experiencing-Indigeneity-and-Pluriversality-Nov-2019-PPT-for-TTT-Invocation-x-cl-281019.pptx'
+  - 'Carolyn-Laude,-November-2019--Experiencing-Indigeneity-and-Pluriversality.--Speaking-points-for-TTT-Invocation,-dt-Nov-28-2019-x-CL-011219-w-header-js021219-pdf-js-130620.pdf'
 updated_by: 5d156462-836a-4acc-b981-891a934b1d86
-updated_at: 1593212640
+updated_at: 1593717762
 id: dfeb560b-aa7c-4ef3-9454-c905a314dc24
 content:
   -

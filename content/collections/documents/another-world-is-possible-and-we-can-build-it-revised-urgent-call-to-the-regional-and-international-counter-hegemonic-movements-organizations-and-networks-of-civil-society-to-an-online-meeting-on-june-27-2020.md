@@ -1,9 +1,10 @@
 ---
-title: '‘Another World Is Possible And We Can Build It !’, Revised Urgent Call to the regional and international, counter-hegemonic movements, organizations, and networks of civil society, to an online meeting on June 27 2020'
+title: '‘Another World Is Possible And We Can Build It!’, Revised Urgent Call to the regional and international, counter-hegemonic movements, organizations, and networks of civil society, to an online meeting on June 27 2020'
 author: 'Members of WSF International Council, June 2020'
-file_attachment: 'Members-of-WSF-International-Council-meeting-in-Porto-Alegre-in-2020,-June-2020--Another-World-Is-Possible-And-We-Can-Build-It-!,-Urgent-Call,-REVISED-x-rita-freire-170620.pdf'
-updated_by: 5d156462-836a-4acc-b981-891a934b1d86
-updated_at: 1593030309
+file_attachment:
+  - 'Members-of-WSF-International-Council-meeting-in-Porto-Alegre-in-2020,-June-2020--Another-World-Is-Possible-And-We-Can-Build-It-!,-Urgent-Call,-REVISED-x-rita-freire-170620.pdf'
+updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
+updated_at: 1593789019
 id: 36944a7b-ee3a-4537-8ad1-ddfb06360926
 content:
   -
@@ -13,7 +14,7 @@ content:
     content:
       -
         type: text
-        text: '      ANOTHER WORLD IS POSSIBLE AND WE CAN BUILD IT!'
+        text: 'ANOTHER WORLD IS POSSIBLE AND WE CAN BUILD IT!'
   -
     type: heading
     attrs:

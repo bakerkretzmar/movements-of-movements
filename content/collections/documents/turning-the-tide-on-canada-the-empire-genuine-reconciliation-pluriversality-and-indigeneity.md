@@ -2,7 +2,9 @@
 title: 'Turning the Tide on Canada, the Empire : Genuine Reconciliation, Pluriversality, and Indigeneity'
 author: 'Carolyn Laude, December 2019'
 updated_by: 5d156462-836a-4acc-b981-891a934b1d86
-updated_at: 1593216707
+updated_at: 1593718086
+file_attachment:
+  - 'Carolyn-Laude,-November-2019b--Indigeneity,-Pluriversality,-and-Reconciliation''.-Final-PPoint-for-TTT-Workshop-x-cl051119.pptx'
 id: 845660c7-60b7-451f-ae9b-8b5f7ba39ba4
 content:
   -
