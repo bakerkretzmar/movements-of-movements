@@ -1,0 +1,23 @@
+<h1 class="mt-3 text-5xl font-medium leading-loose">{{ title }}</h1>
+
+<section class="prose">
+    {{ content }}
+        {{ partial src="sets/{type}" }}
+    {{ /content }}
+</section>
+
+<!-- <div class="grid sm:grid-cols-2 gap-8 mt-8">
+    {{ collection:books }}
+        <a class="block group" href="{{ url }}">
+            <img src="{{ cover }}" class="block w-full max-w-sm mx-auto"/>
+
+            <span class="block mt-5 md:text-xl text-gray-500 italic">{{ title }}</span>
+
+            <h2 class="mt-1 text-3xl md:text-4xl font-bold text-red-800 group-hover:underline">
+                {{ subtitle }}
+            </h2>
+
+            <p class="mt-1">{{ description | safe_truncate:280:... }}</p>
+        </a>
+    {{ /collection:books }}
+</div> -->
