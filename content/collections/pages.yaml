@@ -63,3 +63,6 @@ structure:
       entry: c8e0cab1-fba2-4236-9720-03e04922d1ee
     -
       entry: 9a8aeac0-4648-4b3b-b1f0-ec458e672979
+      children:
+        -
+          entry: 5159ee8a-9295-41f0-8791-00b26540d839
