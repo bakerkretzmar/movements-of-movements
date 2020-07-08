@@ -60,8 +60,8 @@ return [
     'use_authenticated' => true,
 
     'user' => [
-        'name' => env('STATAMIC_GIT_USER_NAME', 'Git'),
-        'email' => env('STATAMIC_GIT_USER_EMAIL', 'git@movementsofmovements.net'),
+        'name' => env('STATAMIC_GIT_USER_NAME', 'Statamic'),
+        'email' => env('STATAMIC_GIT_USER_EMAIL', 'statamic@movementsofmovements.net'),
     ],
 
     /*
