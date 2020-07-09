@@ -62,3 +62,5 @@ contributor:
     - 'access cp'
     - 'view contributors entries'
     - 'edit own contributors entries'
+    - 'view assets assets'
+    - 'upload assets assets'
