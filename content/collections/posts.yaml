@@ -1,11 +1,11 @@
 title: Posts
-template: posts/index
+template: posts/show
 layout: layout
 blueprints:
   - post
 mount: 9a8aeac0-4648-4b3b-b1f0-ec458e672979
 revisions: false
-route: '{parent_uri}/{slug}'
+route: 'openspace/{slug}'
 date: true
 sort_dir: asc
 date_behavior:
