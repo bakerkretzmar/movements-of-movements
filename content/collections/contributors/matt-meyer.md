@@ -2,9 +2,11 @@
 title: 'Matt Meyer'
 first_name: Matt
 last_name: Meyer
-updated_by: 7efb7346-ef2b-4b71-aaee-89e8495b5807
-updated_at: 1594268788
+updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
+updated_at: 1594298229
 excerpt: 'Matt Meyer is Secretary-General of the International Peace Research Association (the world’s leading consortium of university-based professors, scholars, students, and community leaders); the Senior Research Scholar of the University of Massachusetts/Amherst’s Resistance Studies Initiative; and is also active with the International Fellowship of Reconciliation  and War Resisters’ International.'
+photo:
+  - MattM-profile-2.jpg
 id: 1d73ac98-336a-4c07-8153-25806e2ab114
 content:
   -
