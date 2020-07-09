@@ -9,8 +9,20 @@ sections:
           input_type: text
           type: text
           localizable: false
-          listable: hidden
+          listable: true
           display: Title
+          validate: required
+      -
+        handle: author
+        field:
+          max_items: 1
+          mode: default
+          collections:
+            - contributors
+          type: entries
+          localizable: false
+          listable: true
+          display: Author
           validate: required
       -
         handle: cover_image
