@@ -1,7 +1,7 @@
 ---
 title: Home
-updated_by: f0fb257d-0ea9-4703-bb42-1a4723fa9e2c
-updated_at: 1590947439
+updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
+updated_at: 1594687694
 id: home
 content:
   -
@@ -67,4 +67,36 @@ content:
           -
             type: italic
         text: 'This site is always going to be work-in-progress, but at the moment it is also still under construction. So don’t mind the blank spaces, we’ll be filling them in soon!'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Please visit our '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://movementsofmovements.net/openspace'
+              target: null
+              rel: noopener
+        text: OpenSpace
+      -
+        type: text
+        text: ' section for recent posts by Matt Meyer and Gina Vargas. On Friday, July 24, 2020, (12 noon US Eastern Daylight Time), Matt, Gina and other contributors to the Movement of Movement series will be discussing the current political moment live on Facebook and via Zoom (the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://movementsofmovements.net/openspace/a-reflection-on-the-current-moment'
+              target: null
+              rel: noopener
+        text: 'most current details may be found here'
+      -
+        type: text
+        text: ).
 ---
