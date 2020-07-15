@@ -1,7 +1,7 @@
 ---
 title: Home
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1594836422
+updated_at: 1594837461
 id: home
 content:
   -
@@ -63,7 +63,13 @@ content:
         text: OpenSpace
       -
         type: text
-        text: ' section for recent posts by Matt Meyer and Gina Vargas. On Friday, July 24, 2020, (11:00 a.m. US Eastern Daylight Time), Matt, Gina and other contributors to the Movement of Movement series will be discussing the current political moment live on '
+        text: ' section for recent posts by Matt Meyer and Gina Vargas. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'On Friday, July 24, 2020, (11:00 a.m. US Eastern Daylight Time), Matt, Gina and other contributors to the Movement of Movement series will be discussing the current political moment live on '
       -
         type: text
         marks:
