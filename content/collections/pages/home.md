@@ -1,7 +1,7 @@
 ---
 title: Home
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1594783169
+updated_at: 1594785002
 id: home
 content:
   -
@@ -85,7 +85,20 @@ content:
         text: OpenSpace
       -
         type: text
-        text: ' section for recent posts by Matt Meyer and Gina Vargas. On Friday, July 24, 2020, (11:00 a.m. US Eastern Daylight Time), Matt, Gina and other contributors to the Movement of Movement series will be discussing the current political moment live on Facebook and via Zoom (the '
+        text: ' section for recent posts by Matt Meyer and Gina Vargas. On Friday, July 24, 2020, (11:00 a.m. US Eastern Daylight Time), Matt, Gina and other contributors to the Movement of Movement series will be discussing the current political moment live on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.facebook.com/events/3794094553950362/'
+              target: null
+              rel: noopener
+        text: Facebook
+      -
+        type: text
+        text: ' and via Zoom (the '
       -
         type: text
         marks:
