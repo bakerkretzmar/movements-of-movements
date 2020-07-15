@@ -1,7 +1,7 @@
 ---
 title: Home
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1594827978
+updated_at: 1594836422
 id: home
 content:
   -
@@ -25,26 +25,13 @@ content:
           -
             type: link
             attrs:
-              href: /people/editor
+              href: /people/
               target: null
               rel: noopener
         text: 'the editor'
       -
         type: text
-        text: ' and series contributors. Here you may order books, read reviews, find out about '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: /people/editor
-              target: null
-              rel: noopener
-        text: 'related events'
-      -
-        type: text
-        text: ' that are coming up, '
+        text: ' and series contributors. Here you may order books, read reviews, find out about related events that are coming up, '
       -
         type: text
         marks:
