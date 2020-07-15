@@ -1,7 +1,7 @@
 ---
 title: Home
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1594785002
+updated_at: 1594827978
 id: home
 content:
   -
@@ -63,15 +63,6 @@ content:
     content:
       -
         type: text
-        marks:
-          -
-            type: italic
-        text: 'This site is always going to be work-in-progress, but at the moment it is also still under construction. So don’t mind the blank spaces, we’ll be filling them in soon!'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'Please visit our '
       -
         type: text
@@ -111,5 +102,25 @@ content:
         text: 'most current details may be found here'
       -
         type: text
-        text: '): "What is the Nature, and Meaning, of Our Current Moment? A Movements of Movements Conversation."'
+        text: '): "'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'What is the Nature, and Meaning, of Our Current Moment? A Movements of Movements Conversation'
+      -
+        type: text
+        text: '."'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'This site is always going to be work-in-progress, but at the moment it is also still under construction. So don’t mind the blank spaces, we’ll be filling them in soon!'
+  -
+    type: paragraph
 ---
