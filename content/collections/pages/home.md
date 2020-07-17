@@ -1,7 +1,7 @@
 ---
 title: Home
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1594837461
+updated_at: 1594947232
 id: home
 content:
   -
@@ -92,7 +92,7 @@ content:
               href: 'https://movementsofmovements.net/openspace/a-reflection-on-the-current-moment'
               target: null
               rel: noopener
-        text: 'most current details may be found here'
+        text: 'most current details, speaker list, and program may be found here'
       -
         type: text
         text: '): "'
@@ -104,7 +104,7 @@ content:
         text: 'What is the Nature, and Meaning, of Our Current Moment? A Movements of Movements Conversation'
       -
         type: text
-        text: '."'
+        text: '." Participants include Johanna Fernandez, Gina Vargas, Laurence Cox, Oussiena Alidou, John Holloway, and Rose Brewer. '
   -
     type: paragraph
     content:
