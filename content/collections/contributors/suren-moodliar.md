@@ -4,17 +4,14 @@ first_name: Suren
 last_name: Moodliar
 excerpt: 'Suren Moodliar is a coordinator of encuentro5, an organization supportive of the Movements of Movements project.'
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1594782895
+updated_at: 1595015203
+photo:
+  - 2020-06-13-2.jpg
 id: edaeaa0f-765b-45c2-9346-7751420f1399
 content:
   -
     type: paragraph
     content:
-      -
-        type: image
-        attrs:
-          src: ''
-          alt: null
       -
         type: text
         marks:

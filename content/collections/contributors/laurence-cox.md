@@ -4,7 +4,9 @@ first_name: Laurence
 last_name: Cox
 excerpt: 'Laurence Cox is a writer, activist and teacher working with social movements in Ireland and globally.'
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1595005224
+updated_at: 1595014969
+photo:
+  - l.cox.png
 id: d2d05ab1-d478-449f-a72e-28e8daf24f88
 content:
   -
@@ -18,13 +20,7 @@ content:
     content:
       -
         type: text
-        text: "\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Laurence co-founded and co-edits the activist/academic social movements journal '
+        text: "\_Laurence co-founded and co-edits the activist/academic social movements journal "
       -
         type: text
         marks:
