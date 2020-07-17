@@ -1,7 +1,7 @@
 ---
 title: Home
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1594947232
+updated_at: 1595016618
 id: home
 content:
   -
@@ -9,16 +9,7 @@ content:
     content:
       -
         type: text
-        text: 'Welcome to the Movements of Movements project, a companion to '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'The Movements of Movements'
-      -
-        type: text
-        text: ' book series. This is an evolving project that supplements the series with updates from '
+        text: 'Welcome to the Movements of Movements project, a companion to the book series. This is an evolving project that supplements the series with updates from '
       -
         type: text
         marks:
@@ -31,7 +22,7 @@ content:
         text: 'the editor'
       -
         type: text
-        text: ' and series contributors. Here you may order books, read reviews, find out about related events that are coming up, '
+        text: ' and contributors. Here you may order books, read reviews, learn about related events, '
       -
         type: text
         marks:
@@ -44,7 +35,7 @@ content:
         text: 'reach out'
       -
         type: text
-        text: ' to the editor and contributors, arrange book-related events, and learn more about the individual volumes.'
+        text: ' to the editor and contributors, arrange book-related events, and find out about the individual volumes.'
   -
     type: paragraph
     content:
@@ -63,7 +54,7 @@ content:
         text: OpenSpace
       -
         type: text
-        text: ' section for recent posts by Matt Meyer and Gina Vargas. '
+        text: ' section for recent posts by Laurence Cox, Matt Meyer, and Gina Vargas. '
   -
     type: paragraph
     content:
