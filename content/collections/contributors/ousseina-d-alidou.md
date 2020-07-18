@@ -6,7 +6,7 @@ photo:
   - oa300.jpg
 excerpt: "Oussenia Alidou,\_Professor, Linguistics and African Studies,\_in the Department of African, Middle Eastern, and South Asian Languages and Literature at Rutgers University in the US, is based both in New Jersey and Niamey."
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1595029820
+updated_at: 1595034198
 id: 8765f5b4-a8dc-4395-a12e-96f4524f8fd1
 content:
   -
