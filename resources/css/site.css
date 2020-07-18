@@ -29,4 +29,6 @@
 .embed-align-center { @apply mx-auto; }
 .embed-align-right { @apply float-right pl-8 mb-4; }
 
+[x-cloak] { @apply hidden; }
+
 @tailwind utilities;
