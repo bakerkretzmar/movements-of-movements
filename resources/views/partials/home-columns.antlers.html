@@ -1,0 +1,63 @@
+<section class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+    <div>
+        <h2 class="mb-4 text-xl font-medium underline">OpenSpace</h2>
+
+        {{ collection:posts limit="3" }}
+            <div class="mt-6">
+                <a href="{{ url }}">
+                    <h4 class="mb-1 text-2xl leading-tight font-medium">{{ title }}</h4>
+                </a>
+                <p class="mb-1 text-base text-gray-600">{{ author:title }} – {{ date format="j F Y" }}</p>
+                <div class="mb-2">
+                    {{ content }}
+                        {{ text | strip_tags | safe_truncate:280:... }}
+                    {{ /content }}
+                </div>
+                <a href="{{ url }}" class="inline-block text-red-800 hover:underline">
+                    Read more →
+                </a>
+            </div>
+        {{ /collection:posts }}
+    </div>
+
+    <div>
+        <h2 class="mb-4 text-xl font-medium underline">Recent Pages</h2>
+
+        {{ collection:pages limit="3" sort="updated_at:desc" }}
+            <div class="mt-6">
+                <a href="{{ url }}">
+                    <h4 class="mb-1 text-2xl leading-tight font-medium">{{ title }}</h4>
+                </a>
+                <div class="mb-2">
+                    {{ content }}
+                        {{ text | strip_tags | safe_truncate:280:... }}
+                    {{ /content }}
+                </div>
+                <a href="{{ url }}" class="inline-block text-red-800 hover:underline">
+                    Read more →
+                </a>
+            </div>
+        {{ /collection:pages }}
+    </div>
+
+    <div>
+        <h2 class="mb-4 text-xl font-medium underline">OpenSpace</h2>
+
+        {{ collection:posts limit="3" }}
+            <div class="mt-6">
+                <a href="{{ url }}">
+                    <h4 class="mb-1 text-2xl leading-tight font-medium">{{ title }}</h4>
+                </a>
+                <p class="mb-1 text-base text-gray-600">{{ author:title }} – {{ date format="j F Y" }}</p>
+                <div class="mb-2">
+                    {{ content }}
+                        {{ text | strip_tags | safe_truncate:280:... }}
+                    {{ /content }}
+                </div>
+                <a href="{{ url }}" class="inline-block text-red-800 hover:underline">
+                    Read more →
+                </a>
+            </div>
+        {{ /collection:posts }}
+    </div>
+</section>
