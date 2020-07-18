@@ -17,11 +17,11 @@
 
             <div class="prose mb-4">
                 {{ content }}
-                    {{ text | safe_truncate:280:... }}
+                    {{ text | strip_tags | safe_truncate:280:... }}
                 {{ /content }}
             </div>
 
-            <a href="{{ url }}" class="inline-block text-red-800 hover:underline ">
+            <a href="{{ url }}" class="inline-block text-red-800 hover:underline">
                 Read more →
             </a>
         </div>
