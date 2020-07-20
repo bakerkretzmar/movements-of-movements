@@ -1,7 +1,7 @@
 ---
 title: Home
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1595234048
+updated_at: 1595234573
 id: home
 content:
   -
@@ -9,7 +9,13 @@ content:
     content:
       -
         type: text
-        text: 'The Movements of Movements project is a companion to the book series, one that adds updates from '
+        marks:
+          -
+            type: italic
+        text: 'The Movements of Movements'
+      -
+        type: text
+        text: ' website is a companion to the book series, one that adds updates from '
       -
         type: text
         marks:
@@ -22,7 +28,7 @@ content:
         text: 'the editor'
       -
         type: text
-        text: ' and contributors. Here you may order books, read reviews, learn about related events, '
+        text: ' & contributors. Here you may order books, read reviews, learn about related events, '
       -
         type: text
         marks:
@@ -35,20 +41,7 @@ content:
         text: 'reach out'
       -
         type: text
-        text: ' to the editor and contributors, arrange book-related events, and find out about the individual volumes. Please visit our '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://movementsofmovements.net/openspace'
-              target: null
-              rel: noopener
-        text: OpenSpace
-      -
-        type: text
-        text: ' section for recent posts by Laurence Cox, Matt Meyer, and Gina Vargas. '
+        text: ' to the editor and contributors, arrange related events, and find out about the volumes.  '
   -
     type: paragraph
     content:
@@ -63,7 +56,7 @@ content:
         text: 'July 24, 2020'
       -
         type: text
-        text: ', (11:00 a.m. US Eastern Daylight Time), we will be discussing the current political moment live on '
+        text: ', (11:00 a.m. US Eastern Daylight Time), we will address the current moment live on '
       -
         type: text
         marks:
@@ -86,7 +79,7 @@ content:
               href: 'https://movementsofmovements.net/openspace/a-reflection-on-the-current-moment'
               target: null
               rel: noopener
-        text: 'most current details, speaker list, and program may be found here'
+        text: 'details and speaker list may be found here'
       -
         type: text
         text: '): "'
