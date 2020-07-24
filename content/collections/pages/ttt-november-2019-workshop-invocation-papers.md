@@ -1,7 +1,7 @@
 ---
 title: 'TTT November 2019 Workshop Invocation Papers'
 updated_by: f0fb257d-0ea9-4703-bb42-1a4723fa9e2c
-updated_at: 1593875752
+updated_at: 1595551506
 documents:
   - dfeb560b-aa7c-4ef3-9454-c905a314dc24
 cover_image: chessboard.png
