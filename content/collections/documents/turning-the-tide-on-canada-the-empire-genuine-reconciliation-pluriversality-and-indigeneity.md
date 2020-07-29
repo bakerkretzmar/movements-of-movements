@@ -2,9 +2,9 @@
 title: 'Turning the Tide on Canada, the Empire : Genuine Reconciliation, Pluriversality, and Indigeneity'
 author: 'Carolyn Laude, December 2019'
 updated_by: 5d156462-836a-4acc-b981-891a934b1d86
-updated_at: 1593718086
+updated_at: 1596053178
 file_attachment:
-  - 'Carolyn-Laude,-November-2019b--Indigeneity,-Pluriversality,-and-Reconciliation''.-Final-PPoint-for-TTT-Workshop-x-cl051119.pptx'
+  - 'Carolyn-Laude,-December-2019--''Turning-the-Tide-on-Canada,-the-Empire---Genuine-Reconciliation,-Pluriversality,-and-Indigeneity.--Revised-Final-paper-for-TTT-Plenary-dt-Dec-1-2019-x-CL-021219-RVSD-FF-x-cl-210720-F-js290720-TC-ACA.pdf'
 id: 845660c7-60b7-451f-ae9b-8b5f7ba39ba4
 content:
   -
@@ -23,7 +23,25 @@ content:
     content:
       -
         type: text
-        text: 'Paper for Second Plenary Session of ‘Turning the Tables : International Development and the Games of Empire’ Workshop held at the University of Ottawa on November 5 2019'
+        text: 'Paper for Second Plenary Session of'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '‘Turning the Tables : International Development and the Games of Empire’'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Workshop held at the University of Ottawa on November 5 2019'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "\_"
   -
     type: paragraph
     content:
@@ -125,7 +143,7 @@ content:
         text: '[3]'
       -
         type: text
-        text: " \_("
+        text: ' ('
       -
         type: text
         marks:
@@ -134,7 +152,7 @@ content:
         text: 'Tsilhqot’in Nation '
       -
         type: text
-        text: '2014, para.88) supplants Indigenous jurisdiction, laws, sovereignty and rights. The power of Aboriginal title, as a liberal right, therefore seems to lie in what Radha D’Souza (2018) claims is its “power of promise” (p.51). If what D’Souza says is true, then Canada’s entire approach to reconciliation through the “recognition of rights, respect, co-operation, and partnership” (Government of Canada, 2015) with Indigenous peoples may hold nothing more than empty promises.'
+        text: '2014, para.88) supplants Indigenous jurisdiction, laws, sovereignty and rights. The power of Aboriginal title, as a liberal right, therefore, seems to lie in what Radha D’Souza (2018) claims is its “power of promise” (p.51). If what D’Souza says is true, then Canada’s entire approach to reconciliation through the “recognition of rights, respect, co-operation, and partnership” (Government of Canada, 2015) with Indigenous peoples may hold nothing more than empty promises.'
   -
     type: paragraph
     content:
@@ -218,13 +236,13 @@ content:
         text: '[9]'
       -
         type: text
-        text: ' ideology of reconciliation and that of Indigenous relationality wherein inherent rights flow from the Creator and not government laws (Lindberg 2012; Cardinal & Hildebrand 2000). This calls attention to dominant conceptions of land and rights needing to reconcile capitalist economic development with Indigenous relationality, inherent rights, sovereignty and legal traditions. I argue that a settler-colonial liberal-capitalist democracy model of reconciliation is a hollow proposition since it subordinates Indigenous sovereignty, inherent rights, and relationality under the thumb of exploitative national and global capitalist markets. Moreover, it coerces and subjects First Nations to the logic of capitalist forces for the sole purpose of opening Indigenous lands to the market instead of supporting Indigenous peoples’ social reproduction (Jobin & Riddle 2019, p. 15; Castros-Rea, J. & Altamirano-Jiménez, I. 2008). The following research questions will guide this paper: First, what is the present state of Indigeneity and Indigenous rights in Canada? Second, how can reconciliation make possible transnational pluri-versality in Canada? Third, what must Canada do to look out to the world stage from an Indigenous worldview?'
+        text: ' ideology of reconciliation and that of Indigenous relationality wherein inherent rights flow from the Creator and not government laws (Lindberg 2012; Cardinal & Hildebrand 2000). This calls attention to dominant conceptions of land and rights needing to reconcile capitalist economic development with Indigenous relationality, inherent rights, sovereignty and legal traditions. I argue that a settler-colonial liberal-capitalist democracy model of reconciliation is a hollow proposition since it subordinates Indigenous sovereignty, inherent rights, and relationality under the thumb of exploitative national and global capitalist markets. Moreover, it coerces and subjects First Nations to the logic of capitalist forces for the sole purpose of opening Indigenous lands to the market instead of supporting Indigenous peoples’ social reproduction (Jobin & Riddle 2019, p. 15; Castros-Rea, J. & Altamirano-Jiménez, I. 2008). The following research questions will guide this paper: First, what is the present state of Indigeneity and Indigenous rights in Canada? Second, how can reconciliation make possible transnational pluriversality in Canada? Third, what must Canada do to look out to the world stage from an Indigenous worldview?'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The paper unfolds in three parts. First, I will briefly touch upon Indigeneity and essentialism to set the stage. Second, I identify the present-state of Indigeneity and Indigenous rights in Canada. Third, I highlight the potential of genuine reconciliation as a path-forward for achieving transnational pluri-verisality. Fourth, I position “ways of co-existing”'
+        text: 'The paper unfolds in three parts. First, I will briefly touch upon Indigeneity and essentialism to set the stage. Second, I identify the present state of Indigeneity and Indigenous rights in Canada. Third, I highlight the potential of genuine reconciliation as a path-forward for achieving transnational pluriversality. Fourth, I position “ways of co-existing”'
       -
         type: text
         marks:
@@ -237,7 +255,7 @@ content:
         text: '[10]'
       -
         type: text
-        text: ' in the Canadian context of the rights-recognition agenda as the platform for re-conceptualizing pluri-versality on the global stage. The paper explains how the rights-recognition model'
+        text: ' in the Canadian context of the rights-recognition agenda as the platform for re-conceptualizing pluriversality on the global stage. The paper explains how the rights-recognition model'
       -
         type: text
         marks:
@@ -249,6 +267,10 @@ content:
         text: 'is a hollow proposition for achieving reconciliation and why we need to seek decolonial forms of reconciliation. As it stands, a settler-colonial liberal-capitalist democracy model of reconciliation subordinates’ Indigenous sovereignty, land and inherent rights at the local, national and global-settings. Keeping this in mind, I want to unpack how Indigeneity and essentialism are understood in the paper.'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: "\_"
   -
     type: paragraph
     content:
@@ -329,6 +351,12 @@ content:
     content:
       -
         type: text
+        text: "\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         text: 'The debates surrounding Indigeneity also have strong political and legal under-currents. As a result, Indigenous identity in Canada is defined in terms of rights-holders and/or as established under the '
       -
         type: text
@@ -385,7 +413,7 @@ content:
     content:
       -
         type: text
-        text: "The bureaucratic and political buzz on reconciliation has produced a multitude of reactions. At the individual level, public servants continue to grapple with what reconciliation means and how to put it into practice. Political messaging and actions to date have provoked a range of First Nation reactions on the reconciliation agenda. Nonetheless, there is much disparity in the views amongst federal and Indigenous governments on how best to reconcile land and rights issues. Some First Nations agree with the state rights-recognition wherein the relationship is one of “…a renewed legal and political relationship of rights recognition” (Coulthard 2014, p.3) in which resources and rights are redistributed through constructive arrangements. This view of reconciliation, Coulthard argues, assimilates Indigenous polities into Canadian society and merely reproduces configurations of colonial power instead of “peaceful co-existence grounded in the ideal of mutuality” (Coulthard 2013, p.2). Whereas other First Nations maintain the Indigenous lifeworld \_is the only possible framework. Those adopting this viewpoint choose not to engage with state contructs for achieving reconciliation. They claim that Indigenous inherent rights, their laws and their jurisdiction do not require state recognition or approval. In this context, Indigenous people actively maintain a “sustainable relationship with the land” (Coulthard 2014, p. 158; Alfred 2005, p. 40 - 45). Lastly, other First Nations believe reconciliation can be achieved by using a hybrid model of the two approaches. Interestingly, Ovide Mercredi had a similar experience of dealing with differing traditions and a divide amongst First Nationss on self-government."
+        text: "The bureaucratic and political buzz on reconciliation has produced a multitude of reactions. At the individual level, public servants continue to grapple with what reconciliation means and how to put it into practice. Political messaging and actions to date have provoked a range of First Nation reactions on the reconciliation agenda. Nonetheless, there is much disparity in the views amongst federal and Indigenous governments on how best to reconcile land and rights issues. Some First Nations agree with the state rights-recognition model wherein the relationship is one of “…a renewed legal and political relationship of rights recognition” (Coulthard 2014, p.3) in which resources and rights are redistributed through constructive arrangements. This view of reconciliation, Coulthard argues, assimilates Indigenous polities into Canadian society and merely reproduces configurations of colonial power instead of “peaceful co-existence grounded in the ideal of mutuality” (Coulthard 2013, p.2). Whereas other First Nations maintain the Indigenous lifeworld \_is the only possible framework. Those adopting the latter viewpoint choose not to engage with state constructs as a means of achieving reconciliation. They claim that Indigenous inherent rights, their laws and their jurisdiction do not require state recognition or approval. In this context, Indigenous people actively maintain a “sustainable relationship with the land” (Coulthard 2014, p. 158; Alfred 2005, p. 40 – 45). Lastly, other First Nations believe reconciliation can be achieved by using a hybrid model of the two approaches. Interestingly, Ovide Mercredi had a similar experience when dealing with differing traditions, viewpoints and a divide amongst First Nations on self-government."
       -
         type: text
         marks:
@@ -398,7 +426,13 @@ content:
         text: '[16]'
       -
         type: text
-        text: ' Despite the conflicting positions amongst First Nations, they successfully shot-down federal attempts to secure their buy-in on a rights-recognition framework and a suite of land policy reforms.'
+        text: ' Despite the often-conflicting positions amongst First Nations, they successfully shot-down federal attempts to secure their buy-in on a rights-recognition framework and a suite of land policy reforms.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "\_"
   -
     type: paragraph
     content:
@@ -413,7 +447,7 @@ content:
         text: ' '
       -
         type: text
-        text: "the grassroots movements of Idle No More and the Defenders of Land and Truth Network combined with Assembly of First Nations membership resistance demonstrated the growing displeasure to advancing a rights-recognition approach. Communities expressed relative unease with the process and timelines for overhauling the suite of land policies. Moreover, the perception that government was “continuing its old ways“ created issues of trust (Brake 2019). More generally, Indigenous peoples felt that governmental efforts were threatening Indigenous self-determination and inherent rights and jurisdictions. Beaver First Nation Chief Trevor Mercredi observed: “The government has taken away the authority of the people, the true rights holders in Canada…They’re domesticating everything we own, they’re domesticating us as each day goes by” (Blake 2019). As a result of this debacle, Indigenous leaders and community members have become even less tolerant of government‘s “colonial shape-shifting“ (Alfred & Corntassel 2005) tactics. Rather, there is a strong desire for deep institutional change by government in advancing and achieving reconciliation. The failure to secure First Nation support shows there is resistance to complete subordination of the Indigenous lifeworld under that of settler-colonial liberal-capitalist democracy. First Nations desire a nation-to-nation partnership that results in the co-design and co-development of land policy reforms. \_\_"
+        text: "the grassroots movements of Idle No More and the Defenders of Land and Truth Network combined with Assembly of First Nations membership resistance indicated the growing displeasure towards advancing a rights-recognition approach. Communities expressed relative unease with the process and timelines for overhauling the suite of land policies. Moreover, the perception that government was “continuing its old ways“ created issues of trust (Brake 2019). More generally, Indigenous peoples felt that governmental efforts were threatening Indigenous self-determination and inherent rights and jurisdictions. Beaver First Nation Chief Trevor Mercredi observed: “The government has taken away the authority of the people, the true rights holders in Canada…They’re domesticating everything we own, they’re domesticating us as each day goes by” (Blake 2019). As a result of this debacle, Indigenous leaders and community members have become less tolerant of government‘s “colonial shape-shifting“ (Alfred & Corntassel 2005) tactics. Rather, there is a strong desire for deep institutional change by government in terms of advancing and achieving reconciliation. The failure to secure First Nation support in this example shows there is resistance to complete subordination of the Indigenous lifeworld under that of settler-colonial liberal-capitalist democracy. First Nations desire a nation-to-nation partnership that results in the co-design and co-development of land policy reforms. \_\_"
   -
     type: paragraph
     content:
@@ -434,7 +468,7 @@ content:
     content:
       -
         type: text
-        text: 'Despite the ongoing governmental efforts to address moral, political and legal issues that resulted from wrongdoing and violence against Indigenous peoples, it is debatable whether Canada can reconcile deeply ingrained colonial difference in the system. Although focused on the '
+        text: 'Despite ongoing governmental efforts to address moral, political and legal issues that resulted from wrongdoing and violence against Indigenous peoples, there is a debate on whether Canada can reconcile deeply ingrained colonial difference in the system. Although focused on the '
       -
         type: text
         marks:
@@ -495,7 +529,7 @@ content:
         text: '[20]'
       -
         type: text
-        text: " offers the most promise for achieving a path-forward for transnational pluri-versality in Canada to counter-act the hollow proposition of reconciliation under rights-recognition. A settler-colonial liberal-capitalist democracy mode of reconciliation achieves reconciliation based on human beings entering into economic development, treaty-making, legal rights strategies, self-government and other constructive arrangements (Government of Canada 2014; Flanagan 2006; Helin 2006). In other words, Canada’s normative understanding of reconciliation uses a combination of “juridical and political teeth” (Turner 2013, p. 19). \_Conversely, a “de-colonial”"
+        text: " offers the most promise for achieving a path-forward for transnational pluriversality to counter-act the hollow proposition of reconciliation under a rights-recognition model in Canada. \_Settler-colonial liberal-capitalist democracy achieves reconciliation based on human-to-human agreements through economic development, treaty-making, legal rights strategies, self-government and other constructive arrangements (Government of Canada 2014; Flanagan 2006; Helin 2006). In other words, Canada’s normative understanding of reconciliation uses a combination of “juridical and political teeth” (Turner 2013, p. 19). \_Conversely, a “de-colonial”"
       -
         type: text
         marks:
@@ -508,7 +542,7 @@ content:
         text: '[21]'
       -
         type: text
-        text: ' perspective of reconciliation makes sub-altern'
+        text: ' perspective of reconciliation sees subaltern'
       -
         type: text
         marks:
@@ -521,13 +555,19 @@ content:
         text: '[22]'
       -
         type: text
-        text: ' epistemologies, cosmologies, and always lived colonial experiences omnipresent.'
+        text: ' epistemologies, cosmologies, and lived colonial experiences as a central tenet.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Genuine reconciliation, on the other hand, constitutes “pluri-versality”'
+        text: "\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Genuine reconciliation, on the other hand, constitutes “pluriversality”'
       -
         type: text
         marks:
@@ -553,13 +593,19 @@ content:
         text: '[24]'
       -
         type: text
-        text: ' Acceptance of diverse worldviews as opposed to dominant settler-colonial liberal-capitalist democracy’s epistemologies, cosmologies and claims of modernity and capitalism is critical to realizing genuine reconciliation. To move beyond a rights-recognition agenda of reconciliation, the Federal Government must re-invent itself by thinking, being and acting differently in connection with Indigeneity. How do federal and provincial governments engage with a different way of knowing and doing?'
+        text: ' Acceptance of diverse worldviews as opposed to dominant settler-colonial liberal-capitalist democracy’s epistemologies, cosmologies and claims of modernity and capitalism is critical to realizing genuine reconciliation. To move beyond a rights-recognition agenda of reconciliation, the Federal Government must re-invent itself by thinking, being and acting differently in connection with Indigeneity. How do federal and provincial governments engage with a different way of knowing, being and doing?'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'B adopting genuine reconciliation as a practice wherein lifeworld co-existence actively engages with pluri-versality and “Nth-eyed seeing”'
+        text: "\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Simply put, by adopting genuine reconciliation as a practice wherein lifeworld co-existence actively engages with pluriversality and “Nth-eyed seeing”'
       -
         type: text
         marks:
@@ -572,13 +618,19 @@ content:
         text: '[25]'
       -
         type: text
-        text: ".\_ Pluri-versality recognizes that other cosmologies and epistemologies can and do co-exist locally, nationally and globally. Nth-eyed seeing creates space for different worldviews to produce comprehensive solutions that will improve human and social conditions. This form of reconciliation is grounded in a philosophy of liberation and decolonization, which is designed to push epistemological and structural boundaries."
+        text: ".\_ Pluriversality recognizes that other cosmologies and epistemologies can and do co-exist locally, nationally and globally. Nth-eyed seeing creates space for different worldviews to produce comprehensive solutions that will improve human and social conditions. Nth-eyed seeing as a form of reconciliation is grounded in a philosophy of liberation and decolonization, which by design pushes settler-colonial liberal-capitalist democracy’s epistemological and structural boundaries."
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Grosfoguel’s scholarship stresses the need to push boundaries. He maintains, for example, that pluri-versality contrasts with the support for a logic of capital accumulation (Grosfoguel 2016). Wet''suwet''en Hereditary Chief Na''moks brings this argument to light when he talks about the clash over pipeline development in his traditional territory. He reflects on the need to respect the Wet’suwet’en lifeworld, as follows:'
+        text: "\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Grosfoguel’s scholarship, for example, emphasizes the need to push boundaries. He maintains that pluriversality conflicts with a logic of capital accumulation (Grosfoguel 2016). Wet’suwet’en Hereditary Chief Na’moks brings this argument to light when he talks about the clash over pipeline development in his traditional territory. He reflects on the importance of respecting the Wet’suwet’en lifeworld, as follows:'
   -
     type: paragraph
     content:
@@ -587,21 +639,25 @@ content:
         text: '... They want to talk about reconciliation? Well, I don’t know if I ever want to use that word again. My definition: to reconcile must be two guilty parties coming together. What the hell did we do except be Wet’suwet’en? Not once did we break our law. They said the people arrested were being civil disobedient, well they were being obedient to our law (Morin 2019).'
   -
     type: paragraph
-  -
-    type: paragraph
     content:
       -
         type: text
-        text: 'Differentiated lifeworld views of “civil (dis)obedience” are understood from both a'
+        text: "Differentiated lifeworld views of “civil (dis)obedience” can be understood in two ways: \_"
       -
         type: text
         marks:
           -
             type: bold
-        text: ' '
+        text: "\_"
       -
         type: text
-        text: 'Canadian law perspective and that of obedience to “Indigenous peoples’ law or the state’s own unenforced or unrealized standards” (Borrows 2016, p.53). Regardless, Indigenous civil (dis)obedience demonstrates a third space of sovereignty exists in which Indigenous peoples oppose the settler-colonial liberal-capitalist democracy lifeworld. Obedience to Wet’suwet’en law respects the nation’s authority over development and ensures the right to live and survive as Wet’suwet’en people on their lands. Chief Na''moks also stresses the role of plural political and legal lifeworlds in decision-making on pipeline development. Thus, genuine reconciliation legitimates and accepts the Indigenous lifeworld as part of state political and legal decision-making processes.'
+        text: 'obedience to “Indigenous peoples’ law or the state’s own unenforced or unrealized standards” (Borrows 2016, p.53). Regardless, Indigenous civil (dis)obedience demonstrates what might be considered a third space of sovereignty in which Indigenous peoples oppose the settler-colonial liberal-capitalist democracy lifeworld. Obedience to Wet’suwet’en law respects the nation’s authority over development and ensures the right to live and survive as Wet’suwet’en people on their lands. Chief Na’moks stresses the importance of accounting for plural lifeworlds in political and legal decision-making on pipeline development. Therefore, genuine reconciliation, under these conditions, serves to legitimate and accept the Indigenous lifeworld as part of state political and legal decision-making processes.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "\_"
   -
     type: paragraph
     content:
@@ -633,7 +689,7 @@ content:
         text: '[27]'
       -
         type: text
-        text: ' to the forefront. This form of reconciliation results in strengthened Indigenous worldviews at the national-level as opposed to singular Western European conceptualizations of a “geo-politics of knowledge”'
+        text: ' to the forefront. This form of reconciliation strengthens Indigenous worldviews at the national level as opposed to singular Western European conceptualizations of a “geo-politics of knowledge”'
       -
         type: text
         marks:
@@ -646,13 +702,13 @@ content:
         text: '[28]'
       -
         type: text
-        text: " in which “there can be no others” (Mignolo 2002, p. 59). According to Fanon, the shift, I speak of, is one of “damné from the very perspective of the damné” (cited in Mignolo 2005, p.395). The damné experience, location and worldview thus shapes and informs genuine reconciliation. \_"
+        text: " in which “there can be no others” (Mignolo 2002, p. 59). According to Fanon, the shift is one of “damné from the very perspective of the damné” (cited in Mignolo 2005, p.395). The damné experience, location and worldview thus shapes and informs genuine reconciliation. \_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: "\_"
+        text: "\_\_"
   -
     type: paragraph
     content:
@@ -661,13 +717,13 @@ content:
         marks:
           -
             type: bold
-        text: 'Indigeneity, Canada and the World Stage'
+        text: 'Indigeneity, Canada, and the World Stage'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'I am citing Duncan Ivison’s work as an example of what Canada should not do when bringing Indigenous worldviews and rights into the national and global-settings. His proposal fuses settler-colonial liberal-capitalist democracy’s normative understandings of Indigenous rights with a system of “complex mutual co-existence”'
+        text: 'I am citing Duncan Ivison’s work as an example of what Canada should not do when bringing Indigenous worldviews and rights into the national and global settings. His proposal fuses settler-colonial liberal-capitalist democracy’s normative understandings of Indigenous rights with a system of “complex mutual co-existence”'
       -
         type: text
         marks:
@@ -680,7 +736,7 @@ content:
         text: '[29]'
       -
         type: text
-        text: ' to maintain a strong cultural identity. Ivison claims that “securing their cultural interests enables Aboriginal peoples access to equal resources to maintain, adapt, and reproduce their cultural identities…” better supports Indigenous peoples to address their challenges (Ivison cited in Duthu 2013, p. 56). I disagree with Ivison for the following reasons.'
+        text: ' to maintain a strong cultural identity. Ivison claims that “securing their cultural interests enables Aboriginal peoples’ access to equal resources to maintain, adapt, and reproduce their cultural identities…” better supports Indigenous peoples to address their challenges (Ivison cited in Duthu 2013, p. 56). I disagree with Ivison for the following reasons.'
       -
         type: text
         marks:
@@ -689,7 +745,7 @@ content:
         text: ' '
       -
         type: text
-        text: 'First, hybridization of settler-colonial liberal-capitalist democracy with Indigenous normative rights cannot achieve deep structural reform when embedding one lifeworld into another. Federalism as a political construct is rooted in notions of racial privilege. Therefore, subordination of Indigenous rights, laws, jurisdiction and sovereignty will continue at the transnational and global levels. Indigenous cultural and social interests also remain subject to infringement by way of a state rights-recognition model. Indigenous socio-cultural interests suffer negative impacts due to their inferior status as “negative rights”'
+        text: 'First, hybridization of settler-colonial liberal-capitalist democracy with Indigenous normative rights cannot achieve deep structural reform when embedding one lifeworld into another. Federalism, as a political construct, is rooted in notions of racial privilege. Therefore, subordination of Indigenous rights, laws, jurisdiction and sovereignty will continue at the transnational and global levels. Indigenous cultural and social interests also remain subject to infringement under a state rights-recognition model and will continue to suffer negative impacts due to their inferior status as “negative rights”'
       -
         type: text
         marks:
@@ -702,13 +758,19 @@ content:
         text: '[30]'
       -
         type: text
-        text: ". The natural environment has few, if any, rights.\_"
+        text: ". Clearly, under this political ideology, the natural environment has few, if any, rights.\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Second, when mitigating the impacts of global capitalism on Indigenous rights, the settler-colonial liberal-capitalist democratic framework continues to dominate the Indigenous lifeworld. More recently, First Nations expressed deep concern that “international trade agreements” '
+        text: "\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Second, when mitigating the impacts of global capitalism on Indigenous rights, the settler-colonial liberal-capitalist democratic framework continues to dominate the Indigenous lifeworld. An illustrative example arises in terms of First Nations deep concern that “international trade agreements” '
       -
         type: text
         marks:
@@ -721,7 +783,7 @@ content:
         text: '[31]'
       -
         type: text
-        text: ' eroded their constitutional and treaty rights with respect to land and environmental and cultural measures (Clogg & Sage 2012).'
+        text: ' have eroded their constitutional and treaty rights concerning land and environmental and cultural measures (Clogg & Sage 2012).'
       -
         type: text
         marks:
@@ -743,7 +805,7 @@ content:
         text: 'Hupacasath First Nation v. Canada (Attorney General)'
       -
         type: text
-        text: ', for example, the First Nation argued that foreign corporations had more power than communities on resource management and could thus infringe upon their rights. A legal argument was made concerning the causal link between the effects of the '
+        text: ', the First Nation argued that foreign corporations had more power than communities over resource management and could thus infringe upon Indigenous rights. A legal argument highlighted the causal link between the effects of the '
       -
         type: text
         marks:
@@ -752,7 +814,7 @@ content:
         text: 'Canada-China Foreign Investment Promotion and Protection Agreement'
       -
         type: text
-        text: ' (FIPA) and the impact on Hupacasath asserted inherent title and rights (Patterson 2017). Nonetheless, the court disagreed and ruled as follows:'
+        text: ' (FIPA) and the impact on Hupacasath asserted inherent title and rights (Patterson 2017)., The court disagreed with the claim and ruled as follows:'
   -
     type: paragraph
     content:
@@ -782,7 +844,7 @@ content:
     content:
       -
         type: text
-        text: 'The ruling found that the First Nation must prove its assertion of rights and title prior to any consideration of negative effects arising from international treaty agreements. The finding presents an irony since the Supreme Court of Canada encourages “an expansive view of section 35 and the promise of a balanced relationship between the Crown and Indigenous peoples” (Justice Canada 2017), meaning the Crown must act honourably and participate in processes of negotiation with Indigenous peoples ('
+        text: 'The decision found that a First Nation must prove its assertion of rights and title prior to any consideration of negative effects arising from international treaty agreements. This poses a paradox since the Supreme Court of Canada encourages “an expansive view of section 35 and the promise of a balanced relationship between the Crown and Indigenous peoples” (Justice Canada 2017), meaning the Crown must act honourably and participate in processes of negotiation with Indigenous peoples ('
       -
         type: text
         marks:
@@ -813,7 +875,7 @@ content:
         text: '[33]'
       -
         type: text
-        text: ' This finding also includes duty to consult obligations, which may arise when the Crown has “real or constructive knowledge” ('
+        text: " The finding also raised the need to address \_duty to consult obligations, which can arise when the Crown has “real or constructive knowledge” ("
       -
         type: text
         marks:
@@ -831,13 +893,19 @@ content:
         text: ' '
       -
         type: text
-        text: 'established or potential Aboriginal right and contemplates conduct that might adversely affect that right. I maintain that the Crown, in this instance, has subordinated Hupacasath sovereignty, traditional land and their rights under the Canada-China international treaty agreement.'
+        text: 'established or potential Aboriginal right and contemplates conduct that might adversely affect that right. As a result of the decision, it suggests that Indigenous rights in Canada hold nothing more than empty promises that are restricted because of the imposition of settler colonial lifeworld over the Indigenous lifeworld. Moreover, I maintain that the Crown continues to subordinate Hupacasath sovereignty, traditional land and their rights under the Canada-China international treaty agreement.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Moreover, FIPA type agreements create the potential for a conflict of rights (e.g., Pacific Northwest LNG Project) in which non-discrimination and expropriation clauses prioritize investor rights over Indigenous rights to land (Richardson 2017, p.2). Arthur Manuel and Nicole Schabus (2005) reinforce this view by stating: “Indigenous peoples in direct competition with multinational corporations for control over their lands” (p.229). Prioritization of foreign business interests over Indigenous rights and laws further subjugates Indigenous peoples to not only the Crown’s asserted sovereignty, but also to that of multinational corporation interests. In addition, FIPA agreements now require Canada to compensate foreign owned businesses when Indigenous peoples act in ways that impact on a company’s future profit-making.'
+        text: "\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'It appears on the surface that FIPA type agreements create the potential for a conflict of rights (e.g., Pacific Northwest LNG Project) in which non-discrimination and expropriation clauses prioritize investor rights over Indigenous rights to land (Richardson 2017, p.2). Arthur Manuel and Nicole Schabus (2005) confirm that “Indigenous peoples are in direct competition with multinational corporations for control over their lands” (p.229). Prioritization of foreign business interests over Indigenous rights and laws is a further subjugation of Indigenous peoples to not only the Crown’s asserted sovereignty, but also the interests of multinational corporations. Additionally, FIPA agreements now require the Government of Canada to compensate foreign owned businesses when Indigenous peoples act in ways that impact negatively on a company’s future profit-making.'
       -
         type: text
         marks:
@@ -850,7 +918,7 @@ content:
         text: '[34]'
       -
         type: text
-        text: ' To address claims of lost revenue, the Federal Government negotiates a new clause into modern treaty agreements. For example, the Tsawwassen First Nation Final Agreement includes the following clause:'
+        text: ' The Government of Canada negotiated a new clause into modern treaty agreements to address foreign business claims of lost revenue. These clauses are now found in modern day treaties, as exemplified in the Tsawwassen First Nation Final Agreement, as follows:'
   -
     type: paragraph
     content:
@@ -859,14 +927,16 @@ content:
         text: '31. Where Canada informs Tsawwassen First Nation that it considers that a Tsawwassen Law or other exercise of power by Tsawwassen First Nation causes Canada to be unable to perform an International Legal Obligation, Tsawwassen First Nation and Canada will discuss remedial measures to enable Canada to perform the International Legal Obligation. Subject to clause 32, Tsawwassen First Nation will remedy the Tsawwassen Law or other exercise of power to the extent necessary to enable Canada to perform the International Legal Obligation (cited in Clogg & Gage 2012, p.3).'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Government actions of this nature question the legitimacy of constitutionally protecting Indigenous s.35(1) rights in Canada. As Manuel and Schabus (2005) argue, FIPA agreements privilege international wealth accumulation and point out the paradox of Indigenous Peoples not having been able to “secure the implementation of their ancestral land rights” (p. 229). Thus, a settler-colonial liberal-capitalist democracy mode of reconciliation serves to assimilate and subordinate the Indigenous lifeworld. Power imbalances are a constant and the racist and sexist foundation of Canadian laws, policies, operational practices and institutions concerning international treaty agreements remain unchallenged, which points to the hollowness of settler-colonial efforts to advance reconciliation as a practice.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Government actions of this nature raise a question about the legitimacy of constitutionally protecting Indigenous s.35(1) rights in Canada. As Manuel and Schabus (2005) argue, FIPA agreements privilege international accumulation yet “Indigenous Peoples still have not been able to secure the implementation of their ancestral land rights” (p. 229). This model of reconciliation assimilates and subordinates the Indigenous lifeworld under that of settler-colonial liberal-capitalist democracy. Power imbalances remain the norm and the racist and sexist foundation of Canadian laws, policies, operational practices and institutions are left unchallenged in relation to international treaty agreements. Reconciliation in this case is nothing but a hollow proposition.'
-  -
-    type: paragraph
+        text: "\_"
   -
     type: paragraph
     content:
@@ -881,7 +951,7 @@ content:
     content:
       -
         type: text
-        text: 'Some First Nations understand themselves as having an international treaty relationship instead of one with the nation-state. In 1923, Chief Deskaheh, for example, travelled to the League of Nations to plead the Haudenosaunee Confederacy case.'
+        text: 'Nation-to-nation relationship are also understood and considered an international treaty relationship. In 1923, Chief Deskaheh, for example, travelled to the League of Nations to plead the Haudenosaunee Confederacy case.'
       -
         type: text
         marks:
@@ -903,7 +973,7 @@ content:
         text: 'The Redman’s Appeal for Justice'
       -
         type: text
-        text: ' were circulated (Deskaheh 1924). Despite Chief Deskaheh’s efforts and support from the League’s membership, Prime Minister MacKenzie King and Governor-General Lord Byng secretly mandated, through an Order-in-Council, the replacement of the Confederacy with an '
+        text: ' were circulated to League members (Deskaheh 1924). Despite Chief Deskaheh’s efforts and support from the League’s membership, Prime Minister Mackenzie King and Governor-General Lord Byng secretly mandated, through an Order-in-Council, the replacement of the Confederacy with an '
       -
         type: text
         marks:
@@ -930,13 +1000,19 @@ content:
         text: ' t'
       -
         type: text
-        text: 'he League did nothing to support the Haudenosaunee with their claim (Woo, 2003, p. 9). This confirms the fixed nature of a sovereign-to-subject ideology at the nation-state and international levels. The same rings true in today’s inter-state relations, which primarily occur as nation-states interacting at the international level.'
+        text: 'he League did nothing to support the Haudenosaunee with their claim (Woo, 2003, p. 9). This reinforces the view of the fixed nature of a sovereign-to-subject ideology at not only the nation-state, but also at the international level. The same is true of today’s nation-state interactions at the international level in which nation-states are the recognized sovereign-state.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'From the Indigenous lens, the experience of inter-state relations takes the form of “violence, broken treaties and other unjust assertions of power over Indigenous peoples and their lands” (Corntassel & Woons 2018). First Nations regularly resist the present political relationship. Instead, they seek political and legal relationships wherein their lifeworld and ideas of self-determination are valued over the “Westphalian idea of state sovereignty” (Corntassel & Woons 2018). Taiaiake Alfred (2005) and Leanne Simpson (2011) argue that some First Nations turn away from the “legacies of colonialism” (p.19). Reconciliation in this sense means a return to Indigenous political and legal autonomy based on cultural “resurgence”'
+        text: "\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'From an Indigenous lens, one could argue that inter-state relations are represented by “violence, broken treaties and other unjust assertions of power over Indigenous peoples and their lands” (Corntassel & Woons 2018). Indigenous peoples regularly resist the present-day political relationship. Often, they seek political and legal relationships wherein the Indigenous lifeworld and ideas of self-determination are valued over the “Westphalian idea of state sovereignty” (Corntassel & Woons 2018). Taiaiake Alfred (2005) and Leanne Simpson (2011) argue that some Indigenous peoples turn away from the “legacies of colonialism” (p.19). Reconciliation in this sense reflects a return to Indigenous political and legal autonomy or the Indigenous lifeworld based on cultural “resurgence”'
       -
         type: text
         marks:
@@ -962,7 +1038,7 @@ content:
         text: '[37]'
       -
         type: text
-        text: " as opposed to assimilation into Canadian society (Alfred & Corntassel 2005, p.601). In other words, their claim reinforces First Nation primacy of the Indigenous lifeworld in national and international relations. \_Corntassel & Woons (2018) believe it is possible to “share power” at the nation-state and global system levels by “reinvigorating treaties with the natural world, (re)establishing alliances between Indigenous peoples and/or Indigenous advocacy in diplomatic activities within global forums”. This proposition promotes increased opportunity for engaging with pluri-versality and genuine reconciliation at the international realm."
+        text: " instead of assimilation into Canadian society (Alfred & Corntassel 2005, p.601). Their claim serves to reinforce the primacy of the Indigenous lifeworld in national and international relations. \_Corntassel & Woons (2018) suggest that it is possible to “share power” at the nation-state and global system levels by “reinvigorating treaties with the natural world, (re)establishing alliances between Indigenous peoples and/or Indigenous advocacy in diplomatic activities within global forums”. Recognition of the Indigenous lifeworld brings to the forefront the importance of pluriversality as a means of achieving genuine reconciliation in the international realm."
   -
     type: paragraph
     content:
@@ -986,7 +1062,7 @@ content:
     content:
       -
         type: text
-        text: 'Indigenous peoples do not need have to go to the international realm to experience empire. Academic Todd Gordon (2010a) argues that Canada’s imperialistic tendencies use capitalism as a pathway to acquire power and influence over Indigenous peoples within its nation-state boundaries (p.17).'
+        text: 'Indigenous peoples do not need have to enter the international realm to experience empire. Academic Todd Gordon (2010a) argues that Canada’s imperialistic tendencies use capitalism as a pathway to acquire power and influence over Indigenous peoples within its nation-state boundaries (p.17).'
       -
         type: text
         marks:
@@ -995,7 +1071,7 @@ content:
         text: ' '
       -
         type: text
-        text: 'The Canadian state, Gordon (2009) claims, uses Indigenous land and Indigenous peoples labour as part of the imperialist strategy to ensure wealth creation (p.48). Canadian imperialist relations of “power and domination” (Gordon 2010a, p. 16) are most visible in how the Federal Government treated resource development and Indigenous rights from 2012 to 2015. During that period, the government aggressively promoted responsible resource development and an economic action plan to address the growing number of resource development activities in certain regions.'
+        text: 'The Canadian state, Gordon (2009) claims, exploits Indigenous land and Indigenous peoples labour as part of their imperialist strategy to ensure wealth creation (p.48). Canadian imperialist relations of “power and domination” (Gordon 2010a, p. 16) were most revealing in the Federal Government’s treatment of resource development and Indigenous rights between the periods of 2012 to 2015. At that time, government aggressively promoted responsible resource development and an economic action plan to address the growing number of resource development activities in certain regions.'
       -
         type: text
         marks:
@@ -1011,7 +1087,13 @@ content:
     content:
       -
         type: text
-        text: "Emphasis was placed on increasing Indigenous participation in the labour market and the economic growth of the natural resources sector.\_Peck and Tickell (2002) claim this type of “roll-out neoliberalism” state policy uses the market as an intervention to ensure “job readiness” and mobilization of marginalized groups to act upon these employment opportunities (p. 392). \_In recent government actions, Bill C-69 replaced the responsible resource development initiative in an attempt to revamp environmental planning and change how resource extraction projects are decided (GOC 2019)."
+        text: "\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "There was a strong push by government to increase Indigenous labour market participation rates and grow the natural resources economy.\_ Nation-state roll-out neoliberalism policy emphasizes use of the market as an intervention to ensure “job readiness” and mobilization of marginalized groups to fill these employment opportunities (Peck & Tickell 2002, p. 392). \_More recently, Bill C-69 \_revamped environmental planning to change how resource extraction projects are assessed in Canada (GOC 2019)."
       -
         type: text
         marks:
@@ -1024,7 +1106,7 @@ content:
         text: '[39]'
       -
         type: text
-        text: ' However, Bill C-69 still prioritizes economic development and offers modest changes instead of a more robust rebuild that Indigenous peoples had identified in “'
+        text: ' Bill C-69 still prioritizes economic development; however, it offers modest changes instead of a more robust rebuild that Indigenous peoples had identified in “'
       -
         type: text
         marks:
@@ -1043,7 +1125,13 @@ content:
         text: '[40]'
       -
         type: text
-        text: '. There is little difference between Bill C-69 and past governmental efforts. The Federal Government actions over the past seven years indicates an ongoing tendency toward imperialism using Indigenous land and labour as the vehicle for generating wealth. Resource development lays the foundation for the dispossession of Indigenous lands.'
+        text: '. There is little difference between Bill C-69 and past governmental approaches and actions. The past seven years have shown an ongoing affinity toward imperialistic propensities that commandeer Indigenous land and labour as the vehicle for generating wealth. Resource development is a foundational element that significantly contributes to the dispossession and exploitation of Indigenous lands.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "\_"
   -
     type: paragraph
     content:
@@ -1062,7 +1150,19 @@ content:
         text: '[41]'
       -
         type: text
-        text: ' drives settler-colonial liberal-capitalist democracy’s “productive character of colonial power... and coercive authority…” (p. 152). Todd Gordon (2010b) is highly critical of Canadian imperalist efforts that rob Indigenous peoples of their natural resources, wealth, land and rights through treaty-making, exploitation or theft as a function of “accumulation by dispossession” (Harvey, 2006; p. 68-69). Gordon (2010b) implies that primitive accumulation results in the acceleration of capitalist exploitation to the detriment of Indigenous peoples. As described, the government’s legal and political interventions continue to constrain Indigenous sovereignty. In other words, imperialist tools control Indigenous peoples and their land. Although the promise of jobs and resource development are essential tools for lifting Indigenous peoples out of poverty, Coulthard (2013) observes that: “colonial powers will only recognize the collective rights and identities of Indigenous peoples insofar as this recognition does not obstruct the imperatives of state and capital” (p. 8). This signals the impossibility of ever achieving “sovereignty at par” between Indigenous political orders and those of federal and provincial governments. First Nations resist imperialist efforts despite the imposition of domestic treaty arrangements and/or international treaty agreements. Considering the Canadian imperialist agenda, I argue the settler-colonial liberal-capitalist democracy is privileged over the Indigenous lifeworld. Therefore, it appears that Canada’s imperialist strategies and tactics incur negative consequences for Indigenous peoples and do not result in genuine reconciliation.'
+        text: ' drives settler-colonial liberal-capitalist democracy’s “productive character of colonial power... and coercive authority…” (p. 152). Todd Gordon (2010b) claims Canadian imperialist efforts rob Indigenous peoples of their natural resources, wealth, land and rights through treaty-making, exploitation or theft as a function of “accumulation by dispossession” (Harvey, 2006; p. 68-69). For Gordon (2010b), primitive accumulation results in the acceleration of capitalist exploitation to the detriment of Indigenous peoples. Therefore, this suggests that governmental legal and political interventions only serve to further constrain Indigenous sovereignty and the Indigenous lifeworld. In other words, Canadian imperialist tools control Indigenous peoples and their land.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Although the promise of jobs and resource development are essential tools for lifting Indigenous peoples out of poverty, Coulthard (2013) observes that: “colonial powers will only recognize the collective rights and identities of Indigenous peoples insofar as this recognition does not obstruct the imperatives of state and capital” (p. 8). Increasingly, this signals the impossibility of ever achieving “sovereignty at par” between Indigenous political orders and those of federal and provincial governments. First Nations resist Canadian imperialist efforts despite the imposition of domestic treaty arrangements and/or international treaty agreements upon them. Considering the Canadian imperialist agenda, it evident that settler-colonial liberal-capitalist democracy is privileged over that of the Indigenous lifeworld. Therefore, suggesting that Canada’s imperialist strategies and tactics incur negative consequences that do not result in genuine reconciliation with Indigenous peoples.'
   -
     type: paragraph
     content:
@@ -1086,9 +1186,24 @@ content:
     content:
       -
         type: text
-        text: "Genuine reconciliation is the only viable alternative to the settler-colonial liberal-capitalist democracy ideology and its imperialistic tendencies. By recognizing pluri-versality locally, trans-nationally and globally, Indigenous lifeworlds are respected. Reconciliation under this guise emphasizes co-existence and emancipation as the tools for acting upon Indigenous worldviews, laws, epistemologies, self-determination and Indigenous rights at the national and global-levels.\_ It includes: the possibility of co-creating knowledge and the joint construction of a new moral, political and legal order. Moreover, reconciliation of multiple distinct worldviews/lifeworlds can transform settler-colonial liberal-capitalist democratic institutions and relationship-building processes in a way that: balances power, bridges the racial divide, and emphasizes Indigenous humanity, social relations, land, and political and legal agency over wealth creation. Genuine reconciliation can also decolonize the ongoing contradiction between wealth creation and cultural value to improve power-sharing and joint problem-solving locally, nationally and globally."
+        text: "Genuine reconciliation is the only viable alternative to the settler-colonial liberal-capitalist democracy ideology and its imperialistic tendencies. By recognizing pluriversality locally, transnationally and globally, Indigenous lifeworlds are respected. Reconciliation under this guise emphasizes co-existence and emancipation as the tools for acting upon Indigenous worldviews, laws, epistemologies, self-determination and Indigenous rights at the national and global levels.\_ It includes: the possibility of co-creating knowledge and the joint construction of a new moral, political and legal order. Moreover, reconciliation of multiple distinct worldviews/lifeworlds can transform settler-colonial liberal-capitalist democratic institutions and relationship-building processes in a way that: balances power, bridges the racial divide, and emphasizes Indigenous humanity, social relations, land, and political and legal agency over wealth creation. Genuine reconciliation can also decolonize the ongoing contradiction between wealth creation and cultural value to improve power-sharing and joint problem-solving locally, nationally and globally."
   -
     type: paragraph
+    content:
+      -
+        type: hard_break
+        marks:
+          -
+            type: bold
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: "\_"
   -
     type: paragraph
     content:
@@ -1112,7 +1227,13 @@ content:
         text: 'Wasáse: Indigenous Pathways of Action and Freedom'
       -
         type: text
-        text: '. (UTP Broadview Press: Peterborough, ON).'
+        text: '. (UTP'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Broadview Press: Peterborough, ON).'
   -
     type: paragraph
     content:
@@ -1127,19 +1248,31 @@ content:
         text: 'Journal of Aboriginal Health'
       -
         type: text
-        text: ', Volume 5, Issue 2: 42 - 60.'
+        text: ','
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Alfred, T. 2009. “Restitution is the Real Pathway to Justice for Indigenous peoples”. Essay adapted from a discussion on reconciliation in '
+        text: 'Volume 5, Issue 2: 42 - 60.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Alfred, T. 2009. “Restitution is the Real Pathway to Justice for Indigenous peoples”.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Essay adapted from a discussion on reconciliation in '
       -
         type: text
         marks:
           -
             type: italic
-        text: 'Wasase: Indigenous Pathways of Action and Freedom. Aboriginal Healing Foundation'
+        text: 'Wasáse: Indigenous Pathways of Action and Freedom. Aboriginal Healing Foundation'
       -
         type: text
         text: ', Volume 12:165 - 170. Retrieved from < '
@@ -1170,7 +1303,13 @@ content:
         text: 'The National Film Board of Canada'
       -
         type: text
-        text: '. Retrieved from <'
+        text: '. Retrieved'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: from<
       -
         type: text
         marks:
@@ -1189,7 +1328,7 @@ content:
     content:
       -
         type: text
-        text: 'Alfred, T. & Corntassell, J. 2005.'
+        text: 'Alfred, T. & Corntassel, J. 2005.'
       -
         type: text
         marks:
@@ -1204,7 +1343,16 @@ content:
         marks:
           -
             type: italic
-        text: 'Being Indigenous: Resurgences against Contemporary Colonialism”. '
+        text: 'Being Indigenous: Resurgences against'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Contemporary Colonialism”. '
       -
         type: text
         text: 'Government and Opposition'
@@ -1237,13 +1385,25 @@ content:
         text: 'On Being Here to Stay: Treaties and Aboriginal Rights in Canada'
       -
         type: text
-        text: ' (University of Toronto Press: Toronto).'
+        text: ','
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Bartlett, C., Marshall, M. & Marshall, A. 2007. “Integrative Science: Enabling Concepts within a Journey Guided by Trees Holding Hands and Two-Eyed Seeing”. Two-eyed Knowledge Sharing Series, Manuscript No. 1, '
+        text: '(University of Toronto Press: Toronto).'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Bartlett, C., Marshall, M. & Marshall, A. 2007. “Integrative Science: Enabling Concepts'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'within a Journey Guided by Trees Holding Hands and Two-Eyed Seeing”. Two-eyed Knowledge Sharing Series, Manuscript No. 1, '
       -
         type: text
         marks:
@@ -1258,7 +1418,10 @@ content:
     content:
       -
         type: text
-        text: 'Battiste, M. 2002. “Indigenous Knowledge and Pedagogy in First Nation Education”. '
+        text: 'Battiste, M. 2002. “Indigenous Knowledge and Pedagogy in First Nation Education”.'
+  -
+    type: paragraph
+    content:
       -
         type: text
         marks:
@@ -1286,7 +1449,7 @@ content:
     content:
       -
         type: text
-        text: 'Bhabba, H. 1994. '
+        text: 'Bhabha, H. 1994. '
       -
         type: text
         marks:
@@ -1310,7 +1473,13 @@ content:
         text: 'Recovering Canada: The Resurgence of Indigenous Law'
       -
         type: text
-        text: '. (University of Toronto Press: Toronto, London & Buffalo).'
+        text: '. (University'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'of Toronto Press: Toronto, London & Buffalo).'
   -
     type: paragraph
     content:
@@ -1325,13 +1494,25 @@ content:
         text: 'Freedom & Indigenous Constitutionalism'
       -
         type: text
-        text: '. (University of Toronto Press: Toronto).'
+        text: '. (University of'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Brake, J. 2019. “Resistance mounts at AFN forum in Edmonton as Canada continues with planned policy overhaul”. '
+        text: 'Toronto Press: Toronto).'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Brake, J. 2019. “Resistance mounts at AFN forum in Edmonton as Canada continues'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'with planned policy overhaul”. '
       -
         type: text
         marks:
@@ -1359,7 +1540,13 @@ content:
     content:
       -
         type: text
-        text: 'Brown, D. 2014. “Liberalism, Advanced Liberalism, and the Governmental Policy Challenge in Education”. '
+        text: 'Brown, D. 2014. “Liberalism, Advanced Liberalism, and the Governmental Policy'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Challenge in Education”. '
       -
         type: text
         marks:
@@ -1393,7 +1580,16 @@ content:
         marks:
           -
             type: italic
-        text: 'The Third Space of Sovereignty: The Postcolonial Politics of U.S.–Indigenous Relations'
+        text: 'The Third Space of Sovereignty: The Postcolonial Politics of U.S. –'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Indigenous Relations'
       -
         type: text
         text: '. In Warrior, R. & Weaver, J. (eds), '
@@ -1423,7 +1619,16 @@ content:
         marks:
           -
             type: italic
-        text: "Treaty Elders of Saskatchewan:\_Our Dream is that Our Peoples Will One Day be Clearly Recognized as Nation"
+        text: "Treaty Elders of Saskatchewan:\_Our Dream is that Our"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Peoples Will One Day be Clearly Recognized as Nation'
       -
         type: text
         text: '. (University of Calgary Press: Calgary).'
@@ -1432,7 +1637,13 @@ content:
     content:
       -
         type: text
-        text: 'Castro-Rea, J. & Altamirano-Jiménez, I. 2008. “North American First Peoples: Self Determination or Economic Development?” In '
+        text: 'Castro-Rea, J. & Altamirano-Jiménez, I. 2008. “North American First Peoples: Self Determination'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'or Economic Development?” In '
       -
         type: text
         marks:
@@ -1447,7 +1658,13 @@ content:
     content:
       -
         type: text
-        text: 'CBC News. 2014. “Tsilhqot’in First Nation Granted B. C. Title Claim in Supreme Court Ruling”. CBC News (June 26th). Retrieved from <'
+        text: 'CBC News. 2014. “Tsilhqot’in First Nation Granted B. C. Title Claim in Supreme'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Court Ruling”. CBC News (June 26th). Retrieved from <'
       -
         type: text
         marks:
@@ -1466,7 +1683,13 @@ content:
     content:
       -
         type: text
-        text: 'Clogg, J., & Sage, A. 2012. “Is Canada-China Investment Treaty (FIPA) an attack on Aboriginal rights?” West Coast Environmental Law Blog. .Retrieved from < '
+        text: 'Clogg, J., & Sage, A. 2012. “Is Canada-China Investment Treaty (FIPA) an attack on'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Aboriginal rights?” West Coast Environmental Law Blog. .Retrieved from < '
       -
         type: text
         marks:
@@ -1485,7 +1708,13 @@ content:
     content:
       -
         type: text
-        text: "Coleman, D. Battiste, M. Henderson, S. J., Findlay, I. and Findlay, L.\_ 2012. “Different Knowings and the Indigenous Humanities”. "
+        text: "Coleman, D. Battiste, M. Henderson, S. J., Findlay, I. and Findlay, L.\_ 2012. “Different"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Knowings and the Indigenous Humanities”. '
       -
         type: text
         marks:
@@ -1500,7 +1729,13 @@ content:
     content:
       -
         type: text
-        text: 'Corntassel, J. & Woons, M. “Expansion Pack: Indigenous Perspectives on International Relations Theory”. In '
+        text: 'Corntassel, J. & Woons, M. “Expansion Pack: Indigenous Perspectives on'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'International Relations Theory”. In '
       -
         type: text
         marks:
@@ -1528,7 +1763,13 @@ content:
     content:
       -
         type: text
-        text: 'Coulthard, G. 2007. “Subjects of Empire: Indigenous peoples and the ‘Politics of recognition’ in Canada”. '
+        text: 'Coulthard, G. 2007. “Subjects of Empire: Indigenous peoples and the ‘Politics of'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'recognition’ in Canada”. '
       -
         type: text
         marks:
@@ -1562,7 +1803,16 @@ content:
         marks:
           -
             type: italic
-        text: 'New Socialist Webzine'
+        text: 'New Socialist'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Webzine
       -
         type: text
         text: ': 1 – 8. Retrieved from < '
@@ -1596,7 +1846,16 @@ content:
         marks:
           -
             type: italic
-        text: 'Red Skin, White Masks: Rejecting the Colonial Politics of recognition'
+        text: 'Red Skin, White Masks: Rejecting the Colonial Politics of'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: recognition
       -
         type: text
         text: '. (University of Minnesota Press: Minnesota).'
@@ -1623,7 +1882,16 @@ content:
         marks:
           -
             type: italic
-        text: 'What’s Wrong With Rights?: Social Movements, Law and Liberal Imaginations'
+        text: 'What’s Wrong With Rights?: Social Movements, Law and Liberal'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Imaginations
       -
         type: text
         text: '. (Pluto Press: London, England).'
@@ -1632,7 +1900,13 @@ content:
     content:
       -
         type: text
-        text: 'Dussel, E. 1998. “Beyond eurocentrism: the world-system and the limits of modernity”, In '
+        text: 'Dussel, E. 1998. “Beyond eurocentrism: the world-system and the limits of modernity”.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'In '
       -
         type: text
         marks:
@@ -1656,7 +1930,13 @@ content:
         text: 'Shadow Nations: Tribal Sovereignty and the Limits of legal Pluralism'
       -
         type: text
-        text: '. (Oxford Scholarship Online).'
+        text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '(Oxford Scholarship Online).'
   -
     type: paragraph
     content:
@@ -1671,7 +1951,13 @@ content:
         text: ESC
       -
         type: text
-        text: ', Volume 30, Issue 2: 39 – 48. Retrieved from < '
+        text: ', Volume 30, Issue 2: 39 – 48. Retrieved from'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '< '
       -
         type: text
         marks:
@@ -1696,7 +1982,16 @@ content:
         marks:
           -
             type: italic
-        text: 'Is Canada postcolonial?: Unsettling Canadian literature'
+        text: 'Is Canada postcolonial?:'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'unsettling Canadian literature'
       -
         type: text
         text: ', Moss, L. (ed.). (Wilfrid Laurier University Press: Waterloo): 297.'
@@ -1714,13 +2009,25 @@ content:
         text: 'First Nations? Second Thoughts'
       -
         type: text
-        text: '. (McGill-Queen’s University Press: Montreal & Kingston).'
+        text: '. (McGill-Queen’s University Press:'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Gordon, T. 2009. “Canada, Empire and Indigenous People in the Americas”. Journal of the Society for Socialist Studies: 47–75. Retrieved from < '
+        text: 'Montreal & Kingston).'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Gordon, T. 2009. “Canada, Empire and Indigenous People in the Americas”. Journal of'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'the Society for Socialist Studies: 47–75. Retrieved from < '
       -
         type: text
         marks:
@@ -1748,7 +2055,13 @@ content:
         text: Briarpatch
       -
         type: text
-        text: ', Volume 29, Issue 3: 16 – 19. Retrieved from < '
+        text: ', Volume 29, Issue 3: 16 –'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '19. Retrieved from < '
       -
         type: text
         marks:
@@ -1791,7 +2104,13 @@ content:
         text: 'Natural Resources Canada'
       -
         type: text
-        text: '. Retrieved from <'
+        text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Retrieved from <'
       -
         type: text
         marks:
@@ -1826,7 +2145,16 @@ content:
         marks:
           -
             type: italic
-        text: 'Natural Resources Canada.'
+        text: Natural
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Resources Canada.'
       -
         type: text
         text: ' Retrieved from <'
@@ -1848,7 +2176,10 @@ content:
     content:
       -
         type: text
-        text: 'Government of Canada. 2012. “Consultation under the Canadian Environmental Assessment Act”, '
+        text: 'Government of Canada. 2012. “Consultation under the Canadian Environmental Assessment Act”,'
+  -
+    type: paragraph
+    content:
       -
         type: text
         marks:
@@ -1876,7 +2207,13 @@ content:
     content:
       -
         type: text
-        text: 'Government of Canada. 2015a. “Minister of Crown-Indigenous Relations and Northern Affairs Canada Mandate Letter”. '
+        text: 'Government of Canada. 2015a. “Minister of Crown-Indigenous Relations and Northern'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Affairs Canada Mandate Letter”. '
       -
         type: text
         marks:
@@ -1904,7 +2241,13 @@ content:
     content:
       -
         type: text
-        text: 'Government of Canada. 2017. “Principles respecting the Government of Canada’s relationship with Indigenous peoples”. '
+        text: 'Government of Canada. 2017. “Principles respecting the Government of Canada’s relationship'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'with Indigenous peoples”. '
       -
         type: text
         marks:
@@ -1932,7 +2275,13 @@ content:
     content:
       -
         type: text
-        text: 'Government of Canada. 2019. “An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts”. Government of Canada. Retrieved from < '
+        text: 'Government of Canada. 2019. “An Act to enact the Impact Assessment Act and the'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts”. Government of Canada. Retrieved from < '
       -
         type: text
         marks:
@@ -1960,13 +2309,19 @@ content:
         text: 'Lawscape: Property, Environment, and Law'
       -
         type: text
-        text: '. (Routledge: New York). '
+        text: '. (Routledge: New York).'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Grosfoguel, R. 2008. “Transmodernity, border thinking, and global coloniality: Decolonizing political economy and postcolonial studies”. Eurozone: 1 - 23. Retrieved from <'
+        text: 'Grosfoguel, R. 2008. “Transmodernity, border thinking, and global coloniality:'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Decolonizing political economy and postcolonial studies”. Eurozone: 1 - 23. Retrieved from <'
       -
         type: text
         marks:
@@ -1985,7 +2340,13 @@ content:
     content:
       -
         type: text
-        text: 'Grosfoguel, R. 2016. “Decolonizing the Academy I: Decoloniality, Transmodernity and the World System”. Seminar presented as part of '
+        text: 'Grosfoguel, R. 2016. “Decolonizing the Academy I: Decoloniality, Transmodernity and'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'the World System”. Seminar presented as part of '
       -
         type: text
         marks:
@@ -2021,7 +2382,13 @@ content:
         text: 'Logos Journal'
       -
         type: text
-        text: ", Issue 5:\_ Retrieved from < "
+        text: ", Issue 5:\_ Retrieved"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'from < '
       -
         type: text
         marks:
@@ -2049,7 +2416,13 @@ content:
         text: 'Dances with Dependency: Indigenous Success through Self-Reliance'
       -
         type: text
-        text: '. (Orca Spirit Publishing & Communications: Vancouver).'
+        text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '(Orca Spirit Publishing & Communications: Vancouver).'
   -
     type: paragraph
     content:
@@ -2089,7 +2462,16 @@ content:
         marks:
           -
             type: italic
-        text: 'Critical Perspectives on the Culture of Redress, '
+        text: 'Critical Perspectives on the'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Culture of Redress, '
       -
         type: text
         text: 'Jennifer Henderson and Pauline Wakeham (eds.). (University of Toronto Press: Toronto): 115 – 126.'
@@ -2098,7 +2480,13 @@ content:
     content:
       -
         type: text
-        text: 'Hueglin, T.O., 1994. “Exploring Concepts of Treaty Federalism: A Comparative Perspective. Paper prepared as part of the Research Program of the Royal Commission on Aboriginal Peoples: 1 – 88. Retrieved from <'
+        text: 'Hueglin, T.O., 1994. “Exploring Concepts of Treaty Federalism: A Comparative'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Perspective. Paper prepared as part of the Research Program of the Royal Commission on Aboriginal Peoples: 1 – 88. Retrieved from <'
       -
         type: text
         marks:
@@ -2126,7 +2514,10 @@ content:
     content:
       -
         type: text
-        text: 'Irlbacher-Fox, S. 2014. “Traditional Knowledge, Co-Existence, and Co-Resistance”.  '
+        text: 'Irlbacher-Fox, S. 2014. “Traditional Knowledge, Co-Existence, and Co-Resistance”.'
+  -
+    type: paragraph
+    content:
       -
         type: text
         marks:
@@ -2154,7 +2545,13 @@ content:
     content:
       -
         type: text
-        text: 'Jobin, S. & Riddle, E. 2019. “The Rise of the First Nation Land Management Regime in Canada: A Critical Analysis”. Yellowhead Institute, Special Report: 1 – 15. Retrieved from < '
+        text: 'Jobin, S. & Riddle, E. 2019. “The Rise of the First Nation Land Management Regime in Canada:'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'A Critical Analysis”. Yellowhead Institute, Special Report: 1 – 15. Retrieved from < '
       -
         type: text
         marks:
@@ -2179,7 +2576,16 @@ content:
         marks:
           -
             type: italic
-        text: 'Research as resistance: Critical,'
+        text: Research
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'as resistance: Critical,'
       -
         type: text
         text: ' '
@@ -2216,7 +2622,16 @@ content:
         marks:
           -
             type: italic
-        text: 'First Nations First Thoughts'
+        text: 'First Nations First'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Thoughts
       -
         type: text
         text: ", Annis May Timpson (ed). (UBC Press: Vancouver).\_"
@@ -2225,7 +2640,13 @@ content:
     content:
       -
         type: text
-        text: 'Laframboise, K. 2018. “Kahnawake will not appeal after ‘marry out, get out’ provisions ruled unconstitutional”. '
+        text: 'Laframboise, K. 2018. “Kahnawake will not appeal after ‘marry out, get out’'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'provisions ruled unconstitutional”. '
       -
         type: text
         marks:
@@ -2253,7 +2674,10 @@ content:
     content:
       -
         type: text
-        text: 'Little Bear, L. 2000. “Chapter 5: Jagged Worldviews Colliding”. In M. Battiste (ed.), '
+        text: 'Little Bear, L. 2000. “Chapter 5: Jagged Worldviews Colliding”. In M. Battiste (ed.),'
+  -
+    type: paragraph
+    content:
       -
         type: text
         marks:
@@ -2268,7 +2692,13 @@ content:
     content:
       -
         type: text
-        text: 'Louis, R. 2007. “Can you hear us now? Voices from the margin: Using Indigenous methodologies in geographic research”. '
+        text: 'Louis, R. 2007. “Can you hear us now? Voices from the margin: Using Indigenous'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'methodologies in geographic research”. '
       -
         type: text
         marks:
@@ -2283,7 +2713,13 @@ content:
     content:
       -
         type: text
-        text: "Manuel, A. & Schabus, N. 2005. “Indigenous Peoples at the Margin of the Global Economy: A Violation of International Human Rights and International Trade Law”.\_ Chapman Law Review, Volume 8: 222 – 251. Retrieved from < "
+        text: 'Manuel, A. & Schabus, N. 2005. “Indigenous Peoples at the Margin of the Global'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Economy: A Violation of International Human Rights and International Trade Law”.\_ Chapman Law Review, Volume 8: 222 – 251. Retrieved from < "
       -
         type: text
         marks:
@@ -2308,7 +2744,16 @@ content:
         marks:
           -
             type: italic
-        text: 'Local Histories/Global Designs: Essays on the Coloniality of Power, Sub-altern Knowledges and Border Thinking'
+        text: 'Local Histories/Global Designs: Essays on the Coloniality of Power,'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Subaltern Knowledges and Border Thinking'
       -
         type: text
         text: '. (Princeton University Press: Princeton).'
@@ -2323,7 +2768,16 @@ content:
         marks:
           -
             type: italic
-        text: 'The South Atlantic Quarterly'
+        text: 'The South'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Atlantic Quarterly'
       -
         type: text
         text: ', Volume 101, Issue 1: 57 - 96.'
@@ -2332,23 +2786,35 @@ content:
     content:
       -
         type: text
-        text: 'Mignolo, W. 2005. “On sub-alterns and other agencies”. Postcolonial Studies, Volume 8, Issue 4: 381-407.'
+        text: 'Mignolo, W. 2005. “On subalterns and other agencies”. Postcolonial Studies, Volume 8,'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Mignolo, W. 2013. “On Pluri-versality”. De-colonial Thoughts Op-eds: 1 – 4. Retrieved from < '
+        text: 'Issue 4: 381-407.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Mignolo, W. 2013. “On Pluriversality”. De-colonial Thoughts Op-eds: 1 – 4. Retrieved'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'from < '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'http://waltermignolo.com/on-pluri-versality/'
+              href: 'http://waltermignolo.com/on-pluriversality/'
               target: null
               rel: null
-        text: 'http://waltermignolo.com/on-pluri-versality/'
+        text: 'http://waltermignolo.com/on-pluriversality/'
       -
         type: text
         text: '>.'
@@ -2363,7 +2829,16 @@ content:
         marks:
           -
             type: italic
-        text: 'Discovering Indigenous Lands: The Doctrine of discovery in the English Colonies'
+        text: 'Discovering Indigenous Lands:'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Doctrine of discovery in the English Colonies'
       -
         type: text
         text: '. (Oxford University Press: Oxford, United Kingdom).'
@@ -2372,13 +2847,25 @@ content:
     content:
       -
         type: text
-        text: 'Mills, A. 2016. “The Lifeworlds of Law: On Revitalizing Indigenous Legal Orders Today”. McGill Law Journal, Volume 61, Issue 4: p. 847 – 884.'
+        text: 'Mills, A. 2016. “The Lifeworlds of Law: On Revitalizing Indigenous Legal Orders Today”.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Morin, B. 2019. “Wet’suwet’en hereditary chief: ‘Reconciliation is not at the barrel of a gun”. National Observer (April 16th). Retrieved from < '
+        text: 'McGill Law Journal, Volume 61, Issue 4: p. 847 – 884.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Morin, B. 2019. “Wet’suwet’en hereditary chief: ‘Reconciliation is not at the barrel of a'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'gun”. National Observer (April 16th). Retrieved from < '
       -
         type: text
         marks:
@@ -2406,13 +2893,25 @@ content:
         text: 'Is Canada postcolonial?: unsettling Canadian literature'
       -
         type: text
-        text: '. (Wilfrid Laurier University Press: Waterloo): 1 – 377.'
+        text: '. (Wilfrid Laurier'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Patterson, B. 2017. “Indigenous rights at risk as Canada-China Free Trade Agreement talks begin February 20”. '
+        text: 'University Press: Waterloo): 1 – 377.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Patterson, B. 2017. “Indigenous rights at risk as Canada-China Free Trade Agreement'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'talks begin February 20”. '
       -
         type: text
         marks:
@@ -2449,7 +2948,13 @@ content:
         text: Antipode
       -
         type: text
-        text: ', Volume 34, Issue 3. Retrieved from <'
+        text: ', Volume 34, Issue 3.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Retrieved from <'
       -
         type: text
         marks:
@@ -2477,7 +2982,13 @@ content:
         text: 'Encyclopedia of Global Justice'
       -
         type: text
-        text: ', Chatterjee, D. K. (ed). (Springer: Dordrecht).'
+        text: ', Chatterjee, D. K.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '(ed). (Springer: Dordrecht).'
   -
     type: paragraph
     content:
@@ -2489,7 +3000,16 @@ content:
         marks:
           -
             type: italic
-        text: 'Nepantla: Views from South'
+        text: 'Nepantla:'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Views from South'
       -
         type: text
         text: ' Volume 1, Issue 3: 533-580.'
@@ -2507,13 +3027,25 @@ content:
         text: 'Cultural Studies'
       -
         type: text
-        text: ",\_Volume 21, Issue:2-3:\_168-178."
+        text: ",\_Volume 21,"
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Richardson, K.L. 2017. “Finding a Duty to Consult Aboriginal Peoples During the Negotiation of Free Trade Agreements (FTAs) and Foreign Investment Promotion and Protection Agreements (FIPAs)”. Western Journal of Legal Studies, Volume 7, Issue 2: 1 – 17. Retrieved from< '
+        text: "Issue:2-3:\_168-178."
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Richardson, K. L. 2017. “Finding a Duty to Consult Aboriginal Peoples During the'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Negotiation of Free Trade Agreements (FTAs) and Foreign Investment Promotion and Protection Agreements (FIPAs)”. Western Journal of Legal Studies, Volume 7, Issue 2: 1 – 17. Retrieved from< '
       -
         type: text
         marks:
@@ -2544,7 +3076,13 @@ content:
     content:
       -
         type: text
-        text: "Schwartz, R. 2017. “Toward a Trade and Indigenous Peoples’ Chapter in a Modernized NAFTA\_ “. Centre for International Governance Innovation, Papers No. 144 (September 2017). Retrieved from < "
+        text: 'Schwartz, R. 2017. “Toward a Trade and Indigenous Peoples’ Chapter in a Modernized'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "NAFTA\_ “. Centre for International Governance Innovation, Papers No. 144 (September 2017). Retrieved from < "
       -
         type: text
         marks:
@@ -2569,7 +3107,16 @@ content:
         marks:
           -
             type: italic
-        text: 'Dancing on our Turtle’s Back: Stories of Nishnaabeg Re-creation, Resurgence and a New Emergence'
+        text: 'Dancing on our Turtle’s Back: Stories of Nishnaabeg Re-creation,'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Resurgence and a New Emergence'
       -
         type: text
         text: '. (Arbiter Ring Publishing: Winnipeg, Manitoba).'
@@ -2584,7 +3131,10 @@ content:
         marks:
           -
             type: italic
-        text: 'Mohawk Interruptus: Political Life Across the Borders of Settler States. '
+        text: 'Mohawk Interruptus: Political Life Across the Borders of Settler States.'
+  -
+    type: paragraph
+    content:
       -
         type: text
         text: '(Duke University Press: Durham, NC).'
@@ -2596,13 +3146,28 @@ content:
         marks:
           -
             type: italic
-        text: 'Taku River Tlingit First Nation v. British Columbia (Project Assessment Director), 2004 SCC 74.'
+        text: 'Taku River Tlingit First Nation v. British Columbia (Project Assessment Director), 2004'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Tlakatekatl. 2014. “The problem with Indigeneity”. Mexika.Org (September 17, 2014). Retrieved from '
+        marks:
+          -
+            type: italic
+        text: 'SCC 74.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Tlakatekatl. 2014. “The problem with Indigeneity”. Mexika.Org (September 17, 2014).'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Retrieved from '
       -
         type: text
         marks:
@@ -2618,7 +3183,13 @@ content:
     content:
       -
         type: text
-        text: 'Truth and Reconciliation Commission. 2015. “Honouring the Truth, Reconciling for the Future: Summary of the Final Report of the Truth and Reconciliation Commission of Canada”. Library and Archives Canada: 1 - 528. Retrieved from < '
+        text: 'Truth and Reconciliation Commission. 2015. “Honouring the Truth, Reconciling for the'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Future: Summary of the Final Report of the Truth and Reconciliation Commission of Canada”. Library and Archives Canada: 1 - 528. Retrieved from < '
       -
         type: text
         marks:
@@ -2682,7 +3253,10 @@ content:
     content:
       -
         type: text
-        text: 'Turner, D. 2013. “On the Idea of Reconciliation in Contemporary Aboriginal Politics”. In the '
+        text: 'Turner, D. 2013. “On the Idea of Reconciliation in Contemporary Aboriginal Politics”. In the'
+  -
+    type: paragraph
+    content:
       -
         type: text
         marks:
@@ -2697,7 +3271,13 @@ content:
     content:
       -
         type: text
-        text: 'Vance, C. 2016. “Canadian Democracy in Theory and Practice: The Roots of Semi-Representative Liberalism”. '
+        text: 'Vance, C. 2016. “Canadian Democracy in Theory and Practice: The Roots of Semi-'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Representative Liberalism”. '
       -
         type: text
         marks:
@@ -2725,7 +3305,13 @@ content:
     content:
       -
         type: text
-        text: 'Watts, V.A. 2013. “Indigenous Place-Thought and Agency Amongst Humans and non-Humans (First Woman and Sky Woman go on a European Tour!)”. '
+        text: 'Watts, V.A. 2013. “Indigenous Place-Thought and Agency Amongst Humans and non-'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Humans (First Woman and Sky Woman go on a European Tour!)”. '
       -
         type: text
         marks:
@@ -2753,13 +3339,22 @@ content:
     content:
       -
         type: text
-        text: 'Way, D.L. nd. “Ovide Mercredi: Canadian First Nations Leader”. '
+        text: 'Way, D. L. nd. “Ovide Mercredi: Canadian First Nations Leader”. '
       -
         type: text
         marks:
           -
             type: italic
-        text: 'Online Encyclopedia Britannica'
+        text: 'Online Encyclopedia'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Britannica
       -
         type: text
         text: ': 1-2. Retrieved from <'
@@ -2781,13 +3376,25 @@ content:
     content:
       -
         type: text
-        text: 'Weaver, J. 2005. “Chapter 10: Indigenousness and Indigeneity”. In a Companion to Post-colonial Studies, Schwarz, H., and Ray, S. (eds.): 221 – 235. (Blackwell Publishing: Malden, MA).'
+        text: 'Weaver, J. 2005. “Chapter 10: Indigenousness and Indigeneity”. In a Companion to Post-'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Woo, G. 2003. “Canada’s Forgotten Founders: The Modern Significance of the Haudenosaunee (Iroquois) Application for Membership in the League of Nations”. '
+        text: 'colonial Studies, Schwarz, H., and Ray, S. (eds.): 221 – 235. (Blackwell Publishing: Malden, MA).'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Woo, G. 2003. “Canada’s Forgotten Founders: The Modern Significance of the'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Haudenosaunee (Iroquois) Application for Membership in the League of Nations”. '
       -
         type: text
         marks:
@@ -2803,14 +3410,11 @@ content:
       -
         type: text
         text: "\_"
+  -
+    type: paragraph
+    content:
       -
         type: hard_break
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Notes :'
   -
     type: paragraph
     content:
@@ -2826,7 +3430,7 @@ content:
         text: '[1]'
       -
         type: text
-        text: ' Revised and final version of this paper, December 1 2019.'
+        text: ' Revised version of this paper, December 1 2019; revised and final version July 21 2020.'
   -
     type: paragraph
     content:
@@ -3227,7 +3831,7 @@ content:
         text: '[21]'
       -
         type: text
-        text: ' Reconciliation from this analytical lens implies a pluri-versality in which different cosmologies, epistemologies, and colonialities can exist. De-coloniality disavows the universalism of white provincial knowledge and problematizes the histories of power that emerged from Europe (Grosfoguel 2016).'
+        text: ' Reconciliation from this analytical lens implies a pluriversality in which different cosmologies, epistemologies, and colonialities can exist. De-coloniality disavows the universalism of white provincial knowledge and problematizes the histories of power that emerged from Europe (Grosfoguel 2016).'
   -
     type: paragraph
     content:
@@ -3261,7 +3865,7 @@ content:
         text: '[23]'
       -
         type: text
-        text: ' According to Walter Mignolo (2013) pluri-versality grounds itself in the idea of inter-connected cosmologies resulting “through and by the colonial matrix of power” (p.2). Coloniality consists of four domains: “control of the economy, control of authority, control of gender and sexuality, and control of subjectivity and knowledge” (Quijano 2007, p.168 - 178). For Ramon Grosfoguel (2008), a pluri-versal world is steeped in inter-cultural dialogue “between diverse critical epistemic/ethical/political projects” (p.1). However, sub-altern epistemologies continue independently of the state’s epistemology of modernity (Mignolo 2013, p.3 & 4).'
+        text: ' According to Walter Mignolo (2013) pluriversality grounds itself in the idea of inter-connected cosmologies resulting “through and by the colonial matrix of power” (p.2). Coloniality consists of four domains: “control of the economy, control of authority, control of gender and sexuality, and control of subjectivity and knowledge” (Quijano 2007, p.168 - 178). For Ramon Grosfoguel (2008), a pluri-versal world is steeped in inter-cultural dialogue “between diverse critical epistemic/ethical/political projects” (p.1). However, sub-altern epistemologies continue independently of the state’s epistemology of modernity (Mignolo 2013, p.3 & 4).'
   -
     type: paragraph
     content:
