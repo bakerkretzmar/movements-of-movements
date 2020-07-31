@@ -1,7 +1,7 @@
 ---
 title: Home
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1595234573
+updated_at: 1596170991
 id: home
 content:
   -
@@ -9,13 +9,7 @@ content:
     content:
       -
         type: text
-        marks:
-          -
-            type: italic
-        text: 'The Movements of Movements'
-      -
-        type: text
-        text: ' website is a companion to the book series, one that adds updates from '
+        text: 'The Movements of Movements website is a companion to the book series featuring updates from '
       -
         type: text
         marks:
@@ -28,7 +22,7 @@ content:
         text: 'the editor'
       -
         type: text
-        text: ' & contributors. Here you may order books, read reviews, learn about related events, '
+        text: ' & contributors. Here you may also order books, read reviews, learn about related events, '
       -
         type: text
         marks:
@@ -41,7 +35,7 @@ content:
         text: 'reach out'
       -
         type: text
-        text: ' to the editor and contributors, arrange related events, and find out about the volumes.  '
+        text: ' to the editor and contributors, and arrange related events.  '
   -
     type: paragraph
     content:
@@ -56,7 +50,7 @@ content:
         text: 'July 24, 2020'
       -
         type: text
-        text: ', (11:00 a.m. US Eastern Daylight Time), we will address the current moment live on '
+        text: ', we reflected the current political moment live on '
       -
         type: text
         marks:
@@ -91,7 +85,20 @@ content:
         text: 'What is the Nature, and Meaning, of Our Current Moment? A Movements of Movements Conversation'
       -
         type: text
-        text: '." Among the confirmed attendees are Johanna Fernandez, Gina Vargas, Laurence Cox, Oussiena Alidou, Michal Osterweil, John Holloway, Eric Mielants, and Rose Brewer. '
+        text: '." '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.youtube.com/watch?v=KLWW2N9rSjs'
+              target: null
+              rel: noopener
+        text: 'Watch the video on YouTube'
+      -
+        type: text
+        text: '. Our next event takes place on Friday, September 4, 2020 (details to follow).'
   -
     type: paragraph
     content:
