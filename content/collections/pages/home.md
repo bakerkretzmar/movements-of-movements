@@ -1,7 +1,7 @@
 ---
 title: Home
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1596170991
+updated_at: 1596225857
 id: home
 content:
   -
@@ -41,16 +41,7 @@ content:
     content:
       -
         type: text
-        text: 'On Friday, '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'July 24, 2020'
-      -
-        type: text
-        text: ', we reflected the current political moment live on '
+        text: 'On Friday, July 24, 2020, we reflected the current political moment live on '
       -
         type: text
         marks:
@@ -98,7 +89,16 @@ content:
         text: 'Watch the video on YouTube'
       -
         type: text
-        text: '. Our next event takes place on Friday, September 4, 2020 (details to follow).'
+        text: '. Our next event takes place on '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Friday, September 4, 2020'
+      -
+        type: text
+        text: ' (details to follow).'
   -
     type: paragraph
     content:
