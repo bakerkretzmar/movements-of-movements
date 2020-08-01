@@ -29,7 +29,12 @@ fields:
       display: Content
       sets:
         media:
-          display: 'Media'
+          display: Media
           fields:
             -
               import: media
+        video_embed:
+          display: 'Video Embed'
+          fields:
+            -
+              import: video_embed

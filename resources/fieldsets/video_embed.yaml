@@ -1,0 +1,18 @@
+title: 'Video Embed'
+fields:
+  -
+    handle: video
+    field:
+      type: video
+      localizable: false
+      listable: hidden
+      display: Video
+      validate: required
+  -
+    handle: caption
+    field:
+      input_type: text
+      type: text
+      localizable: false
+      listable: hidden
+      display: Caption

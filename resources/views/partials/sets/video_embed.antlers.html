@@ -1,0 +1,12 @@
+{{ if video | is_embeddable }}
+    <!-- Youtube and Vimeo -->
+    <div style="position: relative; padding-top: 56.25%;">
+        <iframe allowfullscreen src="{{ video | embed_url }}" class="absolute top-0 left-0 w-full h-full" frameborder="0"></iframe>
+    </div>
+{{ else }}
+    <!-- Other HTML5 video types -->
+    <video src="{{ video | embed_url }}"></video>
+{{ /if }}
+{{ if caption }}
+    <p class="text-base">{{ caption }}</p>
+{{ /if }}
