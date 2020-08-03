@@ -1,7 +1,8 @@
 ---
 title: 'The Nature and Meaning of Our Moment, 7/24/2020'
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1596490634
+updated_at: 1596491389
+cover_image: graphic.png
 id: 2585d30c-40fc-457a-8502-d868a03507c6
 content:
   -
