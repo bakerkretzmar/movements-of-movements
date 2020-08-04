@@ -1,7 +1,7 @@
 ---
 title: Home
-updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1596491734
+updated_by: 5d156462-836a-4acc-b981-891a934b1d86
+updated_at: 1596551367
 id: home
 content:
   -
@@ -9,7 +9,7 @@ content:
     content:
       -
         type: text
-        text: 'On July 24, 2020, we reflected the '
+        text: 'On July 24, 2020, we reflected on the '
       -
         type: text
         marks:
