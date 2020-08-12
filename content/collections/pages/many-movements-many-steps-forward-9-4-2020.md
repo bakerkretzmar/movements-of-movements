@@ -2,7 +2,7 @@
 title: 'Many Movements, Many Steps Forward, 9/4/2020'
 cover_image: pxfuel.com.jpg
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1597197397
+updated_at: 1597199018
 id: 0c035ff3-92e1-4427-86f6-46799617a447
 content:
   -
