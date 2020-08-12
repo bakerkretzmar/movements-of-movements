@@ -2,7 +2,7 @@
 title: 'Many Movements, Many Steps Forward, 9/4/2020'
 cover_image: pxfuel.com.jpg
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1597199018
+updated_at: 1597260740
 id: 0c035ff3-92e1-4427-86f6-46799617a447
 content:
   -
@@ -42,7 +42,35 @@ content:
         text: 'September 4, 2020, 12 noon (Eastern Daylight Time) '
       -
         type: text
-        text: "/ 9:00 a.m. (Pacific) /11:00 a.m. (Central/Mexico City/Lima)/ \_6:00 p.m. (South African Standard Time) / 9:30 p.m. (Indian Standard Time) via Zoom and Facebook Live. Register on Eventbrite."
+        text: "/ 9:00 a.m. (Pacific) /11:00 a.m. (Central/Mexico City/Lima)/ \_6:00 p.m. (South African Standard Time) / 9:30 p.m. (Indian Standard Time) via Zoom and "
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.facebook.com/events/891754114646806/'
+              target: null
+              rel: noopener
+        text: 'Facebook Live'
+      -
+        type: text
+        text: '. '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+          -
+            type: link
+            attrs:
+              href: 'https://www.eventbrite.com/e/many-movements-many-steps-forward-tickets-116686182513'
+              target: null
+              rel: noopener
+        text: 'Register on Eventbrite'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     content:
