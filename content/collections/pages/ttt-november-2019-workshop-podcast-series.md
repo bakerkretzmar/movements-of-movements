@@ -1,7 +1,7 @@
 ---
 title: 'TTT November 2019 Workshop Podcast Series'
-updated_by: f0fb257d-0ea9-4703-bb42-1a4723fa9e2c
-updated_at: 1592680273
+updated_by: 5d156462-836a-4acc-b981-891a934b1d86
+updated_at: 1597270777
 cover_image: chessboard.png
 id: 10358a45-6c06-4ff4-a684-111ea18f3a4b
 content:
@@ -229,6 +229,8 @@ content:
       -
         type: text
         marks:
+          -
+            type: bold
           -
             type: italic
         text: '[To come soon, as soon as facilities re-open :]'
