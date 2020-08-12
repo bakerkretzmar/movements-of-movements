@@ -1,7 +1,7 @@
 ---
 title: Home
-updated_by: 5d156462-836a-4acc-b981-891a934b1d86
-updated_at: 1596551367
+updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
+updated_at: 1597199662
 id: home
 content:
   -
@@ -9,7 +9,7 @@ content:
     content:
       -
         type: text
-        text: 'On July 24, 2020, we reflected on the '
+        text: 'Recently, we reflected on the '
       -
         type: text
         marks:
@@ -22,16 +22,35 @@ content:
         text: 'current political moment'
       -
         type: text
-        text: ' (see video below). Our next event is on '
+        text: ' (see video below). Our next event, '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://movementsofmovements.net/movement-spaces/conversations'
+              target: null
+              rel: noopener
+        text: 'Many Movements, Many Steps Forward'
+      -
+        type: text
+        text: ' takes place on '
       -
         type: text
         marks:
           -
             type: bold
-        text: 'Friday, September 4, 2020'
+        text: 'Friday, September 4, 2020 '
       -
         type: text
-        text: ' (details to follow).'
+        text: '(12 noon Eastern Daylight Time)'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: .
   -
     type: set
     attrs:
