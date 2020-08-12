@@ -1,11 +1,11 @@
 ---
-title: 'TTT November 2019 Workshop Podcast Series'
+title: 'The Turning the Tables Podcast Series'
+author: 'Jai Sen, with Radamis Zaky'
+file_attachment:
+  - 'Jai-Sen,-April-2020---''The-Turning-the-Tables-Podcast-Series''-js220420-rvsd-070620.pdf'
 updated_by: 5d156462-836a-4acc-b981-891a934b1d86
-updated_at: 1597271472
-cover_image: chessboard.png
-documents:
-  - 9bbe44ea-5869-4586-a461-553030af4362
-id: 10358a45-6c06-4ff4-a684-111ea18f3a4b
+updated_at: 1597271408
+id: 9bbe44ea-5869-4586-a461-553030af4362
 content:
   -
     type: heading
@@ -475,10 +475,4 @@ content:
       -
         type: text
         text: ____________________________________________________________________________
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "\_"
 ---
