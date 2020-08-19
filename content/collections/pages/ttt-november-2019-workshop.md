@@ -1,9 +1,11 @@
 ---
 title: 'TTT November 2019 Workshop'
 parent: 87db850f-6a1d-487e-bdf6-728e5cde59d2
-updated_by: f0fb257d-0ea9-4703-bb42-1a4723fa9e2c
-updated_at: 1592680252
+updated_by: 5d156462-836a-4acc-b981-891a934b1d86
+updated_at: 1597854946
 cover_image: chessboard.png
+documents:
+  - 4262fd5a-c696-47ca-afdc-1c08ef36c54f
 id: 97194b01-9799-4112-b9c1-95b103986317
 content:
   -
