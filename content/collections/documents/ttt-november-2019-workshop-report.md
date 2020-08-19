@@ -1,7 +1,7 @@
 ---
 title: 'TTT November 2019 Workshop Report'
 updated_by: 5d156462-836a-4acc-b981-891a934b1d86
-updated_at: 1597856965
+updated_at: 1597857100
 author: 'Sadia M Malik'
 cover_image: chessboard.png
 file_attachment:
@@ -2540,7 +2540,18 @@ content:
     content:
       -
         type: text
-        text: "VII.\_\_\_\_\_ Susan Spronk: Perspectives in and on Latin America"
+        marks:
+          -
+            type: bold
+        text: "VII.\_\_\_\_\_ Susan Spronk: "
+      -
+        type: text
+        marks:
+          -
+            type: bold
+          -
+            type: italic
+        text: 'Perspectives in and on Latin America'
   -
     type: paragraph
     content:
@@ -2584,10 +2595,15 @@ content:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: "VIII.\_\_\_ Rika Mpogazi: "
       -
         type: text
         marks:
+          -
+            type: bold
           -
             type: italic
         text: 'Closing Remarks'
@@ -2677,12 +2693,6 @@ content:
     content:
       -
         type: text
-        text: "\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         marks:
           -
             type: bold
@@ -2702,15 +2712,6 @@ content:
       -
         type: text
         text: ' in Spanish, Ontario. His removal from the community reminds me daily of my own dislocation and precarious relationship with Indigeneity and the lands upon which I reside. On Mohawk land, I am considered an outsider; while, in the traditional territories of other First Nations, I am a stranger or visitor. This makes my relationship to land and Indigeneity extremely complicated. This lived experience is what drives me to work on reconciliation, Indigenous land-related and resource extraction issues in the Canadian settler-colonial context.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: "\_"
   -
     type: paragraph
     content:
@@ -2744,12 +2745,6 @@ content:
       -
         type: text
         text: "According to Grande (2015), the “colonialist consciousness” also relies on technological advancements as the way of solving all problems, which is linked to the idea of “progress as change and change as progress” (p. 99). There is also a belief that each person has a right to make their own personal choice (either/or thinking) as opposed to the notion of collectivism (p. 99).\_ Finally, scientists – including social scientists - see themselves see themselves as separate from nature; thus, nature becomes the object of study. Scientific thinking consists of analytical, materialist, objective and quantitative approaches grounded in academic writing and scientific experiments (p.99). This ideology separates spirituality from reasoning (p.99). For most people, this dominant perspective is what we know, live with and tend not to question."
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "\_"
   -
     type: paragraph
     content:
