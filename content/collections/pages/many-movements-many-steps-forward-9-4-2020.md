@@ -2,7 +2,7 @@
 title: 'Many Movements, Many Steps Forward, 9/4/2020'
 cover_image: ezgif.com-optimize.gif
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1599854977
+updated_at: 1599855404
 id: 0c035ff3-92e1-4427-86f6-46799617a447
 content:
   -
@@ -10,7 +10,20 @@ content:
     content:
       -
         type: text
-        text: 'ORIGINAL ANNOUNCEMENT BELOW - CLICK HERE FOR THE EVENT VIDEO AND RESOURCES '
+        text: 'ORIGINAL ANNOUNCEMENT BELOW - '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://movementsofmovements.net/movement-spaces/conversations/many-movements-many-steps-forward-9-4-2020/event-video-and-resources'
+              target: null
+              rel: noopener
+        text: 'CLICK HERE FOR THE EVENT VIDEO AND RESOURCES'
+      -
+        type: text
+        text: ' '
   -
     type: heading
     attrs:
@@ -36,7 +49,7 @@ content:
     content:
       -
         type: text
-        text: 'Moderated by Matt Meyer and Magdalene Moonsamy [TBC]'
+        text: 'Moderated by Matt Meyer and Magdalene Moonsamy'
   -
     type: paragraph
     content:
