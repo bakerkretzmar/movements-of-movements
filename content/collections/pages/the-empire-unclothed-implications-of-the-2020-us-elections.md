@@ -2,7 +2,7 @@
 title: 'The Empire Unclothed: Implications of the 2020 US Elections for Humanity and Mother Earth, 10/16/20'
 parent: 98465417-8e52-4dec-82bc-2e45d50c9bc9
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1601927896
+updated_at: 1601928158
 cover_image: elections.png
 id: 40eb6190-a0ec-4296-8aa6-d4261b4f7d22
 content:
@@ -23,7 +23,7 @@ content:
     content:
       -
         type: text
-        text: 'It is often said, in relation to elections taking place in the US, that “The whole world is watching." This is perhaps never more so however, than this year, in November 2020. This is the case for many reasons, some more obvious than others, but most attributable to or consequent on the fact that the US is the most powerful imperial power. This time, it’s also a function of having a person as president who has swung the country and its politics to the extreme right and normalized a political culture of deceit, manipulation, and abuse – and which is resonating with similar tendencies that have arisen across the world, and especially in sub-imperial powers, as one outcome among many, of neoliberalism. '
+        text: 'It is often said, in relation to elections taking place in the US, that “The whole world is watching." This is perhaps never more so however than this year, in November 2020. This is the case for many reasons, some more obvious than others, but most attributable to or consequent on the fact that the US is the most powerful imperial power. This time, it’s also a function of having a person as president who has swung the country and its politics to the extreme right and normalized a political culture of deceit, manipulation, and abuse – and which is resonating with similar tendencies that have arisen across the world, and especially in sub-imperial powers, as one outcome among many, of neoliberalism. '
   -
     type: paragraph
     content:
