@@ -2,7 +2,7 @@
 title: 'The Empire Unclothed: Implications of the 2020 US Elections, 10/16/20'
 parent: 98465417-8e52-4dec-82bc-2e45d50c9bc9
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1601919565
+updated_at: 1601919614
 cover_image: 2020-10-05-(2)-1601919456.png
 id: 40eb6190-a0ec-4296-8aa6-d4261b4f7d22
 content:
@@ -14,7 +14,10 @@ content:
         marks:
           -
             type: bold
-        text: 'Walden Bello, Mama Charlotte, Kolya Abramsky, & Marie Cruz Soto speak to the US Elections and their implications for humanity & Mother Earth'
+        text: 'Walden Bello, Mama Charlotte, Kolya Abramsky, & Marie Cruz Soto speak to the US Elections and their implications for humanity & Mother Earth '
+      -
+        type: text
+        text: '(speaker bios coming soon)'
   -
     type: paragraph
     content:
