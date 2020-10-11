@@ -2,7 +2,7 @@
 title: 'The Empire Unclothed: Implications of the 2020 US Elections for Humanity and Mother Earth, 10/16/20'
 parent: 98465417-8e52-4dec-82bc-2e45d50c9bc9
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1602390979
+updated_at: 1602392423
 cover_image: elections.png
 documents:
   - 58509603-8185-4c3a-bc28-7c929f07202f
@@ -50,7 +50,7 @@ content:
     content:
       -
         type: text
-        text: 'Strategic analysis which centers the building of exchange between people’s movements is the core of Movements of Movements process – of its books, website, and web event series. The Movements of Movements Conversations is therefore now looking to activist thinkers from across the world and their readings of the implications of the US elections, the first on October 16, 2020, before the elections, and the second on November 20, 2020, immediately after the elections. Our objective is to critically discuss the nature and meanings of the US elections this year, and of their implications for the peoples of the US, for the peoples of the world--both colonized and free--and for life on Mother Earth. These combined web dialogues will together chart the Movements of Movements as peoples around the world envision and work towards new realities and liberation.'
+        text: 'A strategic analysis that centers the building of exchang0es between people’s movements is the core of Movements of Movements process – of its books, website, and web event series. The Movements of Movements Conversations is therefore now looking to activist thinkers from across the world and their readings of the implications of the US elections, the first on October 16, 2020, before the elections, and the second on November 20, 2020, immediately after the elections. Our objective is to critically discuss the nature and meanings of the US elections this year, and of their implications for the peoples of the US, for the peoples of the world--both colonized and free--and for life on Mother Earth. These combined web dialogues will together chart the Movements of Movements as peoples around the world envision and work towards new realities and liberation.'
   -
     type: paragraph
     content:
