@@ -1,7 +1,7 @@
 ---
 title: 'Empire Unclothed, Speaker Bios'
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1602390450
+updated_at: 1602421199
 cover_image: microphone-2316268_1280.jpg
 id: 58509603-8185-4c3a-bc28-7c929f07202f
 content:
@@ -82,16 +82,27 @@ content:
     content:
       -
         type: text
-        text: 'Kolya Abramsky is a project archivist at the George Padmore Institute archive in London, where he is responsible for cataloging the John La Rose’s personal archive relating to the Oilfields Workers’ Trade Union of Trinidad and Tobago.  He is a member of the International Council on Archives and of the Archives and Records Association. He spent more than 15 years as a researcher, organizer, and educator on different social, political, and economic aspects of the global energy sector.  Formerly, he was the International Energy Officer for the National Union of Metalworkers of South Africa; coordinator of the World Wind Energy Institute, based in Denmark; a Visiting International Scholar and Winner of the Manfred-Heindler Award for Energy and Climate Change Research at the Institute of Advanced Studies in Science, Technology and Society in Graz, Austria. Together with the NGO Focus on the Global South, he produced the website Understanding China’s Energy Landscape: Achievements, Challenges and Conflicts - Past, Present, Future. He has edited the book: '
+        text: 'Kolya Abramsky is an archivist at the George Padmore Institute archive in London, where he is responsible for cataloging the late John La Rose’s personal archive relating to the Oilfields Workers’ Trade Union of Trinidad and Tobago. He is interested in the struggle over memory, and the importance of preserving and recuperating historical memory for emancipatory politics today. He moved into archival work following more than 15 years as an organizer, educator, and researcher, on different social, political, and economic aspects of the global energy sector. He was very active with different global anti-capitalist networks and processes from the late 1990s-mid-2000s. In his work on energy, he was, formerly, the International Energy Officer for the National Union of Metalworkers of South Africa; coordinator of the World Wind Energy Institute, based in Denmark; a Visiting International Scholar and Winner of the Manfred-Heindler Award for Energy and Climate Change Research at the Institute of Advanced Studies in Science, Technology and Society in Graz, Austria. Together with the NGO Focus on the Global South, he produced the website Understanding China’s Energy Landscape: Achievements, Challenges and Conflicts - Past, Present, Future. He has edited two books: '
       -
         type: text
         marks:
           -
             type: italic
-        text: 'Sparking a World Wide Energy Revolution: Social Struggles in the Transition to a Post-Petrol World'
+        text: 'Sparking a Worldwide Energy Revolution: Social Struggles in the Transition to a Post-Petrol World'
       -
         type: text
-        text: ', as well as a book on European integration. He holds an MA in Archives and Records Management from the Department of Information Studies University College London, and an MA in Historical Sociology from the State University of New York, Binghamton.'
+        text: ', and '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Restructuring and Resistance – Diverse Voices of Struggle in Western Europe'
+      -
+        type: text
+        text: .
+      -
+        type: hard_break
   -
     type: heading
     attrs:
