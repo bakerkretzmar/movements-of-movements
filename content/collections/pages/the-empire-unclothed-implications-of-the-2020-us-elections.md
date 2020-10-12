@@ -2,7 +2,7 @@
 title: 'The Empire Unclothed: Implications of the 2020 US Elections for Humanity and Mother Earth'
 parent: 98465417-8e52-4dec-82bc-2e45d50c9bc9
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1602530402
+updated_at: 1602530619
 cover_image: elections.png
 documents:
   - 58509603-8185-4c3a-bc28-7c929f07202f
@@ -11,7 +11,7 @@ content:
   -
     type: heading
     attrs:
-      level: 3
+      level: 2
     content:
       -
         type: text
@@ -46,6 +46,14 @@ content:
           -
             type: bold
         text: 'PART ONE OF TWO (OCTOBER 26, 2020, 11:00 A.M. US/CANADA EASTERN DAYLIGHT TIME)'
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'PART TWO OF TWO (NOVEMBER 20, 2020, 11:00 A.M. US/CANADA EASTERN STANDARD TIME) SPEAKER LIST TO FOLLOW'
   -
     type: paragraph
     content:
