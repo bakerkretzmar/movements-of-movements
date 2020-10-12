@@ -1,7 +1,7 @@
 ---
 title: Home
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1601057641
+updated_at: 1602463465
 id: home
 content:
   -
@@ -35,7 +35,20 @@ content:
         text: 'Many Movements, Many Steps Forward'
       -
         type: text
-        text: ' (9/4/2020). Our next conversation, on 10/16/2020, will look at the US elections from a global perspective (announcement to follow). '
+        text: '.. Our next conversation, on 10/16/2020, will look at the US elections from a global perspective: '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://movementsofmovements.net/movement-spaces/conversations/the-empire-unclothed-implications-of-the-2020-us-elections'
+              target: null
+              rel: noopener
+        text: 'The Empire Unclothed: Implications of the 2020 Elections for Humanity and Mother Earth'
+      -
+        type: text
+        text: ' featuring Kolya Abramsky, Walden Bello, Mama Charlotte O''Neal, and Marie Cruz Soto. '
   -
     type: set
     attrs:
