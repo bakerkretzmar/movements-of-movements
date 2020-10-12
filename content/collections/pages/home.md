@@ -1,7 +1,7 @@
 ---
 title: Home
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1602463465
+updated_at: 1602529773
 id: home
 content:
   -
@@ -48,7 +48,43 @@ content:
         text: 'The Empire Unclothed: Implications of the 2020 Elections for Humanity and Mother Earth'
       -
         type: text
-        text: ' featuring Kolya Abramsky, Walden Bello, Mama Charlotte O''Neal, and Marie Cruz Soto. '
+        text: ' featuring '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Kolya Abramsky'
+      -
+        type: text
+        text: ', '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Walden Bello'
+      -
+        type: text
+        text: ', '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Mama Charlotte O''Neal'
+      -
+        type: text
+        text: ', and '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Marie Cruz Soto'
+      -
+        type: text
+        text: '. '
   -
     type: set
     attrs:
