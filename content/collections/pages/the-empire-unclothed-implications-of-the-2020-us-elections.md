@@ -2,7 +2,7 @@
 title: 'The Empire Unclothed: Implications of the 2020 US Elections for Humanity and Mother Earth'
 parent: 98465417-8e52-4dec-82bc-2e45d50c9bc9
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1602540326
+updated_at: 1603054136
 cover_image: elections.png
 documents:
   - 58509603-8185-4c3a-bc28-7c929f07202f
@@ -35,6 +35,17 @@ content:
       -
         type: text
         text: )
+  -
+    type: paragraph
+  -
+    type: set
+    attrs:
+      values:
+        type: video_embed
+        video: 'https://youtu.be/AeLguhwR4yc'
+        caption: null
+  -
+    type: paragraph
   -
     type: heading
     attrs:
