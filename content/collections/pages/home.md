@@ -1,7 +1,7 @@
 ---
 title: Home
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1605205887
+updated_at: 1605212061
 id: home
 content:
   -
@@ -36,7 +36,7 @@ content:
         text: 'Ana Silvia Monzon'
       -
         type: text
-        text: '. It follows our third Movements of Movements Conversation (10/16/20) that shares its title and addressed the global context and challenges posed by the ongoing US elections. '
+        text: '. It follows our third Movements of Movements Conversation (10/16/20) that shares its title and addressed the global context and challenges posed by the recently concluded US elections. '
       -
         type: text
         marks:
