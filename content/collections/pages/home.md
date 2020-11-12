@@ -1,7 +1,7 @@
 ---
 title: Home
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1603054049
+updated_at: 1605203142
 id: home
 content:
   -
@@ -9,7 +9,34 @@ content:
     content:
       -
         type: text
-        text: 'Our third Movements of Movements Conversation (10/16/20) addressed the global context and challenges posed by the ongoing US elections. '
+        text: 'What are we to make of the U.S. elections? Our fourth Movements of Movements Conversation (11/20/20) explores this topic with '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Patrick Bond'
+      -
+        type: text
+        text: ', '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Rose Brewer'
+      -
+        type: text
+        text: ', and '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Ana Silvia Monzon'
+      -
+        type: text
+        text: '. It follows our third Movements of Movements Conversation (10/16/20) that shares its title and addressed the global context and challenges posed by the ongoing US elections. '
       -
         type: text
         marks:
