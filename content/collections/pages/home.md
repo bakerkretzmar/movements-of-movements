@@ -1,7 +1,7 @@
 ---
 title: Home
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1605212061
+updated_at: 1605813592
 id: home
 content:
   -
@@ -9,34 +9,56 @@ content:
     content:
       -
         type: text
-        text: 'What are we to make of the U.S. elections? Our fourth Movements of Movements Conversation (11/20/20) explores this topic with '
+        text: 'What are we to make of the U.S. elections? Our '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://movementsofmovements.net/movement-spaces/conversations/the-empire-unclothed-implications-of-the-2020-us-elections-for-humanity-and-mother-earth-part-2'
+              target: null
+              rel: noopener
+        text: 'fourth Movements of Movements Conversation (11/20/20)'
+      -
+        type: text
+        text: ' explores this topic with '
       -
         type: text
         marks:
           -
             type: bold
-        text: 'Patrick Bond'
+        text: 'Patrick Bond '
       -
         type: text
-        text: ', '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Rose Brewer'
-      -
-        type: text
-        text: ', and '
+        text: '(South Africa), '
       -
         type: text
         marks:
           -
             type: bold
-        text: 'Ana Silvia Monzon'
+        text: 'Rose Brewer '
       -
         type: text
-        text: '. It follows our third Movements of Movements Conversation (10/16/20) that shares its title and addressed the global context and challenges posed by the recently concluded US elections. '
+        text: '(US), '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Sahar Francis '
+      -
+        type: text
+        text: '(Palestine), and '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Ana Silvia Monzon '
+      -
+        type: text
+        text: '(Guatemala). It follows our third Movements of Movements Conversation (10/16/20) that shares its title and addressed the global context and challenges posed by the recently concluded US elections. '
       -
         type: text
         marks:
