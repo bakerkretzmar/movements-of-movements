@@ -3,7 +3,7 @@ title: 'The Empire Unclothed: Implications of the 2020 US Elections for Humanity
 cover_image: vlad-tchompalov-gzVgFhovsP0-unsplash-1605204189.jpg
 parent: 98465417-8e52-4dec-82bc-2e45d50c9bc9
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1605814106
+updated_at: 1605815285
 id: f96a9488-9ca1-46e6-b188-4f8ab37ce175
 content:
   -
@@ -68,7 +68,13 @@ content:
         text: 'Ana Silvia Monzon '
       -
         type: text
-        text: '(Guatemala) to understand the global implications of the recent U.S. elections. [Join the event via '
+        text: '(Guatemala) to understand the global implications of the recent U.S. elections. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '[Join the event via '
       -
         type: text
         marks:
@@ -81,7 +87,20 @@ content:
         text: Facebook
       -
         type: text
-        text: ' or Zoom]'
+        text: ' or '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://us02web.zoom.us/j/85609746786'
+              target: null
+              rel: noopener
+        text: Zoom
+      -
+        type: text
+        text: ']'
   -
     type: paragraph
     content:
