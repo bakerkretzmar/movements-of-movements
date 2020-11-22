@@ -1,7 +1,7 @@
 ---
 title: Home
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1605814047
+updated_at: 1606066091
 id: home
 content:
   -
@@ -22,7 +22,7 @@ content:
         text: 'fourth Movements of Movements Conversation (11/20/20)'
       -
         type: text
-        text: ' explores this topic with '
+        text: ' explored this topic with '
       -
         type: text
         marks:
@@ -58,7 +58,7 @@ content:
         text: 'Ana Silvia Monzon '
       -
         type: text
-        text: '(Guatemala). It follows our third Movements of Movements Conversation (10/16/20) that shares its title and addressed the global context and challenges posed by the recently concluded US elections. '
+        text: '(Guatemala), "The Empire Unclothed: Implications of the 2020 US Elections for Humanity and Mother Earth, Part 2." It followed our third Movements of Movements Conversation (10/16/20) that shares its title and addressed the global context and challenges posed by the US elections. '
       -
         type: text
         marks:
@@ -68,7 +68,7 @@ content:
               href: 'https://movementsofmovements.net/movement-spaces/conversations/the-empire-unclothed-implications-of-the-2020-us-elections'
               target: null
               rel: noopener
-        text: 'The Empire Unclothed: Implications of the 2020 Elections for Humanity and Mother Earth'
+        text: 'Part One'
       -
         type: text
         text: ' featured '
@@ -120,13 +120,13 @@ content:
         text: 'Many Movements, Many Steps Forward'
       -
         type: text
-        text: ' conversation (9/4/20). Our next conversation, on 11/20/2020, will look at the outcomes of US elections, also from a global perspective.'
+        text: ' conversation (9/4/20). '
   -
     type: set
     attrs:
       values:
         type: video_embed
-        video: 'https://youtu.be/AeLguhwR4yc'
+        video: 'https://youtu.be/yeKA3Ljq0mQ'
         caption: 'Many Movements, Many Steps Forward, 9/4/2020'
   -
     type: paragraph
