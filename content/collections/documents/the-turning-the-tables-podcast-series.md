@@ -4,7 +4,7 @@ author: 'Jai Sen, with Radamis Zaky'
 file_attachment:
   - 'Jai-Sen,-April-2020---''The-Turning-the-Tables-Podcast-Series''-js220420-rvsd-070620.pdf'
 updated_by: 5d156462-836a-4acc-b981-891a934b1d86
-updated_at: 1607723897
+updated_at: 1607724263
 id: 9bbe44ea-5869-4586-a461-553030af4362
 content:
   -
