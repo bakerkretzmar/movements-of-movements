@@ -1,7 +1,7 @@
 ---
 title: Home
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1606066091
+updated_at: 1650388253
 id: home
 content:
   -
@@ -9,125 +9,14 @@ content:
     content:
       -
         type: text
-        text: 'What are we to make of the U.S. elections? Our '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://movementsofmovements.net/movement-spaces/conversations/the-empire-unclothed-implications-of-the-2020-us-elections-for-humanity-and-mother-earth-part-2'
-              target: null
-              rel: noopener
-        text: 'fourth Movements of Movements Conversation (11/20/20)'
-      -
-        type: text
-        text: ' explored this topic with '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Patrick Bond '
-      -
-        type: text
-        text: '(South Africa), '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Rose Brewer '
-      -
-        type: text
-        text: '(US), '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Sahar Francis '
-      -
-        type: text
-        text: '(Palestine), and '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Ana Silvia Monzon '
-      -
-        type: text
-        text: '(Guatemala), "The Empire Unclothed: Implications of the 2020 US Elections for Humanity and Mother Earth, Part 2." It followed our third Movements of Movements Conversation (10/16/20) that shares its title and addressed the global context and challenges posed by the US elections. '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://movementsofmovements.net/movement-spaces/conversations/the-empire-unclothed-implications-of-the-2020-us-elections'
-              target: null
-              rel: noopener
-        text: 'Part One'
-      -
-        type: text
-        text: ' featured '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Kolya Abramsky'
-      -
-        type: text
-        text: ', '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Walden Bello'
-      -
-        type: text
-        text: ', '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Charlotte Hill O''Neal aka Mama C'
-      -
-        type: text
-        text: ', and '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Marie Cruz Soto'
-      -
-        type: text
-        text: '. It follows our '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://movementsofmovements.net/movement-spaces/conversations'
-              target: null
-              rel: noopener
-        text: 'Many Movements, Many Steps Forward'
-      -
-        type: text
-        text: ' conversation (9/4/20). '
+        text: 'The Movements of Movements Conversations have been continuing in several places, some more focused on organizational matters and others more outwardly looking to address new movements and developments. We will be updating this website as further public conversations occur.'
   -
     type: set
     attrs:
       values:
         type: video_embed
-        video: 'https://youtu.be/yeKA3Ljq0mQ'
-        caption: 'Many Movements, Many Steps Forward, 9/4/2020'
+        video: 'https://youtu.be/Y5iris3mXxY'
+        caption: 'Chile, Social Movements and the Future of the Left'
   -
     type: paragraph
     content:
