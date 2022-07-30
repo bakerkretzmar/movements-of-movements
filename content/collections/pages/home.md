@@ -1,7 +1,7 @@
 ---
 title: Home
 updated_by: aa42db52-fe4d-4c2d-95a6-de6a3b43d0eb
-updated_at: 1597199662
+updated_at: 1650388253
 id: home
 content:
   -
@@ -9,55 +9,14 @@ content:
     content:
       -
         type: text
-        text: 'Recently, we reflected on the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://movementsofmovements.net/movement-spaces/conversations/the-nature-and-meaning-of-our-moment-7-24-2020'
-              target: null
-              rel: noopener
-        text: 'current political moment'
-      -
-        type: text
-        text: ' (see video below). Our next event, '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://movementsofmovements.net/movement-spaces/conversations'
-              target: null
-              rel: noopener
-        text: 'Many Movements, Many Steps Forward'
-      -
-        type: text
-        text: ' takes place on '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Friday, September 4, 2020 '
-      -
-        type: text
-        text: '(12 noon Eastern Daylight Time)'
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: .
+        text: 'The Movements of Movements Conversations have been continuing in several places, some more focused on organizational matters and others more outwardly looking to address new movements and developments. We will be updating this website as further public conversations occur.'
   -
     type: set
     attrs:
       values:
         type: video_embed
-        video: 'https://youtu.be/KLWW2N9rSjs'
-        caption: 'What is the Nature of, and Meaning, of Our Moment (YouTube)'
+        video: 'https://youtu.be/Y5iris3mXxY'
+        caption: 'Chile, Social Movements and the Future of the Left'
   -
     type: paragraph
     content:
@@ -66,7 +25,7 @@ content:
         marks:
           -
             type: italic
-        text: 'The Movements of Movements website is a companion to the book series featuring updates from '
+        text: 'The Movements of Movements website is a companion to the book series. It includes updates from '
       -
         type: text
         marks:
@@ -84,7 +43,7 @@ content:
         marks:
           -
             type: italic
-        text: ' & contributors. Here you may also order books, read reviews, learn about related events, '
+        text: ' & contributors. You may also order books, read reviews, learn about continuing conversations, as well as '
       -
         type: text
         marks:
@@ -102,7 +61,7 @@ content:
         marks:
           -
             type: italic
-        text: ' to the editor and contributors, and arrange related events. This site is always going to be work-in-progress and is still under construction. '
+        text: ' to the editor and contributors. This site is always going to be work-in-progress and is still under construction. '
   -
     type: paragraph
 ---
